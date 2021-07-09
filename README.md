@@ -1,2 +1,2 @@
 # fukuro-storage
-Storage for webchat: ********.**
+Storage for webchat: ********
