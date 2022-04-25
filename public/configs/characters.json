@@ -799,8 +799,9 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_3_sport2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_3_swim2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_3_dress.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_3_nightdress.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/mt/mt_3_dress2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_3_nightdress.png"
+      "NONE"
     ],
     "offset": "50% 24%",
     "accessories": [
@@ -2627,7 +2628,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/forest1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/od_coat1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/rushirt1.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/shirt1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/shirt1.png",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -2663,7 +2665,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/forest2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/od_coat2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/rushirt2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/shirt2.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/shirt2.png",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -2705,7 +2708,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/forest3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/od_coat3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/rushirt3.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/shirt3.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/shirt3.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/swim3.png"
     ],
     "offset": "50% 30%",
     "accessories": [
