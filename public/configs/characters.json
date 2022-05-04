@@ -1197,7 +1197,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi2/osd_pi_normal_mute.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi2/osd_pi_normal1_dark.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi2/osd_pi_normal_white.png",
-      "NONE"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi2/osd_pi_normal_hoody.png"
     ],
     "offset": "50% 18%",
     "accessories": [ 
@@ -1222,7 +1222,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/sm/sm_2_pioneer.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/sm/sm_2_shirt_dark.png",
       "NONE",
-      "NONE"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/sm/sm_2_hoody.png"
     ],
     "offset": "50% 18%",
     "accessories": [ 
