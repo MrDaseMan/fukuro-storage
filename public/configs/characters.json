@@ -3712,6 +3712,7 @@
     "clothes": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_2_pioneer.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_2_dark_pioneer.png",
+      "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_2_swimsuit.png"
     ],
     "offset": "50% 35%",
@@ -3733,7 +3734,9 @@
     ],
     "clothes": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_1_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_1_dark_pioneer.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_1_casual.png",
+"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_1_dark_pioneer.png",
+      "NONE"
     ],
     "offset": "50% 35%",
     "accessories": [ 
@@ -3758,6 +3761,7 @@
     "clothes": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_3_pioneer.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_3_dark_pioneer.png",
+      "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_3_swimsuit.png"
     ],
     "offset": "50% 35%",
@@ -3776,6 +3780,8 @@
     "clothes": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_4_pioneer.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_4_dark_pioneer.png"
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 35%",
     "accessories": [ 
