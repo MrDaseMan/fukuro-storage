@@ -6104,6 +6104,48 @@
     ]
   },
   {
+    "name": "Теория мультивселенной Elli",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "emotions" :
+    [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_anger_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_normal_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_cry_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_shocked_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_shy_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_smile_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_surprise_pioneer.png"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "52% 25%",
+    "accessories": [ 
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Теория мультивселенной Elli",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "emotions" :
+    [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_anger.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_cry.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_shocked.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_shy.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_smile.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Multiuniversity_theory/Elli/kare/elli_kare_surprise.png"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "52% 25%",
+    "accessories": [ 
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Теория мультивселенной vst",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
