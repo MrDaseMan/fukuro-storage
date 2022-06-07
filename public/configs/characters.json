@@ -1,6 +1,7 @@
 [
   {
     "name": "Виола",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_normal.png",
@@ -41,6 +42,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_3_shy.png",
@@ -79,6 +81,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_2_grin.png"
@@ -110,6 +113,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_1_surprise.png",
@@ -146,6 +150,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_4_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_4_laugh.png",
@@ -184,6 +189,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_5_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_5_angry.png",
@@ -216,6 +222,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_3_hairstyle1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_3_shy_hairstyle1.png",
@@ -254,6 +261,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_2_hairstyle1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_2_grin_hairstyle1.png"
@@ -285,6 +293,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_1_hairstyle1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_1_surprise_hairstyle1.png",
@@ -321,6 +330,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_4_hairstyle1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_4_laugh_hairstyle1.png",
@@ -359,6 +369,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_5_hairstyle1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_5_angry_hairstyle1.png",
@@ -391,6 +402,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/dvn/6/dvn_6_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/dv/dv_3_guilty.png",
@@ -429,6 +441,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/dvn/8/dvn_8_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/dvn/8/emo/dvn_8_surprise.png",
@@ -465,6 +478,7 @@
   },
   {
     "name": "Алиса",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/dvn/7/dvn_7_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/dvn/7/emo/dv_7_laugh_new.png",
@@ -503,6 +517,7 @@
   },
   {
     "name": "Маленькая Алиса",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/dvk/dvk_1_body.png",
     "emotions" :
     [
@@ -522,6 +537,7 @@
   },
   {
     "name": "Маленькая Алиса",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/dvk/dvk_2_body.png",
     "emotions" :
     [
@@ -536,6 +552,7 @@
   },
   {
     "name": "Маленькая Алиса",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/dvk/dvk_3_body.png",
     "emotions" :
     [
@@ -553,6 +570,7 @@
   },
   {
     "name": "Электроник",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_grin.png",
@@ -579,6 +597,7 @@
   },
   {
     "name": "Электроник",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_fingal.png",
@@ -602,6 +621,7 @@
   },
   {
     "name": "Электроник",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_angry.png",
@@ -622,6 +642,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_normal.png",
@@ -652,6 +673,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_laugh.png",
@@ -683,6 +705,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_cry_smile.png",
@@ -713,6 +736,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_body_loo.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_normal.png",
@@ -743,6 +767,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_body_loo.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_laugh.png",
@@ -777,6 +802,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_body_loo.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_cry_smile.png",
@@ -807,6 +833,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_panties_yukata_hair.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_normal.png",
@@ -837,6 +864,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_panties_yukata_hair.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_laugh.png",
@@ -868,6 +896,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_panties_yukata_hair.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_cry_smile.png",
@@ -898,6 +927,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_normal.png",
@@ -928,6 +958,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_laugh.png",
@@ -959,6 +990,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_cry_smile.png",
@@ -989,6 +1021,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/min/4/min_4_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_3_normal.png",
@@ -1019,6 +1052,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/min/1/min_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_1_laugh.png",
@@ -1050,6 +1084,7 @@
   },
   {
     "name": "Мику",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/min/5/min_5_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mi/mi_2_cry_smile.png",
@@ -1080,6 +1115,7 @@
   },
   {
     "name": "Ольга Дмитриевна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_1_normal.png",
@@ -1106,6 +1142,7 @@
   },
   {
     "name": "Ольга Дмитриевна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_2_angry.png",
@@ -1130,6 +1167,7 @@
   },
   {
     "name": "Ольга Дмитриевна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mt/mt_3_grin.png",
@@ -1159,6 +1197,7 @@
   },
   {
     "name": "Женя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mz/mz_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mz/mz_1_normal.png",
@@ -1191,6 +1230,7 @@
   },
   {
     "name": "Женя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mz/mz_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mz/mz_2_angry.png",
@@ -1219,6 +1259,7 @@
   },
   {
     "name": "Женя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mz/mz_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mz/mz_3_confused.png",
@@ -1248,6 +1289,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi1/pioner_new_normal_em.png",
@@ -1271,6 +1313,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi2/osd_pi_normal1_em.png",
@@ -1290,6 +1333,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_9.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/sm/sm_2_normal.png",
@@ -1315,6 +1359,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_em.png"
@@ -1333,6 +1378,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi4/osd_hall_pos2_normal_em.png",
@@ -1354,6 +1400,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_5.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi5/osd_nit_bulging2_l_em.png",
@@ -1374,6 +1421,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_6.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi6/osd_nit_bulging3_r_em.png",
@@ -1396,6 +1444,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_7.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi6/osd_nit_bulging3_r_em.png",
@@ -1418,6 +1467,7 @@
   },
   {
     "name": "Пионер",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_8.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/pi/pi7/osd_nit_normal_l_em.png"
@@ -1436,6 +1486,7 @@
   },
   {
     "name": "Шурик",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sh/sh_1_smile.png",
@@ -1458,6 +1509,7 @@
   },
   {
     "name": "Шурик",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sh/sh_2_cry.png",
@@ -1480,6 +1532,7 @@
   },
   {
     "name": "Шурик",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sh/sh_3_normal.png",
@@ -1500,6 +1553,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_1_normal.png",
@@ -1525,6 +1579,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_1_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_1_normal.png",
@@ -1550,6 +1605,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_1_body3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_1_normal.png",
@@ -1575,6 +1631,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_2_evsmile.png",
@@ -1599,6 +1656,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_2_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_2_evsmile.png",
@@ -1623,6 +1681,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_3_angry.png",
@@ -1653,6 +1712,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_3_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_3_angry.png",
@@ -1683,6 +1743,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_3_body3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_3_angry.png",
@@ -1713,6 +1774,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_4_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_4_tender.png",
@@ -1736,6 +1798,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_4_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_4_tender.png",
@@ -1758,6 +1821,7 @@
   },
   {
     "name": "Славя",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_4_body3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sl/sl_4_tender.png",
@@ -1781,6 +1845,7 @@
   },
   {
     "name": "Лена",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_1_normal.png",
@@ -1812,6 +1877,7 @@
   },
   {
     "name": "Лена",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_2_surprise.png",
@@ -1842,6 +1908,7 @@
   },
   {
     "name": "Лена",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_3_smile3.png",
@@ -1875,6 +1942,7 @@
   },
   {
     "name": "Лена",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/un/un_1_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_1_normal.png",
@@ -1906,6 +1974,7 @@
   },
   {
     "name": "Лена",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/un/un_2_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_2_surprise.png",
@@ -1936,6 +2005,7 @@
   },
   {
     "name": "Лена",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/un/un_3_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/un/un_3_smile3.png",
@@ -1969,6 +2039,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_1_smile.png",
@@ -1995,6 +2066,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_1_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_1_smile.png",
@@ -2022,6 +2094,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_2_angry.png",
@@ -2044,6 +2117,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_2_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_2_angry.png",
@@ -2066,6 +2140,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_3_surp1.png",
@@ -2091,6 +2166,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_3_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_3_surp1.png",
@@ -2116,6 +2192,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/us/us_1_body3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_1_smile.png",
@@ -2143,6 +2220,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/us/us_2_body3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_2_angry.png",
@@ -2165,6 +2243,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/us/us_3_body3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_3_surp1.png",
@@ -2190,6 +2269,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/us/us_1_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_1_smile.png",
@@ -2217,6 +2297,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/us/us_2_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_2_angry.png",
@@ -2239,6 +2320,7 @@
   },
   {
     "name": "Ульяна",
+	"modification": "Бесконечное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/us/us_3_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/us/us_3_surp1.png",
@@ -2264,6 +2346,7 @@
   },
   {
     "name": "Дубликат взрослая Ульянка",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_us/d_us_body_upd.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_us/d_us_normal_upd.png",
@@ -2286,6 +2369,7 @@
   },
   {
     "name": "Юля",
+	"modification": "В погоне за хвостиком",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Tale_runner/uvao_px/tel_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/uv/uv_1_pidontlike.png",
@@ -2312,6 +2396,7 @@
   },
   {
     "name": "Юля",
+	"modification": "В погоне за хвостиком",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Tale_runner/uvao_px/tel_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/uv/uv_2_pinormal.png",
@@ -2334,6 +2419,7 @@
   },
   {
     "name": "Юля",
+	"modification": "В погоне за хвостиком",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Tale_runner/uvao_px/tel_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/uv/uv_3_pigrin.png",
@@ -2358,6 +2444,7 @@
   },
   {
     "name": "Юля",
+	"modification": "В погоне за хвостиком",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Tale_runner/uvao_px/tel_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/uv/uv_4_piguilty.png",
@@ -2384,6 +2471,7 @@
 
   {
     "name": "Анома-тян",
+	"modification": "Титанобоа",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Anomaly/emo/emo3_surprised.png",
@@ -2400,6 +2488,7 @@
   },
   {
     "name": "Анома-тян",
+	"modification": "Титанобоа",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Anomaly/emo/emo1_closed.png",
@@ -2416,6 +2505,7 @@
   },
   {
     "name": "Анома-тян",
+	"modification": "Титанобоа",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Anomaly/emo/emo2_angry.png",
@@ -2433,6 +2523,7 @@
 
   {
     "name": "Ярослав",
+	"modification": "Возвращение Семёна или Орден Совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Owl_Orden/iar/iar1_pioneer_angry.png",
@@ -2452,6 +2543,7 @@
   },
   {
     "name": "Ярослав",
+	"modification": "Возвращение Семёна или Орден Совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Owl_Orden/iar/iar2_pioneer_angry.png",
@@ -2471,6 +2563,7 @@
   },
   {
     "name": "Мисато",
+	"modification": "Возвращение Семёна или Орден Совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Owl_Orden/mk/mk_smile.png",
@@ -2485,6 +2578,7 @@
   },
   {
     "name": "Анатолий",
+	"modification": "Возвращение Семёна или Орден Совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Owl_Orden/tl/tl_1_pioneer.png",
@@ -2500,6 +2594,7 @@
   },
   {
     "name": "Венера",
+	"modification": "Возвращение Семёна или Орден Совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Owl_Orden/ven/ven_pioneer_normal.png",
@@ -2514,6 +2609,7 @@
   },
   {
     "name": "Эва",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/blz/normal_eva.png",
@@ -2530,6 +2626,7 @@
   },
   {
     "name": "Катя",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/blz/normal_katenok.png",
@@ -2546,6 +2643,7 @@
   },
   {
     "name": "Надя",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/hp/rc_hp_angry_pioneer.png",
@@ -2566,6 +2664,7 @@
   },
   {
     "name": "Надя",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/hp/rc_hp_angry_pioneer_hand.png",
@@ -2586,6 +2685,7 @@
   },
   {
     "name": "Надя",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/hp/rcn2.png",
@@ -2606,6 +2706,7 @@
   },
   {
     "name": "Надя",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/hp/rcn1.png",
@@ -2626,6 +2727,7 @@
   },
   {
     "name": "Надя",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/hp/rcn35.png",
@@ -2646,6 +2748,7 @@
   },
   {
     "name": "Надя",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/hp/rcn27.png",
@@ -2667,6 +2770,7 @@
   },
   {
     "name": "Кирилл",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/ki/ki_angry_pioneer.png",
@@ -2683,6 +2787,7 @@
   },
   {
     "name": "RC bh",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/bh/bh_normal_pioneer.png",
@@ -2700,6 +2805,7 @@
   },
   {
     "name": "RC bh",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/bh/bh_normal_sport.png",
@@ -2717,6 +2823,7 @@
   },
   {
     "name": "RC andr",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/andr/andr_normal_pioneer.png"
@@ -2729,6 +2836,7 @@
   },
   {
     "name": "RC ar",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/ar/ar_normal.png",
@@ -2745,6 +2853,7 @@
   },
   {
     "name": "RC da",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/da/da_smile_pioneer.png",
@@ -2760,6 +2869,7 @@
   },
   {
     "name": "RC da",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/da/da_smile_sport.png",
@@ -2775,6 +2885,7 @@
   },
   {
     "name": "RC gr",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/gr/gr_normal.png",
@@ -2792,6 +2903,7 @@
   },
   {
     "name": "RC ks",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
@@ -2808,6 +2920,7 @@
   },
   {
     "name": "RC ni",
+	"modification": "Настоящий лагерь",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Real_camp/ni/ni_normal.png",
@@ -2825,6 +2938,7 @@
 
   {
     "name": "Григорий",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/gr/grigory_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/gr/grigory_idle.png",
@@ -2841,6 +2955,7 @@
   },
   {
     "name": "Григорий",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/gr/grigory_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/gr/grigory_idle.png",
@@ -2857,6 +2972,7 @@
   },
   {
     "name": "Лео",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/leo1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/idle1.png",
@@ -2875,6 +2991,7 @@
   },
   {
     "name": "Лео",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/leo2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/idle2.png",
@@ -2892,6 +3009,7 @@
   },
   {
     "name": "Лео",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/leo3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/normal3.png",
@@ -2908,6 +3026,7 @@
   },
   {
     "name": "Лео",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/leo4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/normal4.png",
@@ -2925,6 +3044,7 @@
   },
   {
     "name": "Сова",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/owl/1_laugh.png",
@@ -2946,6 +3066,7 @@
   },
   {
     "name": "Сова",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/owl/2_guilty.png",
@@ -2974,6 +3095,7 @@
   },
   {
     "name": "Сова",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/owl/3_normal.png",
@@ -2995,6 +3117,7 @@
   },
   {
     "name": "Samantha",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/confused1.png",
@@ -3030,6 +3153,7 @@
   },
   {
     "name": "Samantha",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/confused2.png",
@@ -3067,6 +3191,7 @@
   },
   {
     "name": "Samantha",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/teen/angry3.png",
@@ -3110,6 +3235,7 @@
   },
   {
     "name": "sam",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/1-normal.png",
@@ -3137,6 +3263,7 @@
   },
   {
     "name": "sam",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/ss_1_fancy.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/1-normal.png",
@@ -3164,6 +3291,7 @@
   },
   {
     "name": "sam",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/ss_2_casual.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/2-grin_smile.png",
@@ -3177,6 +3305,7 @@
   },
   {
     "name": "sam",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/ss_2_fancy.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/2-grin_smile.png",
@@ -3190,6 +3319,7 @@
   },
   {
     "name": "sam",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/ss_3_casual.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/3-smile2.png",
@@ -3205,6 +3335,7 @@
   },
   {
     "name": "sam",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/ss_3_fancy.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha_RP/sam/young/3-smile2.png",
@@ -3220,6 +3351,7 @@
   },
   {
     "name": "Саныч",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ba/ba_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ba/ba_1_normal.png",
@@ -3242,6 +3374,7 @@
   },
   {
     "name": "Алька",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/al/al_1_normal.png",
@@ -3263,6 +3396,7 @@
   },
   {
     "name": "Даня",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/dn/dn_1_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/dn/dn_1_normal.png",
@@ -3279,6 +3413,7 @@
   },
   {
     "name": "Даня",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/dn/dn_2_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/dn/dn_2_upset.png",
@@ -3292,6 +3427,7 @@
   },
   {
     "name": "Даня",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/dn/dn_3_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/dn/dn_3_surprise.png",
@@ -3308,6 +3444,7 @@
   },
   {
     "name": "Тоник",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/tn/tn_1_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/tn/tn_1_normal.png",
@@ -3326,6 +3463,7 @@
   },
   {
     "name": "Тоник (Взрослый)",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/tnt/tnt_1_casual.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/tnt/tnt_1_sorrow.png"
@@ -3338,6 +3476,7 @@
   },
   {
     "name": "Катюша",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ka/ka_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ka/ka_1_normal.png",
@@ -3363,6 +3502,7 @@
   },
   {
     "name": "Катюша",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ka/ka_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ka/ka_2_grin.png",
@@ -3388,6 +3528,7 @@
   },
   {
     "name": "Катюша",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ka/ka_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ka/ka_3_happy.png",
@@ -3414,6 +3555,7 @@
   },
   {
     "name": "Алёна",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/unl/unl_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/unl/unl_1_normal.png",
@@ -3433,6 +3575,7 @@
   },
   {
     "name": "Алёна",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/unl/unl_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/unl/unl_2_grin.png",
@@ -3452,6 +3595,7 @@
   },
   {
     "name": "Алёна",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/unl/unl_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/unl/unl_3_smile.png",
@@ -3471,6 +3615,7 @@
   },
   {
     "name": "Алёна (Альт)",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ln/ln_1_normal.png",
@@ -3493,6 +3638,7 @@
   },
   {
     "name": "Алёна (Альт)",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ln/ln_2_dull.png",
@@ -3509,6 +3655,7 @@
   },
   {
     "name": "Алёна (Альт)",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/ln/ln_3_upset.png",
@@ -3529,6 +3676,7 @@
   },
   {
     "name": "Сакишито Чихиро",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/sak/sak_1_suit.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/sak/sak_1_normal.png",
@@ -3544,6 +3692,7 @@
   },
   {
     "name": "Сакишито Чихиро",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/sak/sak_2_suit.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/sak/sak_2_smile.png",
@@ -3559,6 +3708,7 @@
   },
   {
     "name": "Сакишито Чихиро",
+	"modification": "7 Дней Лета: Lost Alpha",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/sak/sak_3_suit.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/7dl/sak/sak_3_sad.png",
@@ -3574,6 +3724,7 @@
   },
   {
     "name": "Алеся",
+	"modification": "Алеся: Побег из лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Alesya/lseya/lseya_hitbox.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Alesya/lseya/pio/lseya_laugh_pio_norm.png",
@@ -3588,6 +3739,7 @@
   },
   {
     "name": "Алеся",
+	"modification": "Алеся: Побег из лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Alesya/lseya/lseya_hitbox.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Alesya/lseya/pio/lseya_normal_pio_norm.png",
@@ -3601,6 +3753,7 @@
   },
   {
     "name": "Алеся",
+	"modification": "Алеся: Побег из лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Alesya/lseya/pio/lseya_rage_pio_norm.png"
@@ -3613,6 +3766,7 @@
   },
   {
     "name": "Алеся",
+	"modification": "Алеся: Побег из лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Alesya/lseya/pio/lseya_angry_pio_norm.png",
@@ -3629,6 +3783,7 @@
   },
   {
     "name": "Антон",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/ant/ant_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/ant/ant_1_normal.png",
@@ -3645,6 +3800,7 @@
   },
   {
     "name": "Клаус",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/kla/kla_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/kla/kla_1_normal.png",
@@ -3662,6 +3818,7 @@
   },
   {
     "name": "Клаус",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/kla/kla_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/kla/kla_2_shy.png",
@@ -3682,6 +3839,7 @@
   },
   {
     "name": "Наталья",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/nt/old/nt_1_cook.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/nt/old/nt_1_normal.png",
@@ -3697,6 +3855,7 @@
   },
   {
     "name": "Наталья",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/nt/nt_1_cook.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/nt/nt_1_normal.png",
@@ -3712,6 +3871,7 @@
   },
   {
     "name": "Толик",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/tol/old/tol_1_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/tol/old/tol_1_normal.png",
@@ -3728,6 +3888,7 @@
   },
   {
     "name": "Толик",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/tol/tol_1_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/tol/tol_1_normal.png",
@@ -3744,6 +3905,7 @@
   },
   {
     "name": "Трук",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/tr/tr_1_normal.png",
@@ -3764,6 +3926,7 @@
   },
   {
     "name": "Трук",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/tr/tr_2_normal2.png",
@@ -3784,6 +3947,7 @@
   },
   {
     "name": "Мику БКРР",
+	"modification": "Булки, кефир и рок-н-ролл",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png ",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/mii/mii_1_laugh.png",
@@ -3803,6 +3967,7 @@
   },
   {
     "name": "Диана",
+	"modification": "1+1. Диана",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_2_grin.png",
@@ -3822,6 +3987,7 @@
   },
   {
     "name": "Диана",
+	"modification": "1+1. Диана",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_1_normal.png",
@@ -3845,6 +4011,7 @@
   },
   {
     "name": "Диана",
+	"modification": "1+1. Диана",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_3_giggle2.png",
@@ -3871,6 +4038,7 @@
   },
   {
     "name": "Диана",
+	"modification": "1+1. Диана",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_4_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/1+1/di/di_4_shy.png",
@@ -3890,6 +4058,7 @@
   },
   {
     "name": "Лиза",
+	"modification": "Бесконечный холод",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/EC_RP/li/li_1_normal.png",
@@ -3942,6 +4111,7 @@
   },
   {
     "name": "Лиза",
+	"modification": "Бесконечный холод",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/EC_RP/li/li_1_normal.png",
@@ -3982,6 +4152,7 @@
   },
   {
     "name": "Лиза",
+	"modification": "Бесконечный холод",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/EC_RP/li/li_2_smile.png",
@@ -4015,6 +4186,7 @@
   },
   {
     "name": "Лиза",
+	"modification": "Бесконечный холод",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/EC_RP/li/li_3_smile2.png",
@@ -4045,6 +4217,7 @@
   },
   {
     "name": "Лиза",
+	"modification": "Бесконечный холод",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_5.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/EC_RP/li/li_4_angry.png",
@@ -4075,6 +4248,7 @@
   },
   {
     "name": "Соня",
+	"modification": "Бесконечный холод",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/EC_RP/so/so_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/EC_RP/so/so_1_acrimony.png",
@@ -4095,6 +4269,7 @@
   },
   {
     "name": "Алиса Селезнёва",
+	"modification": "Гости из будущего",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Selezneva/retro_slzn_angry_pioneer.png",
@@ -4112,6 +4287,7 @@
   },
   {
     "name": "Алиса Селезнёва",
+	"modification": "Гости из будущего",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Selezneva/retro_slzn_bored_pioneer.png",
@@ -4125,6 +4301,7 @@
   },
   {
     "name": "Алиса Селезнёва",
+	"modification": "Гости из будущего",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Selezneva/retro_slzn_laugh_pioneer.png",
@@ -4139,6 +4316,7 @@
 
   {
     "name": "БЛПИ ag",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ag/1/ag_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ag/1/emo/ag_1_allisok.png",
@@ -4159,6 +4337,7 @@
   },
   {
     "name": "БЛПИ ag",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ag/2/ag_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ag/2/emo/ag_2_angry.png",
@@ -4179,6 +4358,7 @@
   },
   {
     "name": "БЛПИ ag",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ag/3/ag_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ag/3/emo/ag_3_angry_hand.png",
@@ -4199,6 +4379,7 @@
   },
   {
     "name": "БЛПИ al",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/al/1/al_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/al/1/emo/al_1_smile.png"
@@ -4213,6 +4394,7 @@
   },
   {
     "name": "БЛПИ am",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/am/1/am_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/am/1/emo/am_1_normal.png",
@@ -4234,6 +4416,7 @@
   },
   {
     "name": "БЛПИ am",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/am/2/am_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/am/2/emo/am_1_normal.png",
@@ -4255,6 +4438,7 @@
   },
   {
     "name": "БЛПИ an",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/an/1/an_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/an/1/emo/an_1_normal.png",
@@ -4277,6 +4461,7 @@
   },
   {
     "name": "БЛПИ dn",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/dn/1/dn_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/dn/1/emo/dn_1_normal.png",
@@ -4298,6 +4483,7 @@
   },
   {
     "name": "БЛПИ ev",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/1/ev_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_grin.png",
@@ -4339,6 +4525,7 @@
   },
   {
     "name": "БЛПИ ev",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/2/ev_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_cry.png",
@@ -4365,6 +4552,7 @@
   },
   {
     "name": "БЛПИ ev",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/3/ev_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_normal.png",
@@ -4409,6 +4597,7 @@
   },
   {
     "name": "БЛПИ ev",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/1/ev_1_kare.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_grin.png",
@@ -4448,6 +4637,7 @@
   },
   {
     "name": "БЛПИ ev",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/2/ev_2_kare.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_cry.png",
@@ -4473,6 +4663,7 @@
   },
   {
     "name": "БЛПИ ev",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/3/ev_3_kare.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_normal.png",
@@ -4516,6 +4707,7 @@
   },
   {
     "name": "БЛПИ kl",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kl/1/kl_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kl/1/emo/kl_1_normal.png"
@@ -4530,6 +4722,7 @@
   },
   {
     "name": "БЛПИ kr",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/kr_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/emo/kr_1_normal_no_book.png",
@@ -4576,6 +4769,7 @@
   },
   {
     "name": "БЛПИ kr",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/kr_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/emo/kr_2_foxy.png",
@@ -4612,6 +4806,7 @@
   },
   {
     "name": "БЛПИ kr",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/kr_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/emo/kr_3_cry.png",
@@ -4645,6 +4840,7 @@
   },
   {
     "name": "БЛПИ kr",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/kr_4_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/emo/kr_4_anger.png",
@@ -4691,6 +4887,7 @@
   },
   {
     "name": "БЛПИ kt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/1/kt_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/1/emo/kt_1_normal.png",
@@ -4716,6 +4913,7 @@
   },
   {
     "name": "БЛПИ kt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/2/kt_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/2/emo/kt_2_contempt.png",
@@ -4738,6 +4936,7 @@
   },
   {
     "name": "БЛПИ kt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/3/kt_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/3/emo/kt_3_anger_rm.png",
@@ -4762,6 +4961,7 @@
   },
   {
     "name": "БЛПИ kt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/3/kt_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kt/3/emo/kt_3_anger_rm.png",
@@ -4810,6 +5010,7 @@
   },
   {
     "name": "БЛПИ op",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/op/2/op_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/op/2/emo/op_2_happy.png",
@@ -4830,6 +5031,7 @@
   },
   {
     "name": "БЛПИ rt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/rt/1/rt_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/rt/1/emo/rt_1_craftiness.png",
@@ -4852,6 +5054,7 @@
   },
   {
     "name": "БЛПИ rt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/rt/2/rt_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/rt/2/emo/rt_2_anger.png",
@@ -4875,6 +5078,7 @@
   },
   {
     "name": "БЛПИ rt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/rt/3/rt_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/rt/3/emo/rt_3_embarrassment.png",
@@ -4897,6 +5101,7 @@
   },
   {
     "name": "БЛПИ sk",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/sk/1/sk_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/sk/1/emo/sk_1_normal.png",
@@ -4914,6 +5119,7 @@
   },
   {
     "name": "БЛПИ st",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/st/1/st_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/st/1/emo/st_1_normal.png",
@@ -4937,6 +5143,7 @@
   },
   {
     "name": "БЛПИ st",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/st/2/st_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/st/2/emo/st_2_calm_cry.png",
@@ -4960,6 +5167,7 @@
   },
   {
     "name": "БЛПИ st",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/st/3/st_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/st/3/emo/st_3_afraid.png",
@@ -4982,6 +5190,7 @@
   },
   {
     "name": "БЛПИ ti",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ti/1/ti_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/ti/1/emo/ti_1_normal.png",
@@ -5001,6 +5210,7 @@
   },
   {
     "name": "БЛПИ zt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/zt/1/zt_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/zt/1/emo/zt_1_normal.png",
@@ -5024,6 +5234,7 @@
   },
   {
     "name": "БЛПИ zt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/zt/2/zt_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/zt/2/emo/zt_2_cute.png",
@@ -5046,6 +5257,7 @@
   },
   {
     "name": "БЛПИ zt",
+	"modification": "Бесконечное лето: Продолжение истории",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/zt/3/zt_3_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/zt/3/emo/zt_3_cry.png",
@@ -5069,6 +5281,7 @@
   },
   {
     "name": "Холодные объятия kt",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/kt/kt_normal.png",
@@ -5097,6 +5310,7 @@
   },
   {
     "name": "Холодные объятия kt",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/kt/kt_normal.png",
@@ -5125,6 +5339,7 @@
   },
   {
     "name": "Холодные объятия ma",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/ma/ma_1_smile.png",
@@ -5155,6 +5370,7 @@
   },
   {
     "name": "Холодные объятия ma",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/ma/ma_2_smile.png",
@@ -5185,6 +5401,7 @@
   },
   {
     "name": "Холодные объятия ma",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/ma/hair/ma_1_smile.png",
@@ -5215,6 +5432,7 @@
   },
   {
     "name": "Холодные объятия ma",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/ma/hair/ma_2_smile.png",
@@ -5245,6 +5463,7 @@
   },
   {
     "name": "Холодные объятия mv",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/mv/mv_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/mv/mv_normal.png",
@@ -5268,6 +5487,7 @@
   },
   {
     "name": "Холодные объятия mv",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/mv/mv_2_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/mv/mv_normal.png",
@@ -5291,6 +5511,7 @@
   },
   {
     "name": "Холодные объятия rz",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/rz/rz_1_smile_pioneer.png",
@@ -5314,6 +5535,7 @@
   },
   {
     "name": "Холодные объятия rz",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/rz/rz_1_smile_sport.png",
@@ -5337,6 +5559,7 @@
   },
   {
     "name": "Холодные объятия rz",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/rz/rz_2_smile_pioneer.png",
@@ -5360,6 +5583,7 @@
   },
   {
     "name": "Холодные объятия rz",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/rz/rz_2_smile_sport.png",
@@ -5383,6 +5607,7 @@
   },
   {
     "name": "Холодные объятия sn",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/sn/sn_smile.png",
@@ -5412,6 +5637,7 @@
   },
   {
     "name": "Холодные объятия sn",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/sn/sn_smile.png",
@@ -5441,6 +5667,7 @@
   },
   {
     "name": "Холодные объятия sz",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/sz/sz_1_body.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/sz/sz_1_normal.png",
@@ -5460,6 +5687,7 @@
   },
   {
     "name": "Холодные объятия vk",
+	"modification": "Холодные объятия",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cold_embrace/vk/vk_smile.png",
@@ -5488,6 +5716,7 @@
   },
   {
     "name": "Дубликат Артём взрослый",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_normal_casual.png",
@@ -5505,6 +5734,7 @@
   },
   {
     "name": "Дубликат Артём молодой",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",      
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_ar/d_ar_normal_pioneer.png",
@@ -5524,6 +5754,7 @@
   },
   {
     "name": "Дубликат Повариха",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_bg/d_bg_body.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_bg/d_bg_normal.png",
@@ -5544,6 +5775,7 @@
   },
   {
     "name": "Дубликат SF",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sf/d_sf_normal_pioneer.png",
@@ -5562,6 +5794,7 @@
   },
   {
     "name": "Дубликат SF",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sf/d_sf_normal_sport.png",
@@ -5580,6 +5813,7 @@
   },
   {
     "name": "Дубликат SF",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sf/d_sf_normal_hike.png",
@@ -5598,6 +5832,7 @@
   },
   {
     "name": "Дубликат SF",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sf/d_sf_normal_swim.png",
@@ -5616,6 +5851,7 @@
   },
   {
     "name": "Дубликат sh",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sh/dct_sh1_body.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sh/dct_sh1_normal.png",  
@@ -5632,6 +5868,7 @@
   },
   {
     "name": "Дубликат sh",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sh/dct_sh2_body.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sh/dct_sh2_cry.png",  
@@ -5648,6 +5885,7 @@
   },
   {
     "name": "Дубликат sh",
+	"modification": "Дубликат",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sh/dct_sh3_body.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/d_sh/dct_sh3_dontlike.png",  
@@ -5664,6 +5902,7 @@
   },
   {
     "name": "Видение Яна",
+	"modification": "Видение",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Vision/yanavid_normal.png",  
@@ -5681,6 +5920,7 @@
   },
   {
     "name": "Грязное лето",
+	"modification": "Грязное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/1/1_position(N).png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/1/surprise2(N).png",
@@ -5696,6 +5936,7 @@
   },
   {
     "name": "Грязное лето",
+	"modification": "Грязное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/2/2_position(N).png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/2/cry_smile(N).png",
@@ -5711,6 +5952,7 @@
   },
   {
     "name": "Грязное лето",
+	"modification": "Грязное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/3/3_position(N).png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/3/happy(N).png",
@@ -5728,6 +5970,7 @@
   },
   {
     "name": "Грязное лето",
+	"modification": "Грязное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/4/4_position(N).png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/4/angry(N).png",
@@ -5747,6 +5990,7 @@
   },
   {
     "name": "Грязное лето",
+	"modification": "Грязное лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/5/5_position(N).png",     
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dirty_summer/5/muse(N).png",
@@ -5764,6 +6008,7 @@
   },
   {
     "name": "История одного лагеря elv",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5784,6 +6029,7 @@
   },
   {
     "name": "История одного лагеря les",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5809,6 +6055,7 @@
   },
   {
     "name": "История одного лагеря les",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5833,6 +6080,7 @@
   },
   {
     "name": "История одного лагеря rit",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5856,6 +6104,7 @@
   },
   {
     "name": "История одного лагеря rit",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5876,6 +6125,7 @@
   },
   {
     "name": "История одного лагеря roz",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5895,6 +6145,7 @@
   },
   {
     "name": "История одного лагеря roz",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5914,6 +6165,7 @@
   },
   {
     "name": "История одного лагеря son",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5934,6 +6186,7 @@
   },
   {
     "name": "История одного лагеря son",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5951,6 +6204,7 @@
   },
   {
     "name": "История одного лагеря xen",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5973,6 +6227,7 @@
   },
   {
     "name": "История одного лагеря xen",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -5994,6 +6249,7 @@
   },
   {
     "name": "История одного лагеря yur",
+	"modification": "История одного лагеря",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6011,6 +6267,7 @@
   },
   {
     "name": "Лето 87 arte",
+	"modification": "Лето 87-го",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6032,6 +6289,7 @@
   },
   {
     "name": "Лето 87 arte",
+	"modification": "Лето 87-го",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6053,6 +6311,7 @@
   },
   {
     "name": "Лето 87 mr",
+	"modification": "Лето 87-го",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6075,6 +6334,7 @@
   },
   {
     "name": "Лето 87 mr",
+	"modification": "Лето 87-го",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6094,6 +6354,7 @@
   },
   {
     "name": "Оставшаяся взаперти Соня",
+	"modification": "Оставшаяся взаперти",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6113,6 +6374,7 @@
   },
   {
     "name": "Оставшаяся взаперти Соня",
+	"modification": "Оставшаяся взаперти",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6131,6 +6393,7 @@
   },
   {
     "name": "Теория мультивселенной Elli",
+	"modification": "Теория мультивселенной",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6152,6 +6415,7 @@
   },
   {
     "name": "Теория мультивселенной Elli",
+	"modification": "Теория мультивселенной",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6173,6 +6437,7 @@
   },
   {
     "name": "Теория мультивселенной Elli",
+	"modification": "Теория мультивселенной",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6194,6 +6459,7 @@
   },
   {
     "name": "Теория мультивселенной Elli",
+	"modification": "Теория мультивселенной",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6215,6 +6481,7 @@
   },
   {
     "name": "Теория мультивселенной vst",
+	"modification": "Теория мультивселенной",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6234,6 +6501,7 @@
   },
   {
     "name": "Теория мультивселенной vst",
+	"modification": "Теория мультивселенной",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6253,6 +6521,7 @@
   },
   {
     "name": "Чужой среди своих nastya",
+	"modification": "Чужой среди своих",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6276,6 +6545,7 @@
   },
   {
     "name": "Чужой среди своих nastya",
+	"modification": "Чужой среди своих",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions" :
     [
@@ -6298,6 +6568,7 @@
   },
   {
     "name": "Чужой среди своих nastya",
+	"modification": "Чужой среди своих",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions" :
     [
@@ -6321,6 +6592,7 @@
   },
   {
     "name": "To Recall Миша",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6342,6 +6614,7 @@
   },
   {
     "name": "To Recall Миша",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6362,6 +6635,7 @@
   },
   {
     "name": "To Recall ns",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/TR/ns/ns_1_body.png",
     "emotions" :
     [
@@ -6380,6 +6654,7 @@
   },
   {
     "name": "To Recall ns",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/TR/ns/ns_2_body.png",
     "emotions" :
     [
@@ -6398,6 +6673,7 @@
   },
   {
     "name": "To Recall ns",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/TR/ns/ns_3_body.png",
     "emotions" :
     [
@@ -6413,6 +6689,7 @@
   },
   {
     "name": "To Recall nuv",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6431,6 +6708,7 @@
   },
   {
     "name": "To Recall nuv",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6447,6 +6725,7 @@
   },
   {
     "name": "To Recall nuv",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6465,6 +6744,7 @@
   },
   {
     "name": "To Recall nuv",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6481,6 +6761,7 @@
   },
   {
     "name": "To Recall ps",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/TR/ps/ps_1_body.png",
     "emotions" :
     [
@@ -6517,6 +6798,7 @@
   },
   {
     "name": "To Recall ps",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/TR/ps/ps_3_body.png",
     "emotions" :
     [
@@ -6534,6 +6816,7 @@
   },
   {
     "name": "To Recall Яна",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/TR/ya/ya_1_body.png",
     "emotions" :
     [
@@ -6557,6 +6840,7 @@
   },
   {
     "name": "To Recall Яна",
+	"modification": "Вспомнить всё",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/TR/ya/ya_2_body.png",
     "emotions" :
     [
@@ -6575,6 +6859,7 @@
   },
   {
     "name": "Behind Sovyonok cs",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6594,6 +6879,7 @@
   },
   {
     "name": "Behind Sovyonok cs",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6613,6 +6899,7 @@
   },
   {
     "name": "Behind Sovyonok cs",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6631,6 +6918,7 @@
   },
   {
     "name": "Behind Sovyonok cs",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6649,6 +6937,7 @@
   },
   {
     "name": "Behind Sovyonok cs",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6669,6 +6958,7 @@
   },
   {
     "name": "Behind Sovyonok cs",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6686,6 +6976,7 @@
   },
   {
     "name": "Behind Sovyonok ki",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6703,6 +6994,7 @@
   },
   {
     "name": "Behind Sovyonok Lyuba",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6725,6 +7017,7 @@
   },
   {
     "name": "Behind Sovyonok mercy",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6743,6 +7036,7 @@
   },
   {
     "name": "Behind Sovyonok mir",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6766,6 +7060,7 @@
   },
   {
     "name": "Behind Sovyonok nik",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6786,6 +7081,7 @@
   },
   {
     "name": "Behind Sovyonok od",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6805,6 +7101,7 @@
   },
   {
     "name": "Behind Sovyonok od",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6824,6 +7121,7 @@
   },
   {
     "name": "Behind Sovyonok od",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6843,6 +7141,7 @@
   },
   {
     "name": "Behind Sovyonok od",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6862,6 +7161,7 @@
   },
   {
     "name": "Behind Sovyonok od",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6880,6 +7180,7 @@
   },
   {
     "name": "Behind Sovyonok od",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6898,6 +7199,7 @@
   },
   {
     "name": "Behind Sovyonok po",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6916,6 +7218,7 @@
   },
   {
     "name": "Behind Sovyonok rita",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6934,6 +7237,7 @@
   },
   {
     "name": "Behind Sovyonok va",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6952,6 +7256,7 @@
   },
   {
     "name": "Behind Sovyonok va",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6970,6 +7275,7 @@
   },
   {
     "name": "Behind Sovyonok vera",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -6987,6 +7293,7 @@
   },
   {
     "name": "Behind Sovyonok vera",
+	"modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -7006,6 +7313,7 @@
   },
   {
     "name": "Совёнок для двоих uno",
+	"modification": "Совёнок для двоих",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions" :
     [
@@ -7023,6 +7331,7 @@
   },
   {
     "name": "Нейт",
+	"modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/leo_ntn.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/leo/idle1.png",
@@ -7042,6 +7351,7 @@
   },
   {
     "name": "Кемп",
+	"modification": "Сообщество",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/kemp/kemp_emotion_normal.png",
@@ -7063,6 +7373,7 @@
   },
   {
     "name": "Кот",
+	"modification": "Мяу",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_w8.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
@@ -7076,6 +7387,7 @@
   },
   {
     "name": "Кот",
+	"modification": "Мяу",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_attack.png"
@@ -7088,6 +7400,7 @@
   },
   {
     "name": "Кот",
+	"modification": "Мяу",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_itchy.png"
@@ -7100,6 +7413,7 @@
   },
   {
     "name": "Кот",
+	"modification": "Мяу",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_walk.png"
@@ -7112,6 +7426,7 @@
   },
   {
     "name": "Кот",
+	"modification": "Мяу",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_walk2.png"
@@ -7124,6 +7439,7 @@
   },
   {
     "name": "Кот",
+	"modification": "Мяу",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_wash.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
@@ -7136,6 +7452,7 @@
   },
   {
     "name": "Хиро",
+	"modification": "Сообщество",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose1_em1.png",
@@ -7187,6 +7504,7 @@
   },
   {
     "name": "Хиро",
+	"modification": "Сообщество",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose1_em1.png",
@@ -7238,6 +7556,7 @@
   },
   {
     "name": "Моника",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/mon/mk1a.png",
@@ -7279,6 +7598,7 @@
   },
   {
     "name": "Моника",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/mon/mk1a.png",
@@ -7320,6 +7640,7 @@
   },
   {
     "name": "Моника",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/mon/mk2a.png",
@@ -7337,6 +7658,7 @@
   },
   {
     "name": "Натсуки",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a.png",
@@ -7379,6 +7701,7 @@
   },
   {
     "name": "Натсуки",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a.png",
@@ -7422,6 +7745,7 @@
   },
   {
     "name": "Натсуки",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
@@ -7444,6 +7768,7 @@
   },
   {
     "name": "Сайори",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/say/sy_1_a.png",
@@ -7485,6 +7810,7 @@
   },
   {
     "name": "Сайори",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/say/sy_1_a.png",
@@ -7526,6 +7852,7 @@
   },
   {
     "name": "Сайори",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/say/sy_1_a.png",
@@ -7565,6 +7892,7 @@
   },
   {
     "name": "Сайори",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/say/sy_2_a.png",
@@ -7584,6 +7912,7 @@
   },
   {
     "name": "Сайори",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/say/sy_1_a.png",
@@ -7623,6 +7952,7 @@
   },
   {
     "name": "Юри",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/yur/yr_1_a.png",
@@ -7667,6 +7997,7 @@
   },
   {
     "name": "Юри",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/yur/yr_1_a.png",
@@ -7711,6 +8042,7 @@
   },
   {
     "name": "Юри",
+	"modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/yur/yr_3_a.png",
@@ -7731,6 +8063,7 @@
   },
   {
     "name": "Братское лето John",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/john/john_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/john/john_norm.png",
@@ -7749,6 +8082,7 @@
   },
   {
     "name": "Братское лето mor",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/mor/morbody1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/mor/mornormal1.png",
@@ -7767,6 +8101,7 @@
   },
   {
     "name": "Братское лето mor",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/mor/morbody2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/mor/morgrus2.png",
@@ -7782,6 +8117,7 @@
   },
   {
     "name": "Братское лето mor",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/mor/morbody3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/mor/moromg3.png",
@@ -7797,6 +8133,7 @@
   },
   {
     "name": "Братское лето raf",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_normal.png",
@@ -7816,6 +8153,7 @@
   },
   {
     "name": "Братское лето raf",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_body2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_bitchsmile2.png",
@@ -7833,6 +8171,7 @@
   },
   {
     "name": "Братское лето raf",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_body3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_angry3.png",
@@ -7848,6 +8187,7 @@
   },
   {
     "name": "Братское лето raf",
+	"modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_body4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/raf/raf_shock4.png",
@@ -7863,6 +8203,7 @@
   },
   {
     "name": "Yana erika",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/erika/nornal/yn_erika_normal_hands_behind.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
@@ -7877,6 +8218,7 @@
   },
   {
     "name": "Yana erika",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/erika/nornal/yn_erika_normal.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
@@ -7891,6 +8233,7 @@
   },
   {
     "name": "Yana haer",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/haer/normal/yn_haer_normal.png",
@@ -7907,6 +8250,7 @@
   },
   {
     "name": "Yana LD-tyan",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/jurn/normal/yn_jurn_normal.png",
@@ -7925,6 +8269,7 @@
   },
   {
     "name": "Yana kot",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/kot/normal/yn_kot_normal.png",
@@ -7950,6 +8295,7 @@
   },
   {
     "name": "Yana kras",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/kras/normal/yn_kras_normal.png",
@@ -7966,6 +8312,7 @@
   },
   {
     "name": "Yana slon",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/slon/normal/yn_slon_normal.png",
@@ -7983,6 +8330,7 @@
   },
   {
     "name": "Yana yana",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn1_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_normal.png",
@@ -8003,6 +8351,7 @@
   },
   {
     "name": "Yana yana",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn2_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_normal.png",
@@ -8023,6 +8372,7 @@
   },
   {
     "name": "Yana yana",
+	"modification": "Яна",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn3_pioneer.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_normal.png",
@@ -8043,6 +8393,7 @@
   },
   {
     "name": "Vetka Polupoker zbvc",
+	"modification": "Сообщество",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/zbvc/emotes/zbvc_normal.png",
@@ -8067,6 +8418,7 @@
   },
   {
     "name": "Lubbock",
+	"modification": "Сообщество",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/Lubbock/lu_normal.png",
@@ -8178,6 +8530,7 @@
   },
   {
     "name": "Rabbock",
+	"modification": "Сообщество",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/Rabbock/ra_smile.png",
@@ -8210,6 +8563,7 @@
   },
   {
     "name": "Rabbock",
+	"modification": "Сообщество",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/Rabbock/ra_smile.png",
@@ -8238,6 +8592,7 @@
   },
   {
     "name": "EoS al",
+	"modification": "Элемент системы",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Element_of_System/al_1_normal.png",
@@ -8258,6 +8613,7 @@
   },
   {
     "name": "EoS al",
+	"modification": "Элемент системы",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Element_of_System/al_2_normal.png",
@@ -8278,6 +8634,7 @@
   },
   {
     "name": "SI Varya",
+	"modification": "Тень внутри",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Shadow_inside/Varya/varya_normal_tie.png",
@@ -8295,6 +8652,7 @@
   },
   {
     "name": "Clouds al",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/al/al_2_normal.png",
@@ -8313,6 +8671,7 @@
   },
   {
     "name": "Clouds al",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/al/al_1_ponder.png",
@@ -8331,6 +8690,7 @@
   },
   {
     "name": "Clouds al",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/al/al_3_normal2.png",
@@ -8352,6 +8712,7 @@
   },
   {
     "name": "Clouds ms",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/ms/ms_1_smile.png",
@@ -8368,6 +8729,7 @@
   },
   {
     "name": "Clouds ms",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/ms/ms_2_normal.png",
@@ -8385,6 +8747,7 @@
   },
   {
     "name": "Clouds mya",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/mya/mya_1_normal.png",
@@ -8402,6 +8765,7 @@
   },
   {
     "name": "Clouds mya",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/mya/mya_2_smile2.png",
@@ -8419,6 +8783,7 @@
   },
   {
     "name": "Clouds mya",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/mya/mya_2_smile2.png",
@@ -8436,6 +8801,7 @@
   },
   {
     "name": "Clouds mya",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/mya/mya_3_normal2.png",
@@ -8454,6 +8820,7 @@
   },
   {
     "name": "Clouds ol",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/ol/ol_2_normal.png",
@@ -8472,6 +8839,7 @@
   },
   {
     "name": "Clouds ol",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/ol/ol_1_smile.png",
@@ -8489,6 +8857,7 @@
   },
   {
     "name": "Clouds ol",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/ol/ol_3_shy.png",
@@ -8506,6 +8875,7 @@
   },
   {
     "name": "Clouds po",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/po/po_1_normal.png",
@@ -8526,6 +8896,7 @@
   },
   {
     "name": "Clouds po",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/po/po_2_smile.png",
@@ -8543,6 +8914,7 @@
   },
   {
     "name": "Clouds po",
+	"modification": "Облака",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Clouds/po/po_3_smile2.png",
@@ -8561,6 +8933,7 @@
   },
   {
     "name": "ION gla",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/gla/gla_1_normal.png",
@@ -8579,6 +8952,7 @@
   },
   {
     "name": "ION gla",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/gla/gla_2_smile.png",
@@ -8598,6 +8972,7 @@
   },
   {
     "name": "ION gnad",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/gnad/gnad_1_normal.png",
@@ -8619,6 +8994,7 @@
   },
   {
     "name": "ION rmk",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/rmk/rmk_2_normal.png",
@@ -8636,6 +9012,7 @@
   },
   {
     "name": "ION rmk",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/rmk/rmk_1_grin.png",
@@ -8653,6 +9030,7 @@
   },
   {
     "name": "ION rta",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/rta/rta_1_normal.png",
@@ -8676,6 +9054,7 @@
   },
   {
     "name": "ION slk",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/slk/slk_1_normal.png",
@@ -8695,6 +9074,7 @@
   },
   {
     "name": "ION snya",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/snya/snya_1_normal.png",
@@ -8714,6 +9094,7 @@
   },
   {
     "name": "ION snya",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/snya/snya_1_smile.png",
@@ -8733,6 +9114,7 @@
   },
   {
     "name": "ION tlk",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/tlk/tlk_1_normal.png",
@@ -8750,6 +9132,7 @@
   },
   {
     "name": "ION tlk",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/tlk/tlk_2_smile.png",
@@ -8772,6 +9155,7 @@
   },
   {
     "name": "ION vio",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/vio/vio_1_normal.png",
@@ -8793,6 +9177,7 @@
   },
   {
     "name": "ION vio",
+	"modification": "История одного неудачника",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/ION/vio/vio_2_grin.png",
@@ -8811,6 +9196,7 @@
   },
   {
     "name": "Ламповое лето an",
+	"modification": "Ламповое лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_normal.png",
@@ -8828,6 +9214,7 @@
   },
   {
     "name": "Ламповое лето pdv",
+	"modification": "Ламповое лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/pdv/pdv_1_body.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/pdv/pdv_1_normal.png",
