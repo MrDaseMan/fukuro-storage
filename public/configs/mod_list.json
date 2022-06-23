@@ -1,210 +1,252 @@
 [
      {
           "name": "Бесконечное лето",
+          "icon": "es.jpg",
           "vk": "https://vk.com/everlasting.summer.official",
           "steam": "https://store.steampowered.com/app/331470/Everlasting_Summer/",
           "enabled": "true"
      },
      {
           "name": "Бесконечное лето: Продолжение истории",
+          "icon": "blpi.jpg",
           "vk": "https://vk.com/es.continue",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=508932099",
           "enabled": "true"
      },
      {
+          "name": "7 Дней Лета: Конверсия",
+          "icon": "7dlk.jpg",
+          "vk": "https://vk.com/sanati_tales",
+          "steam": "",
+          "enabled": "true"
+     },
+     {
           "name": "7 Дней Лета: Lost Alpha",
+          "icon": "7dlla.jpg",
           "vk": "https://vk.com/bl_7dl",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=441054187",
           "enabled": "true"
      },
      {
           "name": "Дубликат",
+          "icon": "dublicate.jpg",
           "vk": "https://vk.com/dublicatum",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1727878478",
           "enabled": "true"
      },
      {
           "name": "В погоне за хвостиком",
+          "icon": "tr.jpg",
           "vk": "https://vk.com/yulyamod",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1250096348",
           "enabled": "true"
      },
      {
           "name": "Титанобоа",
+          "icon": "titanboa.jpg",
           "vk": "https://vk.com/public155935762",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2522905701",
           "enabled": "true"
      },
      {
           "name": "Настоящий лагерь",
+          "icon": "realcamp.jpg",
           "vk": "https://vk.com/real_camp",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1782535372",
           "enabled": "true"
      },
      {
           "name": "Саманта",
+          "icon": "samanta.jpg",
           "vk": "https://vk.com/goodwill_embassy",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=354397869",
           "enabled": "true"
      },
      {
           "name": "Алеся: Побег из лагеря",
+          "icon": "alesya.jpg",
           "vk": "https://vk.com/rerospective",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1498012318",
           "enabled": "true"
      },
      {
           "name": "Булки, кефир и рок-н-ролл",
+          "icon": "bkrr.jpg",
           "vk": "https://vk.com/b_k_r_r",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=451835368",
           "enabled": "true"
      },
      {
           "name": "1+1. Диана",
+          "icon": "dianamod.jpg",
           "vk": "https://vk.com/bl1plus1",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1402145998",
           "enabled": "true"
      },
      {
           "name": "Бесконечный холод",
+          "icon": "beskholod.jpg",
           "vk": "https://vk.com/everlasting_cold",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=443822638",
           "enabled": "true"
      },
      {
           "name": "Гости из будущего",
+          "icon": "gftf.jpg",
           "vk": "https://vk.com/rerospective",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1923313309",
           "enabled": "true"
      },
      {
           "name": "Холодные объятия",
+          "icon": "coldhugs.jpg",
           "vk": "https://vk.com/signivaried",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1666671085",
           "enabled": "true"
      },
      {
           "name": "Видение",
+          "icon": "vision.jpg",
           "vk": "https://vk.com/thenodworld",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1697630634",
           "enabled": "true"
      },
      {
           "name": "Грязное лето",
+          "icon": "dirtysummer.jpg",
           "vk": "",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1565827676",
           "enabled": "true"
      },
      {
           "name": "История одного лагеря",
+          "icon": "ocs.jpg",
           "vk": "https://vk.com/club165523574",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2328900004",
           "enabled": "true"
      },
      {
           "name": "Лето 87-го",
+          "icon": "s87.jpg",
           "vk": "https://vk.com/summerof87",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2152105095",
           "enabled": "true"
      },
      {
           "name": "Оставшаяся взаперти",
+          "icon": "closen.jpg",
           "vk": "https://vk.com/unknownsteam",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2553146986",
           "enabled": "true"
      },
      {
           "name": "Теория мультивселенной",
+          "icon": "multeory.jpg",
           "vk": "https://vk.com/bft_group",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2418558168",
           "enabled": "true"
      },
      {
           "name": "Чужой среди своих",
+          "icon": "among.jpg",
           "vk": "",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2537799247",
           "enabled": "true"
      },
      {
           "name": "Вспомнить всё",
+          "icon": "forall.jpg",
           "vk": "https://vk.com/rem_all",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=704832307",
           "enabled": "true"
      },
      {
           "name": "По ту сторону совёнка",
+          "icon": "otoside.jpg",
           "vk": "https://vk.com/redowlteam",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1632368158",
           "enabled": "true"
      },
      {
           "name": "Совёнок для двоих",
+          "icon": "oft.jpg",
           "vk": "https://vk.com/2sova",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1283643946",
           "enabled": "true"
      },
      {
           "name": "Чистовик",
+          "icon": "cc.jpg",
           "vk": "https://vk.com/chistovik_es",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1663475241",
           "enabled": "true"
      },
      {
           "name": "Братское лето",
+          "icon": "brothersummer.jpg",
           "vk": "https://vk.com/fraternalsummer",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2520468168",
           "enabled": "true"
      },
      {
           "name": "Яна",
+          "icon": "yana.jpg",
           "vk": "https://vk.com/zeroimpact",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2239853287",
           "enabled": "true"
      },
      {
           "name": "Сообщество",
+          "icon": "community.jpg",
           "vk": "https://vk.com/eso_la",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2811713757",
           "enabled": "true"
      },
      {
           "name": "Элемент системы",
+          "icon": "eots.jpg",
           "vk": "https://vk.com/darrenwhitegroup",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1549580691",
           "enabled": "true"
      },
      {
           "name": "Тень внутри",
+          "icon": "shdowwithin.jpg",
           "vk": "https://vk.com/fallenangelteam",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2561165070",
           "enabled": "true"
      },
      {
           "name": "Облака",
+          "icon": "clouds.jpg",
           "vk": "https://vk.com/yoroshka",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1795089707",
           "enabled": "true"
      },
      {
           "name": "История одного неудачника",
+          "icon": "ion.jpg",
           "vk": "https://vk.com/blackravenficbook",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1570626647",
           "enabled": "true"
      },
      {
           "name": "Ламповое лето",
+          "icon": "cozysummer.jpg",
           "vk": "https://vk.com/lampoleto",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2352104813",
           "enabled": "true"
      },
      {
           "name": "Возвращение Семёна или Орден Совёнка",
+          "icon": "rsos.jpg",
           "vk": "https://vk.com/herrainisstudio",
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1649019361",
           "enabled": "true"
      },
      {
           "name": "Мяу",
+          "icon": "meow.jpg",
           "vk": "https://krolmen.ru/wp-content/uploads/b/4/5/b456194343565de8d64858720b66cca4.jpeg",
           "steam": "https://z1v.ru/wp-content/uploads/2018/10/in_article_b3c5ab9c41.jpg",
           "enabled": "false"
