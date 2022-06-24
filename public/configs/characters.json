@@ -4414,7 +4414,10 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/ant/ant_1_surprise.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/ant/ant_1_yandere.png"
     ],
-    "clothes": ["https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BKRR/ant/ant_1_body2.png"
+    ],
     "offset": "50% 17%",
     "accessories": [ 
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png" 
@@ -9839,7 +9842,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/pdv/pdv_1_sad.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/pdv/pdv_1_civil.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/pdv/pdv_1_civil.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/pdv/pdv_1_body2.png"
     ],
     "offset": "50% 18%",
     "accessories": [ 
