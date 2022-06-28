@@ -7995,7 +7995,6 @@
     "modification": "Мяу",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_w8.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
     ],
     "clothes": ["https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"],
@@ -8007,7 +8006,7 @@
   {
     "name": "Кот",
     "modification": "Мяу",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_attack.png"
     ],
@@ -8020,7 +8019,7 @@
   {
     "name": "Кот",
     "modification": "Мяу",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_itchy.png"
     ],
@@ -8033,7 +8032,7 @@
   {
     "name": "Кот",
     "modification": "Мяу",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_walk.png"
     ],
@@ -8046,7 +8045,7 @@
   {
     "name": "Кот",
     "modification": "Мяу",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_5.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Dublicate/cat_uv/distanced/cat_walk2.png"
     ],
