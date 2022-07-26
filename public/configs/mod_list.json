@@ -280,6 +280,14 @@
           "enabled": "true"
      },
      {
+          "name": "Сансара",
+          "icon": "sansara.jpg",
+          "vk": "https://vk.com/sansaramod",
+          "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=965613161",
+          "alt": "false",
+          "enabled": "true"
+     },
+     {
           "name": "История одного неудачника",
           "icon": "ion.jpg",
           "vk": "https://vk.com/blackravenficbook",
