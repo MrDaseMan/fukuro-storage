@@ -9951,24 +9951,6 @@
     ]
   },
   {
-    "name": "Ламповое лето an",
-    "modification": "Ламповое лето",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_body.png",
-    "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_normal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_smile.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_surprise.png"
-    ],
-    "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_civil.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Cozy_Summer/an/an_1_yukata.png"
-    ],
-    "offset": "50% 18%",
-    "accessories": [ 
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
-    ]
-  },
-  {
     "name": "Наше Лето sn",
     "modification": "Наше Лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Our_Summer/sn/1/sn_1_body.png",
