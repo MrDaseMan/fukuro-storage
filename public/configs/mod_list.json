@@ -288,6 +288,22 @@
           "enabled": "true"
      },
      {
+          "name": "Эти безумные деньки",
+          "icon": "thiscrazydays.jpg",
+          "vk": "https://vk.com/elic_and_others",
+          "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1363066827",
+          "alt": "false",
+          "enabled": "true"
+     },
+     {
+          "name": "Пионериада",
+          "icon": "pioneriada.jpg",
+          "vk": "https://vk.com/everlastingtales",
+          "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585264824",
+          "alt": "false",
+          "enabled": "true"
+     },
+     {
           "name": "История одного неудачника",
           "icon": "ion.jpg",
           "vk": "https://vk.com/blackravenficbook",
