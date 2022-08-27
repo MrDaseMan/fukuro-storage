@@ -248,14 +248,6 @@
           "enabled": "true"
      },
      {
-          "name": "Облака",
-          "icon": "clouds.jpg",
-          "vk": "https://vk.com/yoroshka",
-          "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1795089707",
-          "alt": "false",
-          "enabled": "true"
-     },
-     {
           "name": "Ламповое лето",
           "icon": "cozysummer.jpg",
           "vk": "https://vk.com/lampoleto",
