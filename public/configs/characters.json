@@ -10599,7 +10599,47 @@
       "NONE"
     ]
   },
-
+  {
+	"name": "Владилена 86",
+	"modification": "Сообщество",
+	"file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/lena86/86_1_body.png",
+	"emotions": [
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_smile.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_smile2.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_anger.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_anger2.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_anguished.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_expressionless.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_hushed.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_hushed2.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_rage.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_rage2.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_scared.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_scared2.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_slightfrown.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_smug.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_sorrowful.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Emotions/86_1_sorrowfull2.png"
+	],
+	"clothes": [
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_pio.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_piosign.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_dress.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_shirt.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_sport.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_sport2.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_swim.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_tshirt.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/lena86/Clothes/86_1_tshirt2.png"
+	],
+	"offset": "50% 38%",
+	"accessories": [
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/public/graphics/sprites/main/lena86/Accessories/86_1_neko.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/public/graphics/sprites/main/lena86/Accessories/86_1_nekored.png",
+		"https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/public/graphics/sprites/main/lena86/Accessories/86_1_red.png"
+	]
+  },
   {
     "name": "wt_СССР-тян",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox.png",
