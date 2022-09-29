@@ -5627,8 +5627,10 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_official.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_official2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_walk.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_hoody.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_yukata.png"
     ],
     "offset": "50% 23%",
@@ -5664,8 +5666,10 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_official.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_official2.png",
       "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_hoody.png",
       "NONE",
       "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_dress3.png",
       "NONE"
     ],
     "offset": "50% 23%",
@@ -5698,8 +5702,10 @@
       "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_official2.png",
       "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_hoody.png",
       "NONE",
       "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_dress3.png",
       "NONE"
     ],
     "offset": "50% 23%",
@@ -5745,8 +5751,10 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_official.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_official2.png",
       "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_hoody.png",
       "NONE",
       "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_dress3.png",
       "NONE"
     ],
     "offset": "50% 23%",
@@ -9224,7 +9232,7 @@
   {
     "name": "Yana yana",
     "modification": "Яна",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn1_pioneer.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_normal.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_angry.png",
@@ -9235,7 +9243,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_sleepy.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn1_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn1_hoody.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -9245,7 +9254,7 @@
   {
     "name": "Yana yana",
     "modification": "Яна",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn2_pioneer.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_normal.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_angry.png",
@@ -9256,7 +9265,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_sleepy.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn2_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn2_hoody.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -9266,7 +9276,7 @@
   {
     "name": "Yana yana",
     "modification": "Яна",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn3_pioneer.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_normal.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_angry.png",
@@ -9277,7 +9287,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn_sleepy.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn3_pioneer.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Yana/yana/normal/yn3_hoody.png"
     ],
     "offset": "50% 23%",
     "accessories": [
