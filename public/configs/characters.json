@@ -8639,7 +8639,7 @@
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_d.png",
@@ -8667,7 +8667,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
@@ -8680,11 +8680,12 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1p_1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1j_1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1d_1.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_1.png"
     ],
     "offset": "50% 35%",
     "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/nats_nep.png"
     ]
   },
   {
@@ -8693,7 +8694,7 @@
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_d.png",
@@ -8720,7 +8721,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
@@ -8733,7 +8734,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1p_2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1j_2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1d_2.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_2.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -8747,7 +8748,7 @@
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_d.png",
@@ -8774,7 +8775,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
@@ -8787,11 +8788,12 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1p_3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1j_3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1d_3.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_3.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_3.png"
     ],
     "offset": "50% 35%",
     "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/nats_nep.png"
     ]
   },
     {
@@ -8800,7 +8802,7 @@
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_d.png",
@@ -8827,7 +8829,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
@@ -8840,11 +8842,12 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1p_4.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1j_4.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1d_4.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_4.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1s_4.png"
     ],
     "offset": "50% 35%",
     "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/nats_nep.png"
     ]
   },
     {
@@ -8853,7 +8856,7 @@
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_5.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_a2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_d.png",
@@ -8880,7 +8883,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-	  "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
@@ -8890,14 +8893,15 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2_i.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2p_3.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2j_3.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2d_3.png",
-	  "NONE"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2p.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2j.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/ni_2d.png",
+      "NONE"
     ],
     "offset": "50% 35%",
     "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/nats/nats_nep.png"
     ]
   },
   {
