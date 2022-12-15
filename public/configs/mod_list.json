@@ -302,5 +302,13 @@
           "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1570626647",
           "alt": "false",
           "enabled": "true"
+     },
+     {
+          "name": "Недостающее Звено Другого Мира",
+          "icon": "nzdm.png",
+          "vk": "https://vk.com/zveno_410",
+          "steam": "",
+          "alt": "false",
+          "enabled": "true"
      }
 ]
