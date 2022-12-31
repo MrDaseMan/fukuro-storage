@@ -12131,14 +12131,11 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/wink1.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/pio1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/ss_coat1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/coat1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/forest1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/od_coat1.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/sport1.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/club1.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/ss_dress1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/sport1.png"
     ],
     "offset": "50% 28%",
     "accessories": [
@@ -12168,13 +12165,10 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/wink2.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/pio2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/ss_coat2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/coat2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/forest2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/od_coat2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/club2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/ss_dress2.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/sam/od_coat2.png"
     ],
     "offset": "50% 28%",
     "accessories": [
