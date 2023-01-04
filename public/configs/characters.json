@@ -13116,7 +13116,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/emo/kr_1_worry_no_book.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_winter.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/1/clothes/kr_1_winter.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13124,7 +13124,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/acc/kr_1_ears.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/acc/kr_1_new_year's_hat.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/1/acc/kr_1_new_year's_hat.png"
     ]
   },
   {
@@ -13142,7 +13142,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/emo/kr_2_wink.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_2_winter.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/2/clothes/kr_2_winter.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13150,7 +13150,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/acc/kr_2_book1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/acc/kr_2_book2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/acc/kr_2_ears.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/acc/kr_2_new_year's_hat.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/2/acc/kr_2_new_year's_hat.png"
     ]
   },
   {
@@ -13165,7 +13165,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/emo/kr_3_surprise.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_3_winter.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/3/clothes/kr_3_winter.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13173,7 +13173,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/acc/kr_3_ears.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/acc/kr_3_new_year's_hat.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/3/acc/kr_3_new_year's_hat.png"
     ]
   },
   {
@@ -13201,7 +13201,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/emo/kr_4_worry.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_4_winter.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/4/clothes/kr_4_winter.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13209,7 +13209,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_3.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/acc/kr_4_ears.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/acc/kr_4_new_year's_hat.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/wt/BLPI/kr/4/acc/kr_4_new_year's_hat.png"
     ]
   }
 ]
