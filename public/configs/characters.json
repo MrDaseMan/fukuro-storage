@@ -7896,15 +7896,60 @@
   {
     "name": "Behind Sovyonok mercy",
     "modification": "По ту сторону совёнка",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/Behind_Sovyonokmercy/1/base_normal.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/base_normal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/shy_normal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/smile_normal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/wink_normal.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/1/emo/base_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/1/emo/shy_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/1/emo/smile_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/1/emo/wink_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/1/emo/poutinglips_emo.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/1/emo/ignoring_emo.pn"
     ],
     "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/1/clothes/base_short.png"
+    ],
+    "offset": "50% 22%",
+    "accessories": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Behind Sovyonok mercy",
+    "modification": "По ту сторону совёнка",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/Behind_Sovyonokmercy/2/base_normal_2.png",
+    "emotions": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/2/emo/base_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/2/emo/shy_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/2/emo/smile_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/2/emo/wink_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/2/emo/poutinglips_emo.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/2/emo/ignoring_emo.pn"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/2/clothes/base_short_2.png"
+    ],
+    "offset": "50% 22%",
+    "accessories": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Behind Sovyonok mercy",
+    "modification": "По ту сторону совёнка",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/Behind_Sovyonokmercy/3/base_normal_3.png",
+    "emotions": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/3/emo/base_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/3/emo/shy_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/3/emo/smile_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/3/emo/wink_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/3/emo/poutinglips_emo.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/3/emo/ignoring_emo.pn"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/mercy/3/clothes/base_short_3.png"
     ],
     "offset": "50% 22%",
     "accessories": [
