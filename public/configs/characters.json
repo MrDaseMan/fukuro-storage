@@ -5673,7 +5673,8 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress3.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_yukata.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_yukata.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_lycoris.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5712,7 +5713,8 @@
       "NONE",
       "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_dress3.png",
-      "NONE"
+      "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_lycoris.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5748,7 +5750,8 @@
       "NONE",
       "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_dress3.png",
-      "NONE"
+      "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_lycoris.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5797,7 +5800,8 @@
       "NONE",
       "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_dress3.png",
-      "NONE"
+      "NONE",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_lycoris.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13074,6 +13078,54 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/brn/acc/cat_ears.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/brn/acc/pink_bow.png"
+    ]
+  },
+  {
+    "name": "ЛВС 02",
+    "modification": "Любимый в Совёнке",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/02_1_body.png",
+    "emotions": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/laugh_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/normal_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/serious_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/surprise_1.png"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/clothes/pioneer_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/clothes/military_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/clothes/polot_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/clothes/sport_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/clothes/swim_1.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/acc/hat_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/acc/horror_1.png"
+    ]
+  },
+  {
+    "name": "ЛВС 02",
+    "modification": "Любимый в Совёнке",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/02_2_body.png",
+    "emotions": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/emo/smile_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/emo/serious_shy_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/emo/sad_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/emo/angry_2.png"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/clothes/pioneer_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/clothes/military_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/clothes/polot_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/clothes/sport_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/clothes/swim_2.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/hat_2.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/horror_2.png"
     ]
   },
   {
