@@ -5673,8 +5673,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress2.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress3.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_yukata.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_lycoris.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_yukata.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5713,8 +5712,7 @@
       "NONE",
       "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_dress3.png",
-      "NONE",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_lycoris.png"
+      "NONE"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5750,8 +5748,7 @@
       "NONE",
       "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_dress3.png",
-      "NONE",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_lycoris.png"
+      "NONE"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5800,8 +5797,7 @@
       "NONE",
       "NONE",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_dress3.png",
-      "NONE",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_lycoris.png"
+      "NONE"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13081,7 +13077,7 @@
     ]
   },
   {
-    "name": "ЛВС 02",
+    "name": "02",
     "modification": "Любимый в Совёнке",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/02_1_body.png",
     "emotions": [
@@ -13105,7 +13101,7 @@
     ]
   },
   {
-    "name": "ЛВС 02",
+    "name": "02",
     "modification": "Любимый в Совёнке",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/02_2_body.png",
     "emotions": [
