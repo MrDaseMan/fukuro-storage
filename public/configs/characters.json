@@ -9973,6 +9973,21 @@
     ]
   },
   {
+    "name": "Криминалист",
+    "modification": "Чистовик",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/st/st_1.png"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/st/st_1.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/st/st_1.png"
+    ]
+  },
+  {
     "name": "Братское лето John",
     "modification": "Братское лето",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Brother_Summer/john/john_body.png",
