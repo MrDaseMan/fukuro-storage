@@ -9945,7 +9945,7 @@
     ]
   },
   {
-    "name": "Милицейский побольше",
+    "name": "Следователь Колесников",
     "modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
@@ -9965,7 +9965,7 @@
     ]
   },
   {
-    "name": "Милицейский поменьше",
+    "name": "Участковый Журавлёв",
     "modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
@@ -9983,7 +9983,7 @@
     ]
   },
   {
-    "name": "Криминалист",
+    "name": "Криминалист Степан",
     "modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/st/st_1.png",
     "emotions": [
