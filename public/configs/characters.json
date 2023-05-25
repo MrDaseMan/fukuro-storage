@@ -9968,7 +9968,7 @@
   {
     "name": "Следователь Колесников",
     "modification": "Чистовик",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk2nf.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk_nrm.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk_skps.png",
@@ -9976,25 +9976,9 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk_angry.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk2nf.png"
-    ],
-    "offset": "50% 23%",
-    "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_pistol.png"
-    ]
-  },
-  {
-    "name": "Следователь Колесников",
-    "modification": "Чистовик",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk2d1",
-    "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk_nrm.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk_skps.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk_ned.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk_angry.png"
-    ],
-    "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk2d2"
+       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk2nf.png",
+       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk2d2",
+       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vk/ch_vk2d1"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -10004,14 +9988,15 @@
   {
     "name": "Участковый Журавлёв",
     "modification": "Чистовик",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vi/ch_vi2.png",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"",
     "emotions": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vi/ch_vi_nrm.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vi/ch_vi_surp.png",
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vi/ch_vi_ned.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vi/ch_vi1.png"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vi/ch_vi1.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/vi/ch_vi2.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -10033,7 +10018,7 @@
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/st/ch_pirog.png"
     ]
   },
-    {
+  {
     "name": "Старушка",
     "modification": "Чистовик",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/DDLC/kstl/kstl_0.png",
