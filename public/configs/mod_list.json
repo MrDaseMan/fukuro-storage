@@ -319,4 +319,12 @@
     "alt": "false",
     "enabled": "true"
   }
+  {
+    "name": "Быдло в Совёнке",
+    "icon": "preview.png",
+    "vk": "https://vk.com/endoflifeteam",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1706572704",
+    "alt": "false",
+    "enabled": "true"
+  }
 ]
