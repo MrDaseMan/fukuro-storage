@@ -4311,17 +4311,17 @@
     "modification": "Саманта",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/evw/evw_angry",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/evw/evw_happy",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/evw/evw_normal",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/evw/evw_rage",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/evw/evw_smile",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Samantha/evw/evw_surprise"
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage\public\graphics\sprites\mods\Samantha\evw\evw_normal.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage\public\graphics\sprites\mods\Samantha\evw\evw_angry.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage\public\graphics\sprites\mods\Samantha\evw\evw_rage.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage\public\graphics\sprites\mods\Samantha\evw\evw_happy.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage\public\graphics\sprites\mods\Samantha\evw\evw_smile.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage\public\graphics\sprites\mods\Samantha\evw\evw_surprise.png"
     ],
     "clothes": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 19%",
+    "offset": "50% 15%",
     "accessories": [
       "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
     ]
