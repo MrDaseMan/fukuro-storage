@@ -601,6 +601,436 @@
       "/graphics/sprites/sprites_hitbox_2.png"
     ]
   },
+ {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_3_body_pt.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_3_shy.png",
+      "/graphics/sprites/dv/dv_3_shy_smile.png",
+      "/graphics/sprites/dv/dv_3_guilty.png",
+      "/graphics/sprites/dv/dv_3_closed_eyes.png",
+      "/graphics/sprites/dv/dv_3_cry_smile.png",
+      "/graphics/sprites/dv/dv_3_cry2.png",
+      "/graphics/sprites/dv/dv_3_sad.png",
+      "/graphics/sprites/dv/dv_3_sad_smile.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_3_shy.png",
+      "/graphics/sprites/dv/dv_3_shy_smile.png",
+      "/graphics/sprites/orika_alt/dv/dv_3_guilty.png",
+      "/graphics/sprites/dv/dv_3_closed_eyes.png",
+      "/graphics/sprites/dv/dv_3_cry_smile.png",
+      "/graphics/sprites/dv/dv_3_cry2.png",
+      "/graphics/sprites/orika_alt/dv/dv_3_sad.png",
+      "/graphics/sprites/dv/dv_3_sad_smile.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_3_pioneer.png",
+      "/graphics/sprites/dv/dv_3_pioneer2.png",
+      "/graphics/sprites/dv/dv_3_sport.png",
+      "/graphics/sprites/dv/dv_3_sport2.png",
+      "/graphics/sprites/dv/dv_3_swim.png",
+      "/graphics/sprites/dv/dv_3_sleep.png",
+      "/graphics/sprites/dv/dv_3_orangejacket.png",
+      "/graphics/sprites/dv/dv_3_civil.png",
+      "/graphics/sprites/dv/dv_3_casual2.png",
+      "/graphics/sprites/dv/dv_3_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_3_casual.png",
+      "/graphics/sprites/dv/dv_3_hoody.png",
+      "/graphics/sprites/dv/dv_3_official.png",
+      "/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
+      "/graphics/sprites/dv/dv_3_dress.png",
+      "/graphics/sprites/dv/dv_3_raincoat.png",
+      "/graphics/sprites/dv/dv_3_yukata.png"
+    ],
+    "offset": "47% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_3_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_2_body_pt.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_2_grin.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_2_grin.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_2_pioneer.png",
+      "/graphics/sprites/dv/dv_2_pioneer2.png",
+      "/graphics/sprites/dv/dv_2_sport.png",
+      "/graphics/sprites/dv/dv_2_sport2.png",
+      "/graphics/sprites/dv/dv_2_swim.png",
+      "/graphics/sprites/dv/dv_2_sleep.png",
+      "/graphics/sprites/dv/dv_2_orangejacket.png",
+      "/graphics/sprites/dv/dv_2_civil.png",
+      "/graphics/sprites/dv/dv_2_casual2.png",
+      "/graphics/sprites/dv/dv_2_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_2_casual.png",
+      "/graphics/sprites/dv/dv_2_hoody.png",
+      "/graphics/sprites/dv/dv_2_official.jpg",
+      "/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
+      "/graphics/sprites/dv/dv_2_dress.png",
+      "/graphics/sprites/dv/dv_2_raincoat.png",
+      "/graphics/sprites/dv/dv_2_yukata.png"
+    ],
+    "offset": "50% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_2_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_1_body_pt.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_1_surprise.png",
+      "/graphics/sprites/dv/dv_1_think.png",
+      "/graphics/sprites/dv/dv_1_concent.png",
+      "/graphics/sprites/dv/dv_1_shocked.png",
+      "/graphics/sprites/dv/dv_1_scared.png",
+      "/graphics/sprites/dv/dv_1_cry.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_1_surprise.png",
+      "/graphics/sprites/dv/dv_1_think.png",
+      "/graphics/sprites/dv/dv_1_concent.png",
+      "/graphics/sprites/orika_alt/dv/dv_1_shocked.png",
+      "/graphics/sprites/orika_alt/dv/dv_1_scared.png",
+      "/graphics/sprites/orika_alt/dv/dv_1_cry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_1_pioneer.png",
+      "/graphics/sprites/dv/dv_1_pioneer2.png",
+      "/graphics/sprites/dv/dv_1_sport.png",
+      "/graphics/sprites/dv/dv_1_sport2.png",
+      "/graphics/sprites/dv/dv_1_swim.png",
+      "/graphics/sprites/dv/dv_1_sleep.png",
+      "/graphics/sprites/dv/dv_1_orangejacket.png",
+      "/graphics/sprites/dv/dv_1_civil.png",
+      "/graphics/sprites/dv/dv_1_casual2.png",
+      "/graphics/sprites/dv/dv_1_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_1_casual.png",
+      "/graphics/sprites/dv/dv_1_hoody.png",
+      "/graphics/sprites/dv/dv_1_official.png",
+      "/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
+      "/graphics/sprites/dv/dv_1_dress.png",
+      "/graphics/sprites/dv/dv_1_raincoat.png",
+      "/graphics/sprites/dv/dv_1_yukata.png"
+    ],
+    "offset": "49% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_1_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_4_body_pt.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_4_laugh.png",
+      "/graphics/sprites/dv/dv_4_normal.png",
+      "/graphics/sprites/dv/dv_4_smile.png",
+      "/graphics/sprites/dv/dv_4_soft_smile.png",
+      "/graphics/sprites/dv/dv_4_shy2.png",
+      "/graphics/sprites/dv/dv_4_tired.png",
+      "/graphics/sprites/dv/dv_4_dontlike.png",
+      "/graphics/sprites/dv/dv_4_sadness.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_4_laugh.png",
+      "/graphics/sprites/orika_alt/dv/dv_4_normal.png",
+      "/graphics/sprites/orika_alt/dv/dv_4_smile.png",
+      "/graphics/sprites/dv/dv_4_soft_smile.png",
+      "/graphics/sprites/dv/dv_4_shy2.png",
+      "/graphics/sprites/dv/dv_4_tired.png",
+      "/graphics/sprites/dv/dv_4_dontlike.png",
+      "/graphics/sprites/dv/dv_4_sadness.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_4_pioneer.png",
+      "/graphics/sprites/dv/dv_4_pioneer2.png",
+      "/graphics/sprites/dv/dv_4_sport.png",
+      "/graphics/sprites/dv/dv_4_sport2.png",
+      "/graphics/sprites/dv/dv_4_swim.png",
+      "/graphics/sprites/dv/dv_4_sleep.png",
+      "/graphics/sprites/dv/dv_4_orangejacket.png",
+      "/graphics/sprites/dv/dv_4_civil.png",
+      "/graphics/sprites/dv/dv_4_casual2.png",
+      "/graphics/sprites/dv/dv_4_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_4_casual.png",
+      "/graphics/sprites/dv/dv_4_hoody.png",
+      "/graphics/sprites/dv/dv_4_official.jpg",
+      "/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
+      "/graphics/sprites/dv/dv_4_dress.png",
+      "/graphics/sprites/dv/dv_4_raincoat.png",
+      "/graphics/sprites/dv/dv_4_yukata.png"
+    ],
+    "offset": "47% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_4_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_5_body_pt.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_5_angry.png",
+      "/graphics/sprites/dv/dv_5_rage.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_5_angry.png",
+      "/graphics/sprites/orika_alt/dv/dv_5_rage.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_5_pioneer.png",
+      "/graphics/sprites/dv/dv_5_pioneer2.png",
+      "/graphics/sprites/dv/dv_5_sport.png",
+      "/graphics/sprites/dv/dv_5_sport2.png",
+      "/graphics/sprites/dv/dv_5_swim.png",
+      "/graphics/sprites/dv/dv_5_sleep.png",
+      "/graphics/sprites/dv/dv_5_orangejacket.png",
+      "/graphics/sprites/dv/dv_5_civil.png",
+      "/graphics/sprites/dv/dv_5_casual2.png",
+      "/graphics/sprites/dv/dv_5_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_5_casual.png",
+      "/graphics/sprites/dv/dv_5_hoody.png",
+      "/graphics/sprites/dv/dv_5_official.jpg",
+      "/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
+      "/graphics/sprites/dv/dv_5_dress.png",
+      "/graphics/sprites/dv/dv_5_raincoat.png",
+      "/graphics/sprites/dv/dv_5_yukata.png"
+    ],
+    "offset": "51% 31%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_5_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_3_body_without_t.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_3_shy.png",
+      "/graphics/sprites/dv/dv_3_shy_smile.png",
+      "/graphics/sprites/dv/dv_3_guilty.png",
+      "/graphics/sprites/dv/dv_3_closed_eyes.png",
+      "/graphics/sprites/dv/dv_3_cry_smile.png",
+      "/graphics/sprites/dv/dv_3_cry2.png",
+      "/graphics/sprites/dv/dv_3_sad.png",
+      "/graphics/sprites/dv/dv_3_sad_smile.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_3_shy.png",
+      "/graphics/sprites/dv/dv_3_shy_smile.png",
+      "/graphics/sprites/orika_alt/dv/dv_3_guilty.png",
+      "/graphics/sprites/dv/dv_3_closed_eyes.png",
+      "/graphics/sprites/dv/dv_3_cry_smile.png",
+      "/graphics/sprites/dv/dv_3_cry2.png",
+      "/graphics/sprites/orika_alt/dv/dv_3_sad.png",
+      "/graphics/sprites/dv/dv_3_sad_smile.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_3_pioneer.png",
+      "/graphics/sprites/dv/dv_3_pioneer2.png",
+      "/graphics/sprites/dv/dv_3_sport.png",
+      "/graphics/sprites/dv/dv_3_sport2.png",
+      "/graphics/sprites/dv/dv_3_swim.png",
+      "/graphics/sprites/dv/dv_3_sleep.png",
+      "/graphics/sprites/dv/dv_3_orangejacket.png",
+      "/graphics/sprites/dv/dv_3_civil.png",
+      "/graphics/sprites/dv/dv_3_casual2.png",
+      "/graphics/sprites/dv/dv_3_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_3_casual.png",
+      "/graphics/sprites/dv/dv_3_hoody.png",
+      "/graphics/sprites/dv/dv_3_official.png",
+      "/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
+      "/graphics/sprites/dv/dv_3_dress.png",
+      "/graphics/sprites/dv/dv_3_raincoat.png",
+      "/graphics/sprites/dv/dv_3_yukata.png"
+    ],
+    "offset": "47% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_3_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_2_body_without_t.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_2_grin.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_2_grin.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_2_pioneer.png",
+      "/graphics/sprites/dv/dv_2_pioneer2.png",
+      "/graphics/sprites/dv/dv_2_sport.png",
+      "/graphics/sprites/dv/dv_2_sport2.png",
+      "/graphics/sprites/dv/dv_2_swim.png",
+      "/graphics/sprites/dv/dv_2_sleep.png",
+      "/graphics/sprites/dv/dv_2_orangejacket.png",
+      "/graphics/sprites/dv/dv_2_civil.png",
+      "/graphics/sprites/dv/dv_2_casual2.png",
+      "/graphics/sprites/dv/dv_2_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_2_casual.png",
+      "/graphics/sprites/dv/dv_2_hoody.png",
+      "/graphics/sprites/dv/dv_2_official.jpg",
+      "/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
+      "/graphics/sprites/dv/dv_2_dress.png",
+      "/graphics/sprites/dv/dv_2_raincoat.png",
+      "/graphics/sprites/dv/dv_2_yukata.png"
+    ],
+    "offset": "50% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_2_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_1_body_without_t.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_1_surprise.png",
+      "/graphics/sprites/dv/dv_1_think.png",
+      "/graphics/sprites/dv/dv_1_concent.png",
+      "/graphics/sprites/dv/dv_1_shocked.png",
+      "/graphics/sprites/dv/dv_1_scared.png",
+      "/graphics/sprites/dv/dv_1_cry.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_1_surprise.png",
+      "/graphics/sprites/dv/dv_1_think.png",
+      "/graphics/sprites/dv/dv_1_concent.png",
+      "/graphics/sprites/orika_alt/dv/dv_1_shocked.png",
+      "/graphics/sprites/orika_alt/dv/dv_1_scared.png",
+      "/graphics/sprites/orika_alt/dv/dv_1_cry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_1_pioneer.png",
+      "/graphics/sprites/dv/dv_1_pioneer2.png",
+      "/graphics/sprites/dv/dv_1_sport.png",
+      "/graphics/sprites/dv/dv_1_sport2.png",
+      "/graphics/sprites/dv/dv_1_swim.png",
+      "/graphics/sprites/dv/dv_1_sleep.png",
+      "/graphics/sprites/dv/dv_1_orangejacket.png",
+      "/graphics/sprites/dv/dv_1_civil.png",
+      "/graphics/sprites/dv/dv_1_casual2.png",
+      "/graphics/sprites/dv/dv_1_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_1_casual.png",
+      "/graphics/sprites/dv/dv_1_hoody.png",
+      "/graphics/sprites/dv/dv_1_official.png",
+      "/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
+      "/graphics/sprites/dv/dv_1_dress.png",
+      "/graphics/sprites/dv/dv_1_raincoat.png",
+      "/graphics/sprites/dv/dv_1_yukata.png"
+    ],
+    "offset": "49% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_1_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_4_body_without_t.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_4_laugh.png",
+      "/graphics/sprites/dv/dv_4_normal.png",
+      "/graphics/sprites/dv/dv_4_smile.png",
+      "/graphics/sprites/dv/dv_4_soft_smile.png",
+      "/graphics/sprites/dv/dv_4_shy2.png",
+      "/graphics/sprites/dv/dv_4_tired.png",
+      "/graphics/sprites/dv/dv_4_dontlike.png",
+      "/graphics/sprites/dv/dv_4_sadness.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_4_laugh.png",
+      "/graphics/sprites/orika_alt/dv/dv_4_normal.png",
+      "/graphics/sprites/orika_alt/dv/dv_4_smile.png",
+      "/graphics/sprites/dv/dv_4_soft_smile.png",
+      "/graphics/sprites/dv/dv_4_shy2.png",
+      "/graphics/sprites/dv/dv_4_tired.png",
+      "/graphics/sprites/dv/dv_4_dontlike.png",
+      "/graphics/sprites/dv/dv_4_sadness.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_4_pioneer.png",
+      "/graphics/sprites/dv/dv_4_pioneer2.png",
+      "/graphics/sprites/dv/dv_4_sport.png",
+      "/graphics/sprites/dv/dv_4_sport2.png",
+      "/graphics/sprites/dv/dv_4_swim.png",
+      "/graphics/sprites/dv/dv_4_sleep.png",
+      "/graphics/sprites/dv/dv_4_orangejacket.png",
+      "/graphics/sprites/dv/dv_4_civil.png",
+      "/graphics/sprites/dv/dv_4_casual2.png",
+      "/graphics/sprites/dv/dv_4_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_4_casual.png",
+      "/graphics/sprites/dv/dv_4_hoody.png",
+      "/graphics/sprites/dv/dv_4_official.jpg",
+      "/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
+      "/graphics/sprites/dv/dv_4_dress.png",
+      "/graphics/sprites/dv/dv_4_raincoat.png",
+      "/graphics/sprites/dv/dv_4_yukata.png"
+    ],
+    "offset": "47% 29%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_4_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "/graphics/sprites/dv/dv_5_body_without_t.png",
+    "emotions": [
+      "/graphics/sprites/dv/dv_5_angry.png",
+      "/graphics/sprites/dv/dv_5_rage.png"
+    ],
+    "emotions_alt": [
+      "/graphics/sprites/orika_alt/dv/dv_5_angry.png",
+      "/graphics/sprites/orika_alt/dv/dv_5_rage.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/dv/dv_5_pioneer.png",
+      "/graphics/sprites/dv/dv_5_pioneer2.png",
+      "/graphics/sprites/dv/dv_5_sport.png",
+      "/graphics/sprites/dv/dv_5_sport2.png",
+      "/graphics/sprites/dv/dv_5_swim.png",
+      "/graphics/sprites/dv/dv_5_sleep.png",
+      "/graphics/sprites/dv/dv_5_orangejacket.png",
+      "/graphics/sprites/dv/dv_5_civil.png",
+      "/graphics/sprites/dv/dv_5_casual2.png",
+      "/graphics/sprites/dv/dv_5_casual.png",
+      "/graphics/sprites/mods/Additional/dv/dv_5_casual.png",
+      "/graphics/sprites/dv/dv_5_hoody.png",
+      "/graphics/sprites/dv/dv_5_official.jpg",
+      "/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
+      "/graphics/sprites/dv/dv_5_dress.png",
+      "/graphics/sprites/dv/dv_5_raincoat.png",
+      "/graphics/sprites/dv/dv_5_yukata.png"
+    ],
+    "offset": "51% 31%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/dv/dv_5_ears.png"
+    ]
+  },
   {
     "name": "Маленькая Алиса",
     "modification": "7 Дней Лета: Lost Alpha",
