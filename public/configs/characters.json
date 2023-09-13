@@ -12797,6 +12797,35 @@
     ]
   },
   {
+    "name": "Ари",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/Ari/ari_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_smile.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_gloomy.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_neutral.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_shy.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_shysmile.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_tears.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_madness.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_angrysmile.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_closeeyes.png",
+      "/graphics/sprites/mods/Additional/Ari/Emotions/ari_1_closesmile.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_pio.png",
+      "/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_tshirt.png",
+      "/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_dress.png",
+      "/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_haori.png",
+      "/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_swimsuit.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/Additional/Ari/Accessories/ari_1_glove.png"
+    ]
+  },
+  {
     "name": "Вика",
     "modification": "Недостающее Звено Другого Мира",
     "file": "/graphics/sprites/sprites_hitbox_1.png",
