@@ -4734,7 +4734,6 @@
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/Samantha_RP/sam/young/3-pilot.png"
-<<<<<<< HEAD
     ]
   },
   {
@@ -4755,8 +4754,6 @@
     "offset": "50% 16%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
-=======
->>>>>>> 34d31623d9face506f09ecda8cb78206e3bf0d98
     ]
   },
   {
