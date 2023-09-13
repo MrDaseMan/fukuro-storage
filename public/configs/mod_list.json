@@ -257,7 +257,7 @@
   },
   {
     "name": "Наше Лето",
-    "icon": "oursummer.jpg",
+    "icon": "oursummer.png",
     "vk": "https://vk.com/es_our_summer",
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585662381",
     "alt": "false",
@@ -313,9 +313,9 @@
   },
   {
     "name": "Милый в Совенке",
-    "icon": "ditf.png",
+    "icon": "ditf.gif",
     "vk": "https://vk.com/pila_team",
-    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1966547156&searchtext=",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1966547156",
     "alt": "false",
     "enabled": "true"
   }
