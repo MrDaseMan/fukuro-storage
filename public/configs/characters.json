@@ -8400,6 +8400,26 @@
     ]
   },
   {
+    "name": "Behind Sovyonok ki",
+    "modification": "По ту сторону совёнка",
+    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/base_normal_black.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/ask_normal_black.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/smile_normal_black.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/angry_normal_black.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/grin_normal_black.png",
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/indifference_normal_black.png"
+    ],
+    "clothes": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png"
+    ],
+    "offset": "50% 12%",
+    "accessories": [
+      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png"
+    ]
+  },
+  {
     "name": "Behind Sovyonok Lyuba",
     "modification": "По ту сторону совёнка",
     "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
