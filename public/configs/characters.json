@@ -12866,6 +12866,78 @@
     ]
   },
   {
+    "name": "Март",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/March/ma_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_neutral.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_lightsmile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_smile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_closesmile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_winksmile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_embrassed.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_surprise.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_taunt.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_sadness.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_resentment.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_tears.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_closetears.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_pio.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_blackpio.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_white.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_black.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_casual.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_casual2.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_dress.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_dress2.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_sport.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_swimsuit.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/Additional/March/Accessories/ma_1_tie.png"
+    ]
+  },
+  {
+    "name": "Март",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/March/ma_1_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_neutral.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_lightsmile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_smile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_closesmile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_winksmile.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_embrassed.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_surprise.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_taunt.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_sadness.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_resentment.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_tears.png",
+      "/graphics/sprites/mods/Additional/March/Emotions/ma_1_closetears.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_pio.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_blackpio.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_white.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_black.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_casual.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_casual2.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_dress.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_dress2.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_sport.png",
+      "/graphics/sprites/mods/Additional/March/Clothes/ma_1_swimsuit.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/Additional/March/Accessories/ma_1_tie.png"
+    ]
+  },
+  {
     "name": "Вика",
     "modification": "Недостающее Звено Другого Мира",
     "file": "/graphics/sprites/sprites_hitbox_1.png",
