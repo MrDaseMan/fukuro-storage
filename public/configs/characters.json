@@ -43,7 +43,8 @@
       "/graphics/sprites/cs/cs_1_dress2.png",
       "/graphics/sprites/cs/cs_1_labcoatns.png",
       "/graphics/sprites/cs/cs_1_swim2.png",
-      "/graphics/sprites/cs/cs_1_swim.png"
+      "/graphics/sprites/cs/cs_1_swim.png",
+      "/graphics/sprites/cs/cs_1_casual2.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -5638,7 +5639,8 @@
       "NONE",
       "NONE",
       "NONE",
-      "NONE"
+      "NONE",
+      "/graphics/sprites/mods/EC_RP/li/li_1_body_dark_n.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5677,7 +5679,8 @@
       "NONE",
       "NONE",
       "NONE",
-      "NONE"
+      "NONE",
+      "/graphics/sprites/mods/EC_RP/li/li_2_body_dark_n.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5713,7 +5716,8 @@
       "NONE",
       "NONE",
       "NONE",
-      "NONE"
+      "NONE",
+      "/graphics/sprites/mods/EC_RP/li/li_3_body_dark_n.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -5749,7 +5753,8 @@
       "NONE",
       "NONE",
       "NONE",
-      "NONE"
+      "NONE",
+      "/graphics/sprites/mods/EC_RP/li/li_4_body_dark_n.png"
     ],
     "offset": "50% 23%",
     "accessories": [
