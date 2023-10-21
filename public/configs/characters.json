@@ -4737,6 +4737,26 @@
     ]
   },
   {
+    "name": "Инспектор",
+    "modification": "Саманта",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Samantha/evw/evw_normal.png",
+      "/graphics/sprites/mods/Samantha/evw/evw_angry.png",
+      "/graphics/sprites/mods/Samantha/evw/evw_rage.png",
+      "/graphics/sprites/mods/Samantha/evw/evw_happy.png",
+      "/graphics/sprites/mods/Samantha/evw/evw_smile.png",
+      "/graphics/sprites/mods/Samantha/evw/evw_surprise.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 16%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Саныч",
     "modification": "7 Дней Лета: Lost Alpha",
     "file": "/graphics/sprites/mods/7dl/ba/ba_1_body.png",
