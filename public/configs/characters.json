@@ -5183,10 +5183,11 @@
   {
     "name": "Алеся",
     "modification": "Алеся: Побег из лагеря",
-    "file": "/graphics/sprites/mods/Alesya/lseya/lseya_hitbox.png",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "/graphics/sprites/mods/Alesya/lseya/pio/lseya_normal_pio_norm.png",
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_upset_pio_norm.png"
+      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_upset_pio_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_angry_pio_norm.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -5216,11 +5217,75 @@
     "modification": "Алеся: Побег из лагеря",
     "file": "/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_angry_pio_norm.png",
       "/graphics/sprites/mods/Alesya/lseya/pio/lseya_cry_pio_norm.png",
       "/graphics/sprites/mods/Alesya/lseya/pio/lseya_fear_pio_norm.png",
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_sad_pio_norm.png",
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_upset_pio_norm.png"
+      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_sad_pio_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+    {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_5.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_laugh_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_shy_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_tender_sport_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_6.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_normal_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_upset_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_angry_sport_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_7.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_rage_sport_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_8.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_cry_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_fear_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_sad_sport_norm.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -5646,7 +5711,7 @@
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/EC_RP/li/li_1_ears.png",
-      "/graphics/sprites/mods/EC_RP/li/li_1_glasses.png"
+      "/graphics/sprites/mods/EC_RP/li/li2_glasses.png"
     ]
   },
   {
@@ -9713,7 +9778,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9768,7 +9833,7 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1c_1.png",
       "/graphics/sprites/mods/DDLC/mon/mk_1h_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9823,7 +9888,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9878,7 +9943,7 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1c_3.png",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9909,7 +9974,7 @@
       "/graphics/sprites/mods/DDLC/mon/mk_2c.png",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9973,7 +10038,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_1.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_1.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10037,7 +10102,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_2.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_2.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10101,7 +10166,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_3.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_3.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10165,7 +10230,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_4.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_4.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10229,7 +10294,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10285,7 +10350,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10341,7 +10406,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10397,7 +10462,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10453,7 +10518,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10509,7 +10574,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10536,7 +10601,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -14831,6 +14896,158 @@
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/hat_2.png",
       "/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/horror_2.png"
+    ]
+  },
+  {
+    "name": "Анджелла",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/ang/ang_f.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_smile.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_smile2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_angry.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_ph.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_pn.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_sad.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_sad2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_wow.png",
+      "/graphics/sprites/mods/Additional/ang/ang_f_wow2.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Анджелла",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/ang/ang_p.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_smile.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_smile2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_angry.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_ph.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_pn.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_sad.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_sad2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_wow.png",
+      "/graphics/sprites/mods/Additional/ang/ang_p_wow2.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ян",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yan/yan_f.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_smile.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_smile2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_diss.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_diss0.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_diss2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_pn.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_sad.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_wow.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_luk.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 35%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ян",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yan/yan_p.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_smile.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_smile2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_diss1.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_diss2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_hmm.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_luk.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_sad.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_wow.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_wow2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_f_crz.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 35%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Юрия",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yir/yir_f.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_smile.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_diss.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_diss0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_angry.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_bb.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_kw.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_sad.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_sad2.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_wow.png",
+      "/graphics/sprites/mods/Additional/yir/yir_f_wow2.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Юрия",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yir/yir_p.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_smile.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_conf.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_conf0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_angry.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_bb.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_bb0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_diss0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_sad.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_lw.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_ph.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_uh.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_cry0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_was.png",
+      "/graphics/sprites/mods/Additional/yir/yir_p_wow.png",	
+      "/graphics/sprites/mods/Additional/yir/yir_p_wow0.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
