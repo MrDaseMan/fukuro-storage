@@ -15124,6 +15124,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_1_shirt.png"
     ]
   },
@@ -15150,6 +15151,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_1_shirt.png"
     ]
   },
@@ -15171,6 +15173,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_2_shirt.png"
     ]
   },
@@ -15192,6 +15195,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_2_shirt.png"
     ]
   },
@@ -15213,6 +15217,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_3_shirt.png"
     ]
   },
@@ -15234,6 +15239,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_3_shirt.png"
     ]
   },
@@ -15254,6 +15260,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_4_shirt.png"
     ]
   },
@@ -15274,6 +15281,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/kat/kat_4_shirt.png"
     ]
   },
@@ -15292,6 +15300,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/sv/sv_1_tablet.png",
       "/graphics/sprites/mods/WNFH/sv/sv_1_glasses.png"
     ]
@@ -15313,6 +15322,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
     ]
   },
@@ -15333,6 +15343,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
     ]
   },
