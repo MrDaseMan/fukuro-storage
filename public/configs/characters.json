@@ -8770,11 +8770,16 @@
     "file": "/graphics/sprites/mods/TR/ya/ya_1_body.png",
     "emotions": [
       "/graphics/sprites/mods/TR/ya/ya_1_normal.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_smile.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_unemotional.png",
       "/graphics/sprites/mods/TR/ya/ya_1_guilty.png",
       "/graphics/sprites/mods/TR/ya/ya_1_happy.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_dontlike.png",
       "/graphics/sprites/mods/TR/ya/ya_1_sad.png",
       "/graphics/sprites/mods/TR/ya/ya_1_shy.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_scared.png",
       "/graphics/sprites/mods/TR/ya/ya_1_surprise.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_angry.png",
       "/graphics/sprites/mods/TR/ya/ya_1_verysad.png",
       "/graphics/sprites/mods/TR/ya/ya_1_veryshy.png"
     ],
