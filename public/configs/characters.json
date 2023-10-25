@@ -15051,6 +15051,292 @@
     ]
   },
   {
+    "name": "Физручка",
+    "modification": "Эти безумные деньки",
+    "file": "/graphics/sprites/mods/This_crazy_days/mr/mr_1_sport.png",
+    "emotions": [
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_normal.png",
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_smile.png",
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_angry.png",
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_surprise.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Физручка",
+    "modification": "Эти безумные деньки",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_whistle.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Девушка из администрации",
+    "modification": "Эти безумные деньки",
+    "file": "/graphics/sprites/mods/This_crazy_days/ma/ma_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_normal.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_smile.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_angry.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_surprise.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pockerface.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_normal.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_interested.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smile.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_joy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_serious.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_confused.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_sad.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_cry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smilecry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_1_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pockerface.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_normal.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_interested.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smile.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_joy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_serious.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_confused.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_sad.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_cry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smilecry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_2_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_guilty.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_horny.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_surprise.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_scared.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_2_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_guilty.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_horny.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_surprise.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_scared.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_3_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_grin.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_laugh.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_smile2.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_angry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_rage.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_3_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_grin.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_laugh.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_smile2.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_angry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_rage.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_4_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_happy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_thinking.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_upset.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_obida.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_4_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_happy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_thinking.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_upset.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_obida.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_shirt.png"
+    ]
+  },
+  {
+    "name": "sv",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/sv/sv_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/sv/sv_1_angry.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_happy.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_scared.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_worried.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/sv/sv_1_pioneer.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/sv/sv_1_tablet.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_glasses.png"
+    ]
+  },
+  {
+    "name": "sd",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/sd/sd_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/sd/sd_1_normal.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_smile.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_laugh.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_grin.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_serious.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_angry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
+    ]
+  },
+  {
+    "name": "sd",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/sd/sd_1_cigarete.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/sd/sd_1_normal.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_smile.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_laugh.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_grin.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_serious.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_angry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
+    ]
+  },
+  {
     "name": "wt_СССР-тян",
     "file": "/graphics/sprites/sprites_hitbox.png",
     "emotions": [
