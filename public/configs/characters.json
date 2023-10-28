@@ -14904,20 +14904,20 @@
     ]
   },
   {
-    "name": "Анджелла",
+    "name": "Ангел",
     "modification": "Сообщество",
-    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "file": "/graphics/sprites/mods/Additional/ang/ang_body_1.png",
     "emotions": [
-      "/graphics/sprites/mods/Additional/ang/ang_f.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_smile.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_smile2.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_angry.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_ph.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_pn.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_sad.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_sad2.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_wow.png",
-      "/graphics/sprites/mods/Additional/ang/ang_f_wow2.png"
+      "/graphics/sprites/mods/Additional/ang/ang_1_normal.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_smile.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_smile2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_angry.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_ph.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_pn.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_sad.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_sad2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_wow.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_wow2.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -14928,20 +14928,20 @@
     ]
   },
   {
-    "name": "Анджелла",
+    "name": "Ангел",
     "modification": "Сообщество",
-    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "file": "/graphics/sprites/mods/Additional/ang/ang_body_2.png",
     "emotions": [
-      "/graphics/sprites/mods/Additional/ang/ang_p.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_smile.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_smile2.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_angry.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_ph.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_pn.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_sad.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_sad2.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_wow.png",
-      "/graphics/sprites/mods/Additional/ang/ang_p_wow2.png"
+      "/graphics/sprites/mods/Additional/ang/ang_2_normal.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_smile.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_smile2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_angry.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_ph.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_pn.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_sad.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_sad2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_wow.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_wow2.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -14954,18 +14954,18 @@
   {
     "name": "Ян",
     "modification": "Сообщество",
-    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "file": "/graphics/sprites/mods/Additional/yan/yan_body_1.png",
     "emotions": [
-      "/graphics/sprites/mods/Additional/yan/yan_f.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_smile.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_smile2.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_diss.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_diss0.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_diss2.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_pn.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_sad.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_wow.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_luk.png"
+      "/graphics/sprites/mods/Additional/yan/yan_1_normal.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_smile.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_smile2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_diss.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_diss0.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_diss2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_pn.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_sad.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_wow.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_luk.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -14978,19 +14978,19 @@
   {
     "name": "Ян",
     "modification": "Сообщество",
-    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "file": "/graphics/sprites/mods/Additional/yan/yan_body_2.png",
     "emotions": [
-      "/graphics/sprites/mods/Additional/yan/yan_p.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_smile.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_smile2.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_diss1.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_diss2.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_hmm.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_luk.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_sad.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_wow.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_wow2.png",
-      "/graphics/sprites/mods/Additional/yan/yan_f_crz.png"
+      "/graphics/sprites/mods/Additional/yan/yan_2_normal.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_smile.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_smile2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_diss1.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_diss2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_hmm.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_luk.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_sad.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_wow.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_wow2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_crz.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -15003,19 +15003,24 @@
   {
     "name": "Юрия",
     "modification": "Сообщество",
-    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "file": "/graphics/sprites/mods/Additional/yir/yir_body_1.png",
     "emotions": [
-      "/graphics/sprites/mods/Additional/yir/yir_f.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_smile.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_diss.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_diss0.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_angry.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_bb.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_kw.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_sad.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_sad2.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_wow.png",
-      "/graphics/sprites/mods/Additional/yir/yir_f_wow2.png"
+      "/graphics/sprites/mods/Additional/yir/yir_1_normal.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_smile.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_lw.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_ph.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_conf.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_conf0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_angry.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_bb.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_bb0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_diss0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_sad.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_uh.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_cry0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_was.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_wow.png",	
+      "/graphics/sprites/mods/Additional/yir/yir_1_wow0.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -15028,24 +15033,18 @@
   {
     "name": "Юрия",
     "modification": "Сообщество",
-    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "file": "/graphics/sprites/mods/Additional/yir/yir_body_2.png",
     "emotions": [
-      "/graphics/sprites/mods/Additional/yir/yir_p.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_smile.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_conf.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_conf0.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_angry.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_bb.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_bb0.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_diss0.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_sad.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_lw.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_ph.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_uh.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_cry0.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_was.png",
-      "/graphics/sprites/mods/Additional/yir/yir_p_wow.png",	
-      "/graphics/sprites/mods/Additional/yir/yir_p_wow0.png"
+      "/graphics/sprites/mods/Additional/yir/yir_2_normal.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_smile.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_diss.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_diss0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_angry.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_bb.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_kw.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_sad.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_sad2.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_wow.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -15056,7 +15055,7 @@
     ]
   },
   {
-    "name": "Физручка",
+    "name": "Мария Романовна",
     "modification": "Эти безумные деньки",
     "file": "/graphics/sprites/mods/This_crazy_days/mr/mr_1_sport.png",
     "emotions": [
@@ -15074,7 +15073,7 @@
     ]
   },
   {
-    "name": "Физручка",
+    "name": "Мария Романовна",
     "modification": "Эти безумные деньки",
     "file": "/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
@@ -15089,7 +15088,7 @@
     ]
   },
   {
-    "name": "Девушка из администрации",
+    "name": "Маргарита Антоновна",
     "modification": "Эти безумные деньки",
     "file": "/graphics/sprites/mods/This_crazy_days/ma/ma_1_body.png",
     "emotions": [
@@ -15103,7 +15102,8 @@
     ],
     "offset": "50% 30%",
     "accessories": [
-      "/graphics/sprites/sprites_hitbox_1.png"
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_acces.png"
     ]
   },
   {
