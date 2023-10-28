@@ -11038,6 +11038,24 @@
     ]
   },
   {
+    "name": "Гопник",
+    "modification": "Быдло в Совёнке",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Bydlo_in_Sovyonok/sya/sya_angry.png",
+      "/graphics/sprites/mods/Bydlo_in_Sovyonok/sya/sya_normal.png",
+      "/graphics/sprites/mods/Bydlo_in_Sovyonok/sya/sya_smile.png",
+      "/graphics/sprites/mods/Bydlo_in_Sovyonok/sya/sya_surprise.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Братское лето John",
     "modification": "Братское лето",
     "file": "/graphics/sprites/mods/Brother_Summer/john/john_body.png",
