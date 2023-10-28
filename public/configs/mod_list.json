@@ -326,5 +326,13 @@
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1966547156",
     "alt": "false",
     "enabled": "true"
+  },
+  {
+    "name": "Быдло в Совенке",
+    "icon": "bis.jpg",
+    "vk": "https://vk.com/endoflifeteam",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1706572704",
+    "alt": "false",
+    "enabled": "true"
   }
 ]
