@@ -5183,10 +5183,11 @@
   {
     "name": "Алеся",
     "modification": "Алеся: Побег из лагеря",
-    "file": "/graphics/sprites/mods/Alesya/lseya/lseya_hitbox.png",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "/graphics/sprites/mods/Alesya/lseya/pio/lseya_normal_pio_norm.png",
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_upset_pio_norm.png"
+      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_upset_pio_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_angry_pio_norm.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -5216,11 +5217,75 @@
     "modification": "Алеся: Побег из лагеря",
     "file": "/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_angry_pio_norm.png",
       "/graphics/sprites/mods/Alesya/lseya/pio/lseya_cry_pio_norm.png",
       "/graphics/sprites/mods/Alesya/lseya/pio/lseya_fear_pio_norm.png",
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_sad_pio_norm.png",
-      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_upset_pio_norm.png"
+      "/graphics/sprites/mods/Alesya/lseya/pio/lseya_sad_pio_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+    {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_5.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_laugh_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_shy_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_tender_sport_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_6.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_normal_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_upset_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_angry_sport_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_7.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_rage_sport_norm.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алеся",
+    "modification": "Алеся: Побег из лагеря",
+    "file": "/graphics/sprites/sprites_hitbox_8.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_cry_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_fear_sport_norm.png",
+      "/graphics/sprites/mods/Alesya/lseya/sport/lseya_sad_sport_norm.png"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -5646,7 +5711,7 @@
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/EC_RP/li/li_1_ears.png",
-      "/graphics/sprites/mods/EC_RP/li/li_1_glasses.png"
+      "/graphics/sprites/mods/EC_RP/li/li2_glasses.png"
     ]
   },
   {
@@ -8705,11 +8770,16 @@
     "file": "/graphics/sprites/mods/TR/ya/ya_1_body.png",
     "emotions": [
       "/graphics/sprites/mods/TR/ya/ya_1_normal.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_smile.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_unemotional.png",
       "/graphics/sprites/mods/TR/ya/ya_1_guilty.png",
       "/graphics/sprites/mods/TR/ya/ya_1_happy.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_dontlike.png",
       "/graphics/sprites/mods/TR/ya/ya_1_sad.png",
       "/graphics/sprites/mods/TR/ya/ya_1_shy.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_scared.png",
       "/graphics/sprites/mods/TR/ya/ya_1_surprise.png",
+      "/graphics/sprites/mods/TR/ya/ya_1_angry.png",
       "/graphics/sprites/mods/TR/ya/ya_1_verysad.png",
       "/graphics/sprites/mods/TR/ya/ya_1_veryshy.png"
     ],
@@ -9713,7 +9783,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9768,7 +9838,7 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1c_1.png",
       "/graphics/sprites/mods/DDLC/mon/mk_1h_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9823,7 +9893,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9878,7 +9948,7 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1c_3.png",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9909,7 +9979,7 @@
       "/graphics/sprites/mods/DDLC/mon/mk_2c.png",
       "NONE"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 35%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -9973,7 +10043,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_1.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_1.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10037,7 +10107,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_2.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_2.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10101,7 +10171,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_3.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_3.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10165,7 +10235,7 @@
       "/graphics/sprites/mods/DDLC/nats/ni_1y_4.png",
       "/graphics/sprites/mods/DDLC/nats/ni_1s_4.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10229,7 +10299,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10285,7 +10355,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10341,7 +10411,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10397,7 +10467,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10453,7 +10523,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10509,7 +10579,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -10536,7 +10606,7 @@
       "NONE",
       "NONE"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 40%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -14831,6 +14901,455 @@
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/hat_2.png",
       "/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/horror_2.png"
+    ]
+  },
+  {
+    "name": "Ангел",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/ang/ang_body_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/ang/ang_1_normal.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_smile.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_smile2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_angry.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_ph.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_pn.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_sad.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_sad2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_wow.png",
+      "/graphics/sprites/mods/Additional/ang/ang_1_wow2.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ангел",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/ang/ang_body_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/ang/ang_2_normal.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_smile.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_smile2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_angry.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_ph.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_pn.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_sad.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_sad2.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_wow.png",
+      "/graphics/sprites/mods/Additional/ang/ang_2_wow2.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ян",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/yan/yan_body_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yan/yan_1_normal.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_smile.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_smile2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_diss.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_diss0.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_diss2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_pn.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_sad.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_wow.png",
+      "/graphics/sprites/mods/Additional/yan/yan_1_luk.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 35%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ян",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/yan/yan_body_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yan/yan_2_normal.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_smile.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_smile2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_diss1.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_diss2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_hmm.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_luk.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_sad.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_wow.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_wow2.png",
+      "/graphics/sprites/mods/Additional/yan/yan_2_crz.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 35%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Юрия",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/yir/yir_body_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yir/yir_1_normal.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_smile.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_lw.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_ph.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_conf.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_conf0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_angry.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_bb.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_bb0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_diss0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_sad.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_uh.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_cry0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_was.png",
+      "/graphics/sprites/mods/Additional/yir/yir_1_wow.png",	
+      "/graphics/sprites/mods/Additional/yir/yir_1_wow0.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Юрия",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/yir/yir_body_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/yir/yir_2_normal.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_smile.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_diss.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_diss0.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_angry.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_bb.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_kw.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_sad.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_sad2.png",
+      "/graphics/sprites/mods/Additional/yir/yir_2_wow.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Мария Романовна",
+    "modification": "Эти безумные деньки",
+    "file": "/graphics/sprites/mods/This_crazy_days/mr/mr_1_sport.png",
+    "emotions": [
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_normal.png",
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_smile.png",
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_angry.png",
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_surprise.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Мария Романовна",
+    "modification": "Эти безумные деньки",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/This_crazy_days/mr/mr_1_whistle.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Маргарита Антоновна",
+    "modification": "Эти безумные деньки",
+    "file": "/graphics/sprites/mods/This_crazy_days/ma/ma_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_normal.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_smile.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_angry.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_1_surprise.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/This_crazy_days/ma/ma_acces.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pockerface.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_normal.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_interested.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smile.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_joy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_serious.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_confused.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_sad.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_cry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smilecry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_1_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pockerface.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_normal.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_interested.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smile.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_joy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_serious.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_confused.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_sad.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_cry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_smilecry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_1_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_1_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_2_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_guilty.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_horny.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_surprise.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_scared.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_2_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_guilty.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_horny.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_surprise.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_scared.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_2_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_2_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_3_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_grin.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_laugh.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_smile2.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_angry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_rage.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_3_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_grin.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_laugh.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_smile2.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_angry.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_rage.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_3_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_3_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_4_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_happy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_thinking.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_upset.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_obida.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_shirt.png"
+    ]
+  },
+  {
+    "name": "kat",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/kat/kat_4_body2.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_happy.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_thinking.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_upset.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_obida.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/kat/kat_4_pioneer.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_casual.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_swim.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/kat/kat_4_shirt.png"
+    ]
+  },
+  {
+    "name": "sv",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/sv/sv_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/sv/sv_1_angry.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_happy.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_scared.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_worried.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/WNFH/sv/sv_1_pioneer.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_tablet.png",
+      "/graphics/sprites/mods/WNFH/sv/sv_1_glasses.png"
+    ]
+  },
+  {
+    "name": "sd",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/sd/sd_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/sd/sd_1_normal.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_smile.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_laugh.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_grin.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_serious.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_angry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
+    ]
+  },
+  {
+    "name": "sd",
+    "modification": "Мы не отсюда",
+    "file": "/graphics/sprites/mods/WNFH/sd/sd_1_cigarete.png",
+    "emotions": [
+      "/graphics/sprites/mods/WNFH/sd/sd_1_normal.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_smile.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_laugh.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_grin.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_serious.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_angry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
     ]
   },
   {
