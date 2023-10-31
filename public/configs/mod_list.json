@@ -257,7 +257,7 @@
   },
   {
     "name": "Наше Лето",
-    "icon": "oursummer.jpg",
+    "icon": "oursummer.png",
     "vk": "https://vk.com/es_our_summer",
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2585662381",
     "alt": "false",
@@ -312,10 +312,26 @@
     "enabled": "true"
   },
   {
+    "name": "Мы не отсюда",
+    "icon": "blwnh.png",
+    "vk": "https://vk.com/blwnfh",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2986236115",
+    "alt": "false",
+    "enabled": "true"
+  },
+  {
     "name": "Милый в Совенке",
-    "icon": "ditf.png",
+    "icon": "ditf.gif",
     "vk": "https://vk.com/pila_team",
-    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1966547156&searchtext=",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1966547156",
+    "alt": "false",
+    "enabled": "true"
+  },
+  {
+    "name": "Быдло в Совенке",
+    "icon": "bis.jpg",
+    "vk": "https://vk.com/endoflifeteam",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1706572704",
     "alt": "false",
     "enabled": "true"
   }

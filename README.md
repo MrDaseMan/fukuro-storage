@@ -15,7 +15,8 @@
 ![image](https://user-images.githubusercontent.com/48094227/164989805-d5338a97-9e84-476d-b048-7f6fc670a100.png)
 
 * Копируем адрес из адресной строки (Должно получиться нечто в духе: https://github.com/MrDaseMan/fukuro-storage/blob/main/public/graphics/sprites/el/el_1_grin.png)
-* Заменяем начало в адресе с "https://github.com/MrDaseMan/fukuro-storage/blob/" на "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/". Должны получить ссылку в формате: https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_grin.png, готовую для использования в конфигах.
+* **[Данный пункт устарел]** ~~Заменяем начало в адресе с "https://github.com/MrDaseMan/fukuro-storage/blob/" на "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/". Должны получить ссылку в формате: https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/public/graphics/sprites/el/el_1_grin.png, готовую для использования в конфигах.~~
+* Убираем из адреса "https://github.com/MrDaseMan/fukuro-storage/blob/main/public", получаем в данном случае ссылку вида "/graphics/sprites/el/el_1_grin.png", которую можно использовать в конфигах
 
 ### Проверка работоспособности конфига:
 Для проверки корректности отредактированных файлов, рекомендую использовать [данный сайт](https://jsonlint.com/)
@@ -44,71 +45,71 @@
 ```json
 {
     "name": "Электроник",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_body.png",
+    "file": "/graphics/sprites/el/el_1_body.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_grin.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_normal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_shy.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_shy2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_shy3.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_smile2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_think.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_think2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_smile.png"
+      "/graphics/sprites/el/el_1_grin.png",
+      "/graphics/sprites/el/el_1_normal.png",
+      "/graphics/sprites/mods/Additional/el/el_1_shy.png",
+      "/graphics/sprites/mods/Additional/el/el_1_shy2.png",
+      "/graphics/sprites/mods/Additional/el/el_1_shy3.png",
+      "/graphics/sprites/mods/Additional/el/el_1_smile2.png",
+      "/graphics/sprites/mods/Additional/el/el_1_think.png",
+      "/graphics/sprites/mods/Additional/el/el_1_think2.png",
+      "/graphics/sprites/el/el_1_smile.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_shirt_alive.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_shirt_dead.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_nude.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_uniform.png"
+      "/graphics/sprites/el/el_1_pioneer.png",
+      "/graphics/sprites/el/el_1_shirt_alive.png",
+      "/graphics/sprites/el/el_1_shirt_dead.png",
+      "/graphics/sprites/mods/Additional/el/el_1_nude.png",
+      "/graphics/sprites/el/el_1_uniform.png"
     ],
     "offset": "48% 16%",
     "accessories": [ 
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png" 
+      "/graphics/sprites/sprites_hitbox_1.png" 
     ]
   },
   {
     "name": "Электроник",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_body.png",
+    "file": "/graphics/sprites/el/el_2_body.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_fingal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_sad.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_scared.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_shocked.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_surprise.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_upset.png"
+      "/graphics/sprites/el/el_2_fingal.png",
+      "/graphics/sprites/el/el_2_sad.png",
+      "/graphics/sprites/el/el_2_scared.png",
+      "/graphics/sprites/el/el_2_shocked.png",
+      "/graphics/sprites/el/el_2_surprise.png",
+      "/graphics/sprites/el/el_2_upset.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_shirt_alive.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_shirt_dead.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_2_nude.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_uniform.png"
+      "/graphics/sprites/el/el_2_pioneer.png",
+      "/graphics/sprites/el/el_2_shirt_alive.png",
+      "/graphics/sprites/el/el_2_shirt_dead.png",
+      "/graphics/sprites/mods/Additional/el/el_2_nude.png",
+      "/graphics/sprites/el/el_2_uniform.png"
     ],
     "offset": "51% 16%",
     "accessories": [ 
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png"
+      "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
     "name": "Электроник",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_body.png",
+    "file": "/graphics/sprites/el/el_3_body.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_angry.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_laugh.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_serious.png"
+      "/graphics/sprites/el/el_3_angry.png",
+      "/graphics/sprites/el/el_3_laugh.png",
+      "/graphics/sprites/el/el_3_serious.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_shirt_alive.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_shirt_dead.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_3_nude.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_uniform.png"
+      "/graphics/sprites/el/el_3_pioneer.png",
+      "/graphics/sprites/el/el_3_shirt_alive.png",
+      "/graphics/sprites/el/el_3_shirt_dead.png",
+      "/graphics/sprites/mods/Additional/el/el_3_nude.png",
+      "/graphics/sprites/el/el_3_uniform.png"
     ],
     "offset": "44% 16%",
     "accessories": [ 
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png" 
+      "/graphics/sprites/sprites_hitbox_1.png" 
     ]
 }
 ```
@@ -136,13 +137,13 @@
 
 **"file"**:
 ```json
-"file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_body.png",
+"file": "/graphics/sprites/el/el_1_body.png",
 ```
 ```json
-"file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_body.png",
+"file": "/graphics/sprites/el/el_2_body.png",
 ```
 ```json
-"file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_body.png",
+"file": "/graphics/sprites/el/el_3_body.png",
 ```
 Прямая ссылка на изображение тела персонажа в репозитории. В нашем случае таковое имеется и проблем не возникает, однако может случиться ситуация, когда такового не имеется. В данной ситуации необходимо использовать **hitbox** заглушки, расположенные [здесь](https://github.com/MrDaseMan/fukuro-storage/tree/main/public/graphics/sprites):
 ![image](https://user-images.githubusercontent.com/48094227/164989978-e8902db3-2321-44dc-98d5-4b3e327ec1cb.png)
@@ -152,61 +153,61 @@
 ```json
 {
     "name": "Виола",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_normal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_grin.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_smile.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_laugh.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_shy.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_upset.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_serious.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_fear.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_angry.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_rage.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_sad.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_sad2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_cry.png"
+      "/graphics/sprites/cs/cs_1_normal.png",
+      "/graphics/sprites/cs/cs_1_grin.png",
+      "/graphics/sprites/cs/cs_1_smile.png",
+      "/graphics/sprites/cs/cs_1_laugh.png",
+      "/graphics/sprites/cs/cs_1_shy.png",
+      "/graphics/sprites/cs/cs_1_upset.png",
+      "/graphics/sprites/cs/cs_1_serious.png",
+      "/graphics/sprites/cs/cs_1_fear.png",
+      "/graphics/sprites/cs/cs_1_angry.png",
+      "/graphics/sprites/cs/cs_1_rage.png",
+      "/graphics/sprites/cs/cs_1_sad.png",
+      "/graphics/sprites/cs/cs_1_sad2.png",
+      "/graphics/sprites/cs/cs_1_cry.png"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_labcoat.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_casual.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_civil.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_civil2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_shirt.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_dress.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_dress2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_labcoatns.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_swim2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_swim.png"
+      "/graphics/sprites/cs/cs_1_labcoat.png",
+      "/graphics/sprites/cs/cs_1_casual.png",
+      "/graphics/sprites/cs/cs_1_civil.png",
+      "/graphics/sprites/cs/cs_1_civil2.png",
+      "/graphics/sprites/cs/cs_1_shirt.png",
+      "/graphics/sprites/cs/cs_1_dress.png",
+      "/graphics/sprites/cs/cs_1_dress2.png",
+      "/graphics/sprites/cs/cs_1_labcoatns.png",
+      "/graphics/sprites/cs/cs_1_swim2.png",
+      "/graphics/sprites/cs/cs_1_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_glasses.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_sun_glasses.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_glasses_over.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_glasses_through.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_stethoscope.png"
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/cs/cs_1_glasses.png",
+      "/graphics/sprites/cs/cs_1_sun_glasses.png",
+      "/graphics/sprites/cs/cs_1_glasses_over.png",
+      "/graphics/sprites/cs/cs_1_glasses_through.png",
+      "/graphics/sprites/cs/cs_1_stethoscope.png"
     ]
   }
 ```
-Здесь в качестве тела в поле **file** используется заглушка https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png
+Здесь в качестве тела в поле **file** используется заглушка /graphics/sprites/sprites_hitbox_1.png
 
 **[Внимание!]** Если спрайт имеет несколько поз, то повторение ссылок в поле "file" недопустимо! В ином случае вероятно появление различных артефактов в отображении на сайте.
 
 **emotions**:
 ```json
 "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_grin.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_normal.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_shy.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_shy2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_shy3.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_smile2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_think.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_1_think2.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_smile.png"
+      "/graphics/sprites/el/el_1_grin.png",
+      "/graphics/sprites/el/el_1_normal.png",
+      "/graphics/sprites/mods/Additional/el/el_1_shy.png",
+      "/graphics/sprites/mods/Additional/el/el_1_shy2.png",
+      "/graphics/sprites/mods/Additional/el/el_1_shy3.png",
+      "/graphics/sprites/mods/Additional/el/el_1_smile2.png",
+      "/graphics/sprites/mods/Additional/el/el_1_think.png",
+      "/graphics/sprites/mods/Additional/el/el_1_think2.png",
+      "/graphics/sprites/el/el_1_smile.png"
     ],
 ```
 
@@ -215,11 +216,11 @@
 **clothes**:
 ```json
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_shirt_alive.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_shirt_dead.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Additional/el/el_3_nude.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_uniform.png"
+      "/graphics/sprites/el/el_3_pioneer.png",
+      "/graphics/sprites/el/el_3_shirt_alive.png",
+      "/graphics/sprites/el/el_3_shirt_dead.png",
+      "/graphics/sprites/mods/Additional/el/el_3_nude.png",
+      "/graphics/sprites/el/el_3_uniform.png"
     ],
 ```
 
@@ -229,35 +230,35 @@
 
 ```json
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_shirt_alive.png",
+      "/graphics/sprites/el/el_1_pioneer.png",
+      "/graphics/sprites/el/el_1_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_shirt_alive.png",
+      "/graphics/sprites/el/el_2_pioneer.png",
+      "/graphics/sprites/el/el_2_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_shirt_alive.png",
+      "/graphics/sprites/el/el_3_pioneer.png",
+      "/graphics/sprites/el/el_3_shirt_alive.png",
 ```
 
 На примере можно заметить, что первым элементом для 1, 2 и 3-х поз находится пионерская форма, а вторым - футболка. 
-Если на одной из поз соответствующая одежда отсутствует, необходимо вставить на место соответствующего элемента значение "NONE". Допустим, у спрайта Электроника отсутствует одежда https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_shirt_alive.png, тогда в конфиг будет необходимо записать:
+Если на одной из поз соответствующая одежда отсутствует, необходимо вставить на место соответствующего элемента значение "NONE". Допустим, у спрайта Электроника отсутствует одежда /graphics/sprites/el/el_3_shirt_alive.png, тогда в конфиг будет необходимо записать:
 ```json
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_1_shirt_alive.png",
+      "/graphics/sprites/el/el_1_pioneer.png",
+      "/graphics/sprites/el/el_1_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_pioneer.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_2_shirt_alive.png",
+      "/graphics/sprites/el/el_2_pioneer.png",
+      "/graphics/sprites/el/el_2_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/el/el_3_pioneer.png",
+      "/graphics/sprites/el/el_3_pioneer.png",
       "NONE",
 ```
 
@@ -274,12 +275,12 @@
 **accessories**:
 ```json
     "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_1.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_glasses.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_sun_glasses.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_glasses_over.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_glasses_through.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/cs/cs_1_stethoscope.png"
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/cs/cs_1_glasses.png",
+      "/graphics/sprites/cs/cs_1_sun_glasses.png",
+      "/graphics/sprites/cs/cs_1_glasses_over.png",
+      "/graphics/sprites/cs/cs_1_glasses_through.png",
+      "/graphics/sprites/cs/cs_1_stethoscope.png"
     ]
 ```
 
