@@ -8929,9 +8929,11 @@
       "/graphics/sprites/mods/Behind_Sovyonok/ki/young_base_normal.png",
       "/graphics/sprites/mods/Behind_Sovyonok/ki/young_ask_normal.png",
       "/graphics/sprites/mods/Behind_Sovyonok/ki/young_smile_normal.png",
+      "NONE",
       "/graphics/sprites/mods/Behind_Sovyonok/ki/young_angry_normal.png",
       "/graphics/sprites/mods/Behind_Sovyonok/ki/young_grin_normal.png",
-      "/graphics/sprites/mods/Behind_Sovyonok/ki/young_indifference_normal.png"
+      "/graphics/sprites/mods/Behind_Sovyonok/ki/young_indifference_normal.png",
+      "NONE"
     ],
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
@@ -8939,8 +8941,8 @@
     "offset": "50% 12%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
-      "/graphics/sprites/sprites_hitbox_2.png",
-      "/graphics/sprites/sprites_hitbox_3.png"
+      "NONE",
+      "NONE"
     ]
   },
   {
@@ -8964,7 +8966,7 @@
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/Behind_Sovyonok/ki/head_band.png",
-      "/graphics/sprites/sprites_hitbox_2.png"
+      "NONE"
     ]
   },
   {
@@ -8987,28 +8989,32 @@
     "offset": "50% 12%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
-      "/graphics/sprites/sprites_hitbox_2.png",
+      "NONE",
       "/graphics/sprites/mods/Behind_Sovyonok/ki/hairy_shit.png"
     ]
   },
   {
     "name": "Behind Sovyonok ki",
     "modification": "По ту сторону совёнка",
-    "file": "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/base_normal_black.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/ask_normal_black.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/smile_normal_black.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/angry_normal_black.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/grin_normal_black.png",
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/mods/Behind_Sovyonok/ki/indifference_normal_black.png"
+      "/graphics/sprites/mods/Behind_Sovyonok/ki/base_normal_black.png",
+      "/graphics/sprites/mods/Behind_Sovyonok/ki/ask_normal_black.png",
+      "/graphics/sprites/mods/Behind_Sovyonok/ki/smile_normal_black.png",
+      "NONE",
+      "/graphics/sprites/mods/Behind_Sovyonok/ki/angry_normal_black.png",
+      "/graphics/sprites/mods/Behind_Sovyonok/ki/grin_normal_black.png",
+      "/graphics/sprites/mods/Behind_Sovyonok/ki/indifference_normal_black.png",
+      "NONE"
     ],
     "clothes": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png"
+      "/graphics/sprites/sprites_hitbox_2.png"
     ],
     "offset": "50% 12%",
     "accessories": [
-      "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/main/public/graphics/sprites/sprites_hitbox_2.png"
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "NONE",
+      "NONE"
     ]
   },
   {
@@ -15085,7 +15091,7 @@
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 20%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15100,7 +15106,7 @@
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 20%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15118,7 +15124,7 @@
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 20%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/This_crazy_days/ma/ma_acces.png"
@@ -15343,7 +15349,7 @@
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 20%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
@@ -15364,10 +15370,62 @@
     "clothes": [
       "/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 20%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png",
       "/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
+    ]
+  },
+  {
+    "name": "mona",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/mona/mona_body_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/mona/mona_em_1.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_2.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_3.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_4.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_5.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_6.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_7.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_8.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_9.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_10.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Additional/mona/mona_pi.png",
+      "/graphics/sprites/mods/Additional/mona/mona_daily.png",
+      "/graphics/sprites/mods/Additional/mona/mona_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "mona",
+    "modification": "Сообщество",
+    "file": "/graphics/sprites/mods/Additional/mona/mona_body_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Additional/mona/mona_em_1.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_2.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_3.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_4.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_5.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_6.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_7.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_8.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_9.png",
+      "/graphics/sprites/mods/Additional/mona/mona_em_10.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Additional/mona/mona_pi.png",
+      "/graphics/sprites/mods/Additional/mona/mona_daily.png",
+      "/graphics/sprites/mods/Additional/mona/mona_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
