@@ -11056,6 +11056,38 @@
     ]
   },
   {
+    "name": "Кеша",
+    "modification": "Альтернатива",
+    "file": "/graphics/sprites/mods/Alternativa/ke/ke_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alternativa/ke/ke_1_angry.png",
+      "/graphics/sprites/mods/Alternativa/ke/ke_1_smile.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Дедушка",
+    "modification": "Альтернатива",
+    "file": "/graphics/sprites/mods/Alternativa/de/de_1_body.png",
+    "emotions": [
+      "/graphics/sprites/mods/Alternativa/de/de_1_angry.png",
+      "/graphics/sprites/mods/Alternativa/de/de_1_smile.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Братское лето John",
     "modification": "Братское лето",
     "file": "/graphics/sprites/mods/Brother_Summer/john/john_body.png",
