@@ -10970,7 +10970,7 @@
       "/graphics/sprites/mods/DDLC/yur/yr_1_y3.png",
       "/graphics/sprites/mods/DDLC/yur/yr_1_y4.png",
       "/graphics/sprites/mods/DDLC/yur/yr_1_y5.png",
-      "/graphics/sprites/mods/DDLC/yur/yr_1_y6.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_1_y6.png",	
       "/graphics/sprites/mods/DDLC/yur/yr_1_y7.png"
     ],
     "clothes": [
@@ -15422,6 +15422,186 @@
       "/graphics/sprites/mods/Additional/mona/mona_pi.png",
       "/graphics/sprites/mods/Additional/mona/mona_daily.png",
       "/graphics/sprites/mods/Additional/mona/mona_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "nstl",
+    "modification": "Вино из одуванчиков",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_smile_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_norm_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_happy_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_z_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_ud_close.png",
+	  "NONE",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_pl_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_smi_close.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+ {
+    "name": "nstl",
+    "modification": "Вино из одуванчиков",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_smile_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_norm_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_happy_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_z_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_ud_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_sad_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_pl_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_smi_close.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+ {
+    "name": "nstl",
+    "modification": "Вино из одуванчиков",
+    "file": "/graphics/sprites/sprites_hitbox_3.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_smile_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_norm_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_happy_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_z_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_ud_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_sad_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_pl_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_sport_smi_close.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+ {
+    "name": "nstl",
+    "modification": "Вино из одуванчиков",
+    "file": "/graphics/sprites/sprites_hitbox_4.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_smile_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_norm_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_happy_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_z_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_ud_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_sad_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_pl_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/nstl/nstl_ku_smi_close.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+ {
+    "name": "Сэм",
+    "modification": "Привет, меня зовут Сэм!",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_smile.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_surp.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_laught.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_cry.png",
+	  "NONE",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_notlike.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_norm.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_scary.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_shy.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+ {
+    "name": "Сэм",
+    "modification": "Привет, меня зовут Сэм!",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_smile.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_surp.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_laught.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_cry.png",
+	  "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_close.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_notlike.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_norm.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_scary.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_shy.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+ {
+    "name": "Сэм",
+    "modification": "Привет, меня зовут Сэм!",
+    "file": "/graphics/sprites/sprites_hitbox_3.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_smile.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_surp.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_lought.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_cry.png",
+	  "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_inhale.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_notlike.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_norm.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_scary.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_shy1.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+ {
+    "name": "Сэм",
+    "modification": "Привет, меня зовут Сэм!",
+    "file": "/graphics/sprites/sprites_hitbox_4.png",
+    "emotions": [
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_smile.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_surp.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_laught.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_cry.png",
+	  "NONE",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_notlike.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_norm.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_scary.png",
+      "/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_shy.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
     ],
     "offset": "50% 25%",
     "accessories": [
