@@ -9555,7 +9555,8 @@
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_coat1.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt1.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono1.png",
-      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit1.png"
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit1.png",
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie1.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9612,7 +9613,8 @@
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_coat2.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt2.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono2.png",
-      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit2.png"
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit2.png",
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie2.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9669,7 +9671,8 @@
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_coat1.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt1.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono1.png",
-      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit1.png"
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit1.png",
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie1.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9726,7 +9729,8 @@
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_coat2.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt2.png",
       "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono2.png",
-      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit2.png"
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit2.png",
+      "/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie2.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9781,7 +9785,9 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1s_2.png",
       "NONE",
       "NONE",
-      "NONE"
+      "NONE",
+      "/graphics/sprites/mods/DDLC/mon/mk_1bl_2.png",
+      "/graphics/sprites/mods/DDLC/mon/mk_1gdr_2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -9836,7 +9842,9 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1s_1.png",
       "/graphics/sprites/mods/DDLC/mon/mk_1pj_1.png",
       "/graphics/sprites/mods/DDLC/mon/mk_1c_1.png",
-      "/graphics/sprites/mods/DDLC/mon/mk_1h_1.png"
+      "/graphics/sprites/mods/DDLC/mon/mk_1h_1.png",
+      "/graphics/sprites/mods/DDLC/mon/mk_1bl_1.png",
+      "/graphics/sprites/mods/DDLC/mon/mk_1gdr_1.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -9891,7 +9899,9 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1s_4.png",
       "NONE",
       "NONE",
-      "NONE"
+      "NONE",
+      "/graphics/sprites/mods/DDLC/mon/mk_1bl_4.png",
+      "/graphics/sprites/mods/DDLC/mon/mk_1gdr_4.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -9946,7 +9956,9 @@
       "/graphics/sprites/mods/DDLC/mon/mk_1s_3.png",
       "/graphics/sprites/mods/DDLC/mon/mk_1pj_3.png",
       "/graphics/sprites/mods/DDLC/mon/mk_1c_3.png",
-      "NONE"
+      "NONE",
+      "/graphics/sprites/mods/DDLC/mon/mk_1bl_3.png",
+      "/graphics/sprites/mods/DDLC/mon/mk_1gdr_3.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -9977,7 +9989,9 @@
       "/graphics/sprites/mods/DDLC/mon/mk_2s.png",
       "/graphics/sprites/mods/DDLC/mon/mk_2pj.png",
       "/graphics/sprites/mods/DDLC/mon/mk_2c.png",
-      "NONE"
+      "NONE",
+      "NONE",
+      "/graphics/sprites/mods/DDLC/mon/mk_2gdr.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10648,7 +10662,10 @@
       "/graphics/sprites/mods/DDLC/say/sy_1d_1.png",
       "/graphics/sprites/mods/DDLC/say/sy_1j_1.png",
       "/graphics/sprites/mods/DDLC/say/sy_1y_1.png",
-      "/graphics/sprites/mods/DDLC/say/sy_1s_1.png"
+      "/graphics/sprites/mods/DDLC/say/sy_1s_1.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1bl_1.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1h_1.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1wdr_1.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10692,7 +10709,10 @@
       "/graphics/sprites/mods/DDLC/say/sy_1d_2.png",
       "/graphics/sprites/mods/DDLC/say/sy_1j_2.png",
       "/graphics/sprites/mods/DDLC/say/sy_1y_2.png",
-      "/graphics/sprites/mods/DDLC/say/sy_1s_2.png"
+      "/graphics/sprites/mods/DDLC/say/sy_1s_2.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1bl_2.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1h_2.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1wdr_2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10736,7 +10756,10 @@
       "/graphics/sprites/mods/DDLC/say/sy_1d_3.png",
       "/graphics/sprites/mods/DDLC/say/sy_1j_3.png",
       "/graphics/sprites/mods/DDLC/say/sy_1y_3.png",
-      "/graphics/sprites/mods/DDLC/say/sy_1s_3.png"
+      "/graphics/sprites/mods/DDLC/say/sy_1s_3.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1bl_3.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1h_3.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1wdr_3.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10780,7 +10803,10 @@
       "/graphics/sprites/mods/DDLC/say/sy_1d_4.png",
       "/graphics/sprites/mods/DDLC/say/sy_1j_4.png",
       "/graphics/sprites/mods/DDLC/say/sy_1y_4.png",
-      "/graphics/sprites/mods/DDLC/say/sy_1s_4.png"
+      "/graphics/sprites/mods/DDLC/say/sy_1s_4.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1bl_4.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1h_4.png",
+      "/graphics/sprites/mods/DDLC/say/sy_1wdr_4.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10802,7 +10828,10 @@
       "/graphics/sprites/mods/DDLC/say/sy_2d.png",
       "/graphics/sprites/mods/DDLC/say/sy_2j.png",
       "NONE",
-      "/graphics/sprites/mods/DDLC/say/sy_2s.png"
+      "/graphics/sprites/mods/DDLC/say/sy_2s.png",
+      "NONE",
+      "NONE",
+      "/graphics/sprites/mods/DDLC/say/sy_2wdr.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10850,7 +10879,11 @@
       "/graphics/sprites/mods/DDLC/yur/yr_1d.png",
       "/graphics/sprites/mods/DDLC/yur/yr_1j.png",
       "/graphics/sprites/mods/DDLC/yur/yr_1y.png",
-      "/graphics/sprites/mods/DDLC/yur/yr_1s.png"
+      "/graphics/sprites/mods/DDLC/yur/yr_1s.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_1b.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_1bl.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_1c.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_1pj.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10899,7 +10932,11 @@
       "/graphics/sprites/mods/DDLC/yur/yr_2d.png",
       "/graphics/sprites/mods/DDLC/yur/yr_2j.png",
       "/graphics/sprites/mods/DDLC/yur/yr_2y.png",
-      "/graphics/sprites/mods/DDLC/yur/yr_2s.png"
+      "/graphics/sprites/mods/DDLC/yur/yr_2s.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_2b.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_2bl.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_2c.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_2pj.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10923,7 +10960,11 @@
       "/graphics/sprites/mods/DDLC/yur/yr_3d.png",
       "/graphics/sprites/mods/DDLC/yur/yr_3j.png",
       "NONE",
-      "/graphics/sprites/mods/DDLC/yur/yr_3s.png"
+      "/graphics/sprites/mods/DDLC/yur/yr_3s.png",
+      "NONE",
+      "/graphics/sprites/mods/DDLC/yur/yr_3bl.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_3c.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_3pj.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10972,7 +11013,11 @@
       "/graphics/sprites/mods/DDLC/yur/yr_4d.png",
       "/graphics/sprites/mods/DDLC/yur/yr_4j.png",
       "/graphics/sprites/mods/DDLC/yur/yr_4y.png",
-      "/graphics/sprites/mods/DDLC/yur/yr_4s.png"
+      "/graphics/sprites/mods/DDLC/yur/yr_4s.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_4b.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_4bl.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_4c.png",
+      "/graphics/sprites/mods/DDLC/yur/yr_4pj.png"
     ],
     "offset": "50% 35%",
     "accessories": [
