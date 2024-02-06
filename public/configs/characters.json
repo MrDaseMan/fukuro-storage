@@ -15450,7 +15450,7 @@
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
- {
+  {
     "name": "nstl",
     "modification": "Вино из одуванчиков",
     "file": "/graphics/sprites/sprites_hitbox_2.png",
@@ -15472,7 +15472,7 @@
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
- {
+  {
     "name": "nstl",
     "modification": "Вино из одуванчиков",
     "file": "/graphics/sprites/sprites_hitbox_3.png",
@@ -15494,7 +15494,7 @@
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
- {
+  {
     "name": "nstl",
     "modification": "Вино из одуванчиков",
     "file": "/graphics/sprites/sprites_hitbox_4.png",
@@ -15516,7 +15516,7 @@
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
- {
+  {
     "name": "Сэм",
     "modification": "Привет, меня зовут Сэм!",
     "file": "/graphics/sprites/sprites_hitbox_1.png",
@@ -15539,7 +15539,7 @@
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
- {
+  {
     "name": "Сэм",
     "modification": "Привет, меня зовут Сэм!",
     "file": "/graphics/sprites/sprites_hitbox_2.png",
@@ -15562,7 +15562,7 @@
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
- {
+  {
     "name": "Сэм",
     "modification": "Привет, меня зовут Сэм!",
     "file": "/graphics/sprites/sprites_hitbox_3.png",
@@ -15585,7 +15585,7 @@
       "/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
- {
+  {
     "name": "Сэм",
     "modification": "Привет, меня зовут Сэм!",
     "file": "/graphics/sprites/sprites_hitbox_4.png",
@@ -15606,6 +15606,370 @@
     "offset": "50% 25%",
     "accessories": [
       "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Карина",
+    "modification": "Ламповое лето!",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_1_normal.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_1_smile.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_1_angry.png",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_1_pioneer.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_1_tshirt.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_1_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Карина",
+    "modification": "Ламповое лето!",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_2_guilty.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_2_surprise.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_2_scared.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_2_cry.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_2_pioneer.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_2_tshirt.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_2_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Карина",
+    "modification": "Ламповое лето!",
+    "file": "/graphics/sprites/sprites_hitbox_3.png",
+    "emotions": [
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_3_laugh.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_3_sad.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_3_shocked.png",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_3_pioneer.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_3_tshirt.png",
+      "/graphics/sprites/mods/Cozy_Summer/kar/kar_3_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_normal.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_grin.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_dislike.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_shocked.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_pioneer_laugh.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_ponder.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_surprised.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_laugh.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_shy.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_pioneer_cry.png",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_3.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_trouble.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_guilty.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_rage.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_pioneer_cry.png",
+      "NONE",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_4.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_normal.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_grin.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_dislike.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_shocked.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_dress_laugh.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_5.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_ponder.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_surprised.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_laugh.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_shy.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_dress_cry.png",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_6.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_trouble.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_guilty.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_rage.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_cry.png",
+      "NONE",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_7.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_normal.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_grin.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_dislike.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_shocked.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_sport_laugh.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_8.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_ponder.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_surprised.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_laugh.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_shy.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_sport_cry.png",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_9.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_trouble.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_guilty.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_rage.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_dress_cry.png",
+      "NONE",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_10.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_normal.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_grin.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_dislike.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_shocked.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_swim_laugh.png"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_11.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_ponder.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_surprised.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_laugh.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_shy.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_smile1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_swim_cry.png",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+    ]
+  },
+  {
+    "name": "Ада",
+    "modification": "25 лет спустя",
+    "file": "/graphics/sprites/sprites_hitbox_12.png",
+    "emotions": [
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_serious.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_trouble.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_sad.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_guilty.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_angry.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_fear.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_rage.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_smile.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_swim_cry.png",
+      "NONE",
+      "NONE"
+    ],
+    "clothes": [
+      "/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "/graphics/sprites/sprites_hitbox_1.png",
+      "/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
     ]
   },
   {

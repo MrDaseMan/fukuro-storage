@@ -342,7 +342,15 @@
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2403306944",
     "alt": "false",
     "enabled": "true"
-  }
+  },
+  {
+    "name": "25 лет спустя",
+    "icon": "25.gif",
+    "vk": "",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2446808980",
+    "alt": "false",
+    "enabled": "true"
+  },
   {
     "name": "Привет, меня зовут Сэм!",
     "icon": "i_am_sam.jpg",
