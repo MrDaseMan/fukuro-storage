@@ -7630,15 +7630,16 @@
   {
     "name": "Дубликат Артём взрослый",
     "modification": "Дубликат",
-    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "file": "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_body.png",
     "emotions": [
-      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_normal_casual.png",
-      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_serious_casual.png",
-      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_smile_casual.png",
-      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_smile2_casual.png"
+      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_normal.png",
+      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_serious.png",
+      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_smile.png",
+      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_grin.png"
     ],
     "clothes": [
-      "/graphics/sprites/sprites_hitbox_1.png"
+      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_casual.png",
+      "/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_business.png"
     ],
     "offset": "50% 15%",
     "accessories": [
