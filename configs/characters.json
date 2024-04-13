@@ -15516,7 +15516,6 @@
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_happy_close.png",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_z_close.png",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_ud_close.png",
-      "NONE",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_pl_close.png",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_pio_smi_close.png"
     ],
@@ -15538,7 +15537,6 @@
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_happy_close.png",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_z_close.png",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_ud_close.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_sad_close.png",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_pl_close.png",
       "storage/graphics/sprites/mods/Dandelion_wine/nstl/nstl_plat_smi_close.png"
     ],
@@ -15603,7 +15601,6 @@
       "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_surp.png",
       "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_laught.png",
       "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_cry.png",
-      "NONE",
       "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_notlike.png",
       "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_norm.png",
       "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_scary.png",
@@ -15612,7 +15609,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15622,20 +15619,19 @@
     "modification": "Привет, меня зовут Сэм!",
     "file": "storage/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_smile.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_surp.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_laught.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_cry.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_close.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_notlike.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_norm.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_scary.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_shy.png"
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_smile.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_surp.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_laught.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_cry.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_notlike.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_norm.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_scary.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/normal/samn_shy.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15645,20 +15641,19 @@
     "modification": "Привет, меня зовут Сэм!",
     "file": "storage/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_smile.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_surp.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_lought.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_cry.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_inhale.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_notlike.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_norm.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_scary.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_shy1.png"
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_smile.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_surp.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_laught.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_cry.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_notlike.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_norm.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_scary.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/swimm/samb_shy.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15668,20 +15663,19 @@
     "modification": "Привет, меня зовут Сэм!",
     "file": "storage/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_smile.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_surp.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_laught.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_cry.png",
-      "NONE",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_notlike.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_norm.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_scary.png",
-      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_shy.png"
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_smile.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_surp.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_laught.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_cry.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_notlike.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_norm.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_scary.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/bath/sam_bath_shy.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15693,8 +15687,7 @@
     "emotions": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_normal.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_smile.png",
-      "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_angry.png",
-      "NONE"
+      "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_angry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_pioneer.png",
@@ -15733,8 +15726,7 @@
     "emotions": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_laugh.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_sad.png",
-      "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_shocked.png",
-      "NONE"
+      "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_shocked.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_pioneer.png",
@@ -15765,7 +15757,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -15784,13 +15776,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_shy.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_smile.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_cry.png",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -15809,14 +15800,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_fear.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_rage.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_cry.png",
-      "NONE",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -15841,7 +15830,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -15860,13 +15849,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_shy.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_smile.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_cry.png",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -15885,14 +15873,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_fear.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_rage.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_cry.png",
-      "NONE",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -15917,7 +15903,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -15936,13 +15922,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_shy.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_smile.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_cry.png",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -15953,22 +15938,20 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_9.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_trouble.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_guilty.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_cry.png",
-      "NONE",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_trouble.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_guilty.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_rage.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -15993,7 +15976,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16012,13 +15995,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_shy.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_smile.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_cry.png",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16037,14 +16019,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_fear.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_rage.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_cry.png",
-      "NONE",
-      "NONE"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
