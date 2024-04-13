@@ -14,9 +14,9 @@
 * **Переходим к интересующему нас изображению:**
 ![image](https://user-images.githubusercontent.com/48094227/164989805-d5338a97-9e84-476d-b048-7f6fc670a100.png)
 
-* Копируем адрес из адресной строки (Должно получиться нечто в духе: https://github.com/MrDaseMan/fukuro-storage/blob/main/public/graphics/sprites/el/el_1_grin.png)
-* **[Данный пункт устарел]** ~~Заменяем начало в адресе с "https://github.com/MrDaseMan/fukuro-storage/blob/" на "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/". Должны получить ссылку в формате: https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/public/graphics/sprites/el/el_1_grin.png, готовую для использования в конфигах.~~
-* Убираем из адреса "https://github.com/MrDaseMan/fukuro-storage/blob/main/public", получаем в данном случае ссылку вида "/graphics/sprites/el/el_1_grin.png", которую можно использовать в конфигах
+* Копируем адрес из адресной строки (Должно получиться нечто в духе: https://github.com/MrDaseMan/fukuro-storage/blob/main/publicstorage/graphics/sprites/el/el_1_grin.png)
+* **[Данный пункт устарел]** ~~Заменяем начало в адресе с "https://github.com/MrDaseMan/fukuro-storage/blob/" на "https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/". Должны получить ссылку в формате: https://raw.githubusercontent.com/MrDaseMan/fukuro-storage/publicstorage/graphics/sprites/el/el_1_grin.png, готовую для использования в конфигах.~~
+* Убираем из адреса "https://github.com/MrDaseMan/fukuro-storage/blob/main/public", получаем в данном случае ссылку вида "storage/graphics/sprites/el/el_1_grin.png", которую можно использовать в конфигах
 
 ### Проверка работоспособности конфига:
 Для проверки корректности отредактированных файлов, рекомендую использовать [данный сайт](https://jsonlint.com/)
@@ -45,71 +45,71 @@
 ```json
 {
     "name": "Электроник",
-    "file": "/graphics/sprites/el/el_1_body.png",
+    "file": "storage/graphics/sprites/el/el_1_body.png",
     "emotions": [
-      "/graphics/sprites/el/el_1_grin.png",
-      "/graphics/sprites/el/el_1_normal.png",
-      "/graphics/sprites/mods/Additional/el/el_1_shy.png",
-      "/graphics/sprites/mods/Additional/el/el_1_shy2.png",
-      "/graphics/sprites/mods/Additional/el/el_1_shy3.png",
-      "/graphics/sprites/mods/Additional/el/el_1_smile2.png",
-      "/graphics/sprites/mods/Additional/el/el_1_think.png",
-      "/graphics/sprites/mods/Additional/el/el_1_think2.png",
-      "/graphics/sprites/el/el_1_smile.png"
+      "storage/graphics/sprites/el/el_1_grin.png",
+      "storage/graphics/sprites/el/el_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy2.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy3.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_think.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_think2.png",
+      "storage/graphics/sprites/el/el_1_smile.png"
     ],
     "clothes": [
-      "/graphics/sprites/el/el_1_pioneer.png",
-      "/graphics/sprites/el/el_1_shirt_alive.png",
-      "/graphics/sprites/el/el_1_shirt_dead.png",
-      "/graphics/sprites/mods/Additional/el/el_1_nude.png",
-      "/graphics/sprites/el/el_1_uniform.png"
+      "storage/graphics/sprites/el/el_1_pioneer.png",
+      "storage/graphics/sprites/el/el_1_shirt_alive.png",
+      "storage/graphics/sprites/el/el_1_shirt_dead.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_nude.png",
+      "storage/graphics/sprites/el/el_1_uniform.png"
     ],
     "offset": "48% 16%",
     "accessories": [ 
-      "/graphics/sprites/sprites_hitbox_1.png" 
+      "storage/graphics/sprites/sprites_hitbox_1.png" 
     ]
   },
   {
     "name": "Электроник",
-    "file": "/graphics/sprites/el/el_2_body.png",
+    "file": "storage/graphics/sprites/el/el_2_body.png",
     "emotions": [
-      "/graphics/sprites/el/el_2_fingal.png",
-      "/graphics/sprites/el/el_2_sad.png",
-      "/graphics/sprites/el/el_2_scared.png",
-      "/graphics/sprites/el/el_2_shocked.png",
-      "/graphics/sprites/el/el_2_surprise.png",
-      "/graphics/sprites/el/el_2_upset.png"
+      "storage/graphics/sprites/el/el_2_fingal.png",
+      "storage/graphics/sprites/el/el_2_sad.png",
+      "storage/graphics/sprites/el/el_2_scared.png",
+      "storage/graphics/sprites/el/el_2_shocked.png",
+      "storage/graphics/sprites/el/el_2_surprise.png",
+      "storage/graphics/sprites/el/el_2_upset.png"
     ],
     "clothes": [
-      "/graphics/sprites/el/el_2_pioneer.png",
-      "/graphics/sprites/el/el_2_shirt_alive.png",
-      "/graphics/sprites/el/el_2_shirt_dead.png",
-      "/graphics/sprites/mods/Additional/el/el_2_nude.png",
-      "/graphics/sprites/el/el_2_uniform.png"
+      "storage/graphics/sprites/el/el_2_pioneer.png",
+      "storage/graphics/sprites/el/el_2_shirt_alive.png",
+      "storage/graphics/sprites/el/el_2_shirt_dead.png",
+      "storage/graphics/sprites/mods/Additional/el/el_2_nude.png",
+      "storage/graphics/sprites/el/el_2_uniform.png"
     ],
     "offset": "51% 16%",
     "accessories": [ 
-      "/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
     "name": "Электроник",
-    "file": "/graphics/sprites/el/el_3_body.png",
+    "file": "storage/graphics/sprites/el/el_3_body.png",
     "emotions": [
-      "/graphics/sprites/el/el_3_angry.png",
-      "/graphics/sprites/el/el_3_laugh.png",
-      "/graphics/sprites/el/el_3_serious.png"
+      "storage/graphics/sprites/el/el_3_angry.png",
+      "storage/graphics/sprites/el/el_3_laugh.png",
+      "storage/graphics/sprites/el/el_3_serious.png"
     ],
     "clothes": [
-      "/graphics/sprites/el/el_3_pioneer.png",
-      "/graphics/sprites/el/el_3_shirt_alive.png",
-      "/graphics/sprites/el/el_3_shirt_dead.png",
-      "/graphics/sprites/mods/Additional/el/el_3_nude.png",
-      "/graphics/sprites/el/el_3_uniform.png"
+      "storage/graphics/sprites/el/el_3_pioneer.png",
+      "storage/graphics/sprites/el/el_3_shirt_alive.png",
+      "storage/graphics/sprites/el/el_3_shirt_dead.png",
+      "storage/graphics/sprites/mods/Additional/el/el_3_nude.png",
+      "storage/graphics/sprites/el/el_3_uniform.png"
     ],
     "offset": "44% 16%",
     "accessories": [ 
-      "/graphics/sprites/sprites_hitbox_1.png" 
+      "storage/graphics/sprites/sprites_hitbox_1.png" 
     ]
 }
 ```
@@ -137,15 +137,15 @@
 
 **"file"**:
 ```json
-"file": "/graphics/sprites/el/el_1_body.png",
+"file": "storage/graphics/sprites/el/el_1_body.png",
 ```
 ```json
-"file": "/graphics/sprites/el/el_2_body.png",
+"file": "storage/graphics/sprites/el/el_2_body.png",
 ```
 ```json
-"file": "/graphics/sprites/el/el_3_body.png",
+"file": "storage/graphics/sprites/el/el_3_body.png",
 ```
-Прямая ссылка на изображение тела персонажа в репозитории. В нашем случае таковое имеется и проблем не возникает, однако может случиться ситуация, когда такового не имеется. В данной ситуации необходимо использовать **hitbox** заглушки, расположенные [здесь](https://github.com/MrDaseMan/fukuro-storage/tree/main/public/graphics/sprites):
+Прямая ссылка на изображение тела персонажа в репозитории. В нашем случае таковое имеется и проблем не возникает, однако может случиться ситуация, когда такового не имеется. В данной ситуации необходимо использовать **hitbox** заглушки, расположенные [здесь](https://github.com/MrDaseMan/fukuro-storage/tree/main/publicstorage/graphics/sprites):
 ![image](https://user-images.githubusercontent.com/48094227/164989978-e8902db3-2321-44dc-98d5-4b3e327ec1cb.png)
 
 Примером использования такой заглушки может послужить, например, спрайт Виолы:
@@ -153,61 +153,61 @@
 ```json
 {
     "name": "Виола",
-    "file": "/graphics/sprites/sprites_hitbox_1.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
-      "/graphics/sprites/cs/cs_1_normal.png",
-      "/graphics/sprites/cs/cs_1_grin.png",
-      "/graphics/sprites/cs/cs_1_smile.png",
-      "/graphics/sprites/cs/cs_1_laugh.png",
-      "/graphics/sprites/cs/cs_1_shy.png",
-      "/graphics/sprites/cs/cs_1_upset.png",
-      "/graphics/sprites/cs/cs_1_serious.png",
-      "/graphics/sprites/cs/cs_1_fear.png",
-      "/graphics/sprites/cs/cs_1_angry.png",
-      "/graphics/sprites/cs/cs_1_rage.png",
-      "/graphics/sprites/cs/cs_1_sad.png",
-      "/graphics/sprites/cs/cs_1_sad2.png",
-      "/graphics/sprites/cs/cs_1_cry.png"
+      "storage/graphics/sprites/cs/cs_1_normal.png",
+      "storage/graphics/sprites/cs/cs_1_grin.png",
+      "storage/graphics/sprites/cs/cs_1_smile.png",
+      "storage/graphics/sprites/cs/cs_1_laugh.png",
+      "storage/graphics/sprites/cs/cs_1_shy.png",
+      "storage/graphics/sprites/cs/cs_1_upset.png",
+      "storage/graphics/sprites/cs/cs_1_serious.png",
+      "storage/graphics/sprites/cs/cs_1_fear.png",
+      "storage/graphics/sprites/cs/cs_1_angry.png",
+      "storage/graphics/sprites/cs/cs_1_rage.png",
+      "storage/graphics/sprites/cs/cs_1_sad.png",
+      "storage/graphics/sprites/cs/cs_1_sad2.png",
+      "storage/graphics/sprites/cs/cs_1_cry.png"
     ],
     "clothes": [
-      "/graphics/sprites/cs/cs_1_labcoat.png",
-      "/graphics/sprites/cs/cs_1_casual.png",
-      "/graphics/sprites/cs/cs_1_civil.png",
-      "/graphics/sprites/cs/cs_1_civil2.png",
-      "/graphics/sprites/cs/cs_1_shirt.png",
-      "/graphics/sprites/cs/cs_1_dress.png",
-      "/graphics/sprites/cs/cs_1_dress2.png",
-      "/graphics/sprites/cs/cs_1_labcoatns.png",
-      "/graphics/sprites/cs/cs_1_swim2.png",
-      "/graphics/sprites/cs/cs_1_swim.png"
+      "storage/graphics/sprites/cs/cs_1_labcoat.png",
+      "storage/graphics/sprites/cs/cs_1_casual.png",
+      "storage/graphics/sprites/cs/cs_1_civil.png",
+      "storage/graphics/sprites/cs/cs_1_civil2.png",
+      "storage/graphics/sprites/cs/cs_1_shirt.png",
+      "storage/graphics/sprites/cs/cs_1_dress.png",
+      "storage/graphics/sprites/cs/cs_1_dress2.png",
+      "storage/graphics/sprites/cs/cs_1_labcoatns.png",
+      "storage/graphics/sprites/cs/cs_1_swim2.png",
+      "storage/graphics/sprites/cs/cs_1_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
-      "/graphics/sprites/sprites_hitbox_1.png",
-      "/graphics/sprites/cs/cs_1_glasses.png",
-      "/graphics/sprites/cs/cs_1_sun_glasses.png",
-      "/graphics/sprites/cs/cs_1_glasses_over.png",
-      "/graphics/sprites/cs/cs_1_glasses_through.png",
-      "/graphics/sprites/cs/cs_1_stethoscope.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/cs/cs_1_glasses.png",
+      "storage/graphics/sprites/cs/cs_1_sun_glasses.png",
+      "storage/graphics/sprites/cs/cs_1_glasses_over.png",
+      "storage/graphics/sprites/cs/cs_1_glasses_through.png",
+      "storage/graphics/sprites/cs/cs_1_stethoscope.png"
     ]
   }
 ```
-Здесь в качестве тела в поле **file** используется заглушка /graphics/sprites/sprites_hitbox_1.png
+Здесь в качестве тела в поле **file** используется заглушка storage/graphics/sprites/sprites_hitbox_1.png
 
 **[Внимание!]** Если спрайт имеет несколько поз, то повторение ссылок в поле "file" недопустимо! В ином случае вероятно появление различных артефактов в отображении на сайте.
 
 **emotions**:
 ```json
 "emotions": [
-      "/graphics/sprites/el/el_1_grin.png",
-      "/graphics/sprites/el/el_1_normal.png",
-      "/graphics/sprites/mods/Additional/el/el_1_shy.png",
-      "/graphics/sprites/mods/Additional/el/el_1_shy2.png",
-      "/graphics/sprites/mods/Additional/el/el_1_shy3.png",
-      "/graphics/sprites/mods/Additional/el/el_1_smile2.png",
-      "/graphics/sprites/mods/Additional/el/el_1_think.png",
-      "/graphics/sprites/mods/Additional/el/el_1_think2.png",
-      "/graphics/sprites/el/el_1_smile.png"
+      "storage/graphics/sprites/el/el_1_grin.png",
+      "storage/graphics/sprites/el/el_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy2.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy3.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_think.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_think2.png",
+      "storage/graphics/sprites/el/el_1_smile.png"
     ],
 ```
 
@@ -216,11 +216,11 @@
 **clothes**:
 ```json
     "clothes": [
-      "/graphics/sprites/el/el_3_pioneer.png",
-      "/graphics/sprites/el/el_3_shirt_alive.png",
-      "/graphics/sprites/el/el_3_shirt_dead.png",
-      "/graphics/sprites/mods/Additional/el/el_3_nude.png",
-      "/graphics/sprites/el/el_3_uniform.png"
+      "storage/graphics/sprites/el/el_3_pioneer.png",
+      "storage/graphics/sprites/el/el_3_shirt_alive.png",
+      "storage/graphics/sprites/el/el_3_shirt_dead.png",
+      "storage/graphics/sprites/mods/Additional/el/el_3_nude.png",
+      "storage/graphics/sprites/el/el_3_uniform.png"
     ],
 ```
 
@@ -230,35 +230,35 @@
 
 ```json
     "clothes": [
-      "/graphics/sprites/el/el_1_pioneer.png",
-      "/graphics/sprites/el/el_1_shirt_alive.png",
+      "storage/graphics/sprites/el/el_1_pioneer.png",
+      "storage/graphics/sprites/el/el_1_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "/graphics/sprites/el/el_2_pioneer.png",
-      "/graphics/sprites/el/el_2_shirt_alive.png",
+      "storage/graphics/sprites/el/el_2_pioneer.png",
+      "storage/graphics/sprites/el/el_2_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "/graphics/sprites/el/el_3_pioneer.png",
-      "/graphics/sprites/el/el_3_shirt_alive.png",
+      "storage/graphics/sprites/el/el_3_pioneer.png",
+      "storage/graphics/sprites/el/el_3_shirt_alive.png",
 ```
 
 На примере можно заметить, что первым элементом для 1, 2 и 3-х поз находится пионерская форма, а вторым - футболка. 
-Если на одной из поз соответствующая одежда отсутствует, необходимо вставить на место соответствующего элемента значение "NONE". Допустим, у спрайта Электроника отсутствует одежда /graphics/sprites/el/el_3_shirt_alive.png, тогда в конфиг будет необходимо записать:
+Если на одной из поз соответствующая одежда отсутствует, необходимо вставить на место соответствующего элемента значение "NONE". Допустим, у спрайта Электроника отсутствует одежда storage/graphics/sprites/el/el_3_shirt_alive.png, тогда в конфиг будет необходимо записать:
 ```json
     "clothes": [
-      "/graphics/sprites/el/el_1_pioneer.png",
-      "/graphics/sprites/el/el_1_shirt_alive.png",
+      "storage/graphics/sprites/el/el_1_pioneer.png",
+      "storage/graphics/sprites/el/el_1_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "/graphics/sprites/el/el_2_pioneer.png",
-      "/graphics/sprites/el/el_2_shirt_alive.png",
+      "storage/graphics/sprites/el/el_2_pioneer.png",
+      "storage/graphics/sprites/el/el_2_shirt_alive.png",
 ```
 ```json
     "clothes": [
-      "/graphics/sprites/el/el_3_pioneer.png",
+      "storage/graphics/sprites/el/el_3_pioneer.png",
       "NONE",
 ```
 
@@ -275,12 +275,12 @@
 **accessories**:
 ```json
     "accessories": [
-      "/graphics/sprites/sprites_hitbox_1.png",
-      "/graphics/sprites/cs/cs_1_glasses.png",
-      "/graphics/sprites/cs/cs_1_sun_glasses.png",
-      "/graphics/sprites/cs/cs_1_glasses_over.png",
-      "/graphics/sprites/cs/cs_1_glasses_through.png",
-      "/graphics/sprites/cs/cs_1_stethoscope.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/cs/cs_1_glasses.png",
+      "storage/graphics/sprites/cs/cs_1_sun_glasses.png",
+      "storage/graphics/sprites/cs/cs_1_glasses_over.png",
+      "storage/graphics/sprites/cs/cs_1_glasses_through.png",
+      "storage/graphics/sprites/cs/cs_1_stethoscope.png"
     ]
 ```
 

@@ -1,0 +1,69 @@
+{
+    "name": "Электроник",
+    "file": "storage/graphics/sprites/el/el_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/el/el_1_grin.png",
+      "storage/graphics/sprites/el/el_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy2.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_shy3.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_think.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_think2.png",
+      "storage/graphics/sprites/el/el_1_smile.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/el/el_1_pioneer.png",
+      "storage/graphics/sprites/el/el_1_shirt_alive.png",
+      "storage/graphics/sprites/el/el_1_shirt_dead.png",
+      "storage/graphics/sprites/mods/Additional/el/el_1_nude.png",
+      "storage/graphics/sprites/el/el_1_uniform.png"
+    ],
+    "offset": "48% 16%",
+    "accessories": [ 
+      "storage/graphics/sprites/sprites_hitbox_1.png" 
+    ]
+  },
+  {
+    "name": "Электроник",
+    "file": "storage/graphics/sprites/el/el_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/el/el_2_fingal.png",
+      "storage/graphics/sprites/el/el_2_sad.png",
+      "storage/graphics/sprites/el/el_2_scared.png",
+      "storage/graphics/sprites/el/el_2_shocked.png",
+      "storage/graphics/sprites/el/el_2_surprise.png",
+      "storage/graphics/sprites/el/el_2_upset.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/el/el_2_pioneer.png",
+      "storage/graphics/sprites/el/el_2_shirt_alive.png",
+      "storage/graphics/sprites/el/el_2_shirt_dead.png",
+      "storage/graphics/sprites/mods/Additional/el/el_2_nude.png",
+      "storage/graphics/sprites/el/el_2_uniform.png"
+    ],
+    "offset": "51% 16%",
+    "accessories": [ 
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Электроник",
+    "file": "storage/graphics/sprites/el/el_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/el/el_3_angry.png",
+      "storage/graphics/sprites/el/el_3_laugh.png",
+      "storage/graphics/sprites/el/el_3_serious.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/el/el_3_pioneer.png",
+      "storage/graphics/sprites/el/el_3_shirt_alive.png",
+      "storage/graphics/sprites/el/el_3_shirt_dead.png",
+      "storage/graphics/sprites/mods/Additional/el/el_3_nude.png",
+      "storage/graphics/sprites/el/el_3_uniform.png"
+    ],
+    "offset": "44% 16%",
+    "accessories": [ 
+      "storage/graphics/sprites/sprites_hitbox_1.png" 
+    ]
+}
