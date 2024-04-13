@@ -15751,16 +15751,16 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_normal.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_grin.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_dislike.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_shocked.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_pioneer_laugh.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_normal.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_grin.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_dislike.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_shocked.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_pioneer_laugh.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
@@ -15768,7 +15768,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
     ]
   },
   {
@@ -15776,15 +15776,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_ponder.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_surprised.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_laugh.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_shy.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_pioneer_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_ponder.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_surprised.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_laugh.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_shy.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_pioneer_cry.png",
       "NONE"
     ],
     "clothes": [
@@ -15793,7 +15793,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
     ]
   },
   {
@@ -15801,15 +15801,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_trouble.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_guilty.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_pioneer_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_trouble.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_guilty.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_rage.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_cry.png",
       "NONE",
       "NONE"
     ],
@@ -15819,7 +15819,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
     ]
   },
   {
@@ -15827,16 +15827,16 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_normal.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_grin.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_dislike.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_shocked.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_dress_laugh.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_normal.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_grin.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_dislike.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_shocked.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_dress_laugh.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
@@ -15844,7 +15844,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
     ]
   },
   {
@@ -15852,15 +15852,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_5.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_ponder.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_surprised.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_laugh.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_shy.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_dress_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_ponder.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_surprised.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_laugh.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_shy.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_dress_cry.png",
       "NONE"
     ],
     "clothes": [
@@ -15869,7 +15869,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
     ]
   },
   {
@@ -15877,15 +15877,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_6.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_trouble.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_guilty.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_trouble.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_guilty.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_rage.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_cry.png",
       "NONE",
       "NONE"
     ],
@@ -15895,7 +15895,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
     ]
   },
   {
@@ -15903,16 +15903,16 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_7.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_normal.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_grin.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_dislike.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_shocked.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_sport_laugh.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_normal.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_grin.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_dislike.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_shocked.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_sport_laugh.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
@@ -15920,7 +15920,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
     ]
   },
   {
@@ -15928,15 +15928,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_8.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_ponder.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_surprised.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_laugh.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_shy.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_sport_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_ponder.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_surprised.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_laugh.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_shy.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_sport_cry.png",
       "NONE"
     ],
     "clothes": [
@@ -15945,7 +15945,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
     ]
   },
   {
@@ -15953,15 +15953,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_9.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_trouble.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_guilty.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_dress_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_trouble.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_guilty.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_rage.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_cry.png",
       "NONE",
       "NONE"
     ],
@@ -15971,7 +15971,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
     ]
   },
   {
@@ -15979,16 +15979,16 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_10.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_normal.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_grin.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_dislike.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_shocked.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_swim_laugh.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_normal.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_grin.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_dislike.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_shocked.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_swim_laugh.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
@@ -15996,7 +15996,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_1_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
     ]
   },
   {
@@ -16004,15 +16004,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_11.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_ponder.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_surprised.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_laugh.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_shy.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_smile1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_swim_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_ponder.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_surprised.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_laugh.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_shy.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_smile1.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_swim_cry.png",
       "NONE"
     ],
     "clothes": [
@@ -16021,7 +16021,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_2_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
     ]
   },
   {
@@ -16029,15 +16029,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_12.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_trouble.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_guilty.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_swim_cry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_trouble.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_guilty.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_rage.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_cry.png",
       "NONE",
       "NONE"
     ],
@@ -16047,7 +16047,7 @@
     "offset": "50% 25%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/25_years_after/ad_3_gloves.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
     ]
   },
   {
