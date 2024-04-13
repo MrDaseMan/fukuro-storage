@@ -15938,15 +15938,15 @@
     "modification": "25 лет спустя",
     "file": "storage/graphics/sprites/sprites_hitbox_9.png",
     "emotions": [
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_serious.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_trouble.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_sad.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_guilty.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_angry.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_fear.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_cry.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_serious.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_trouble.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_sad.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_guilty.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_angry.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_fear.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_rage.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_smile.png",
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_cry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
