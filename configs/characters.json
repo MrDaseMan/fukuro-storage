@@ -15599,15 +15599,15 @@
     "modification": "Привет, меня зовут Сэм!",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_smile.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_surp.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_laught.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_cry.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_smile.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_surp.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_laught.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_cry.png",
       "NONE",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_notlike.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_norm.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_scary.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samp_shy.png"
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_notlike.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_norm.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_scary.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samp_shy.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
@@ -15622,15 +15622,15 @@
     "modification": "Привет, меня зовут Сэм!",
     "file": "storage/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_smile.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_surp.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_laught.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_cry.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_close.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_notlike.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_norm.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_scary.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samn_shy.png"
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_smile.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_surp.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_laught.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_cry.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_close.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_notlike.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_norm.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_scary.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samn_shy.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
@@ -15645,15 +15645,15 @@
     "modification": "Привет, меня зовут Сэм!",
     "file": "storage/graphics/sprites/sprites_hitbox_3.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_smile.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_surp.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_lought.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_cry.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_inhale.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_notlike.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_norm.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_scary.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/samb_shy1.png"
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_smile.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_surp.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_lought.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_cry.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_inhale.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_notlike.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_norm.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_scary.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/samb_shy1.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
@@ -15668,15 +15668,15 @@
     "modification": "Привет, меня зовут Сэм!",
     "file": "storage/graphics/sprites/sprites_hitbox_4.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_smile.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_surp.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_laught.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_cry.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_smile.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_surp.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_laught.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_cry.png",
       "NONE",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_notlike.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_norm.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_scary.png",
-      "storage/graphics/sprites/mods/Dandelion_wine/I_am_Sam/sam/pioneer/sam_bath_shy.png"
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_notlike.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_norm.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_scary.png",
+      "storage/graphics/sprites/mods/I_am_Sam/sam/pioneer/sam_bath_shy.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
