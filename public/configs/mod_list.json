@@ -334,5 +334,29 @@
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1706572704",
     "alt": "false",
     "enabled": "true"
+  },
+  {
+    "name": "Вино из одуванчиков",
+    "icon": "dandelion_wine.gif",
+    "vk": "https://vk.com/crimsoteam",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2403306944",
+    "alt": "false",
+    "enabled": "true"
+  },
+  {
+    "name": "25 лет спустя",
+    "icon": "25.gif",
+    "vk": "",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2446808980",
+    "alt": "false",
+    "enabled": "true"
+  },
+  {
+    "name": "Привет, меня зовут Сэм!",
+    "icon": "i_am_sam.jpg",
+    "vk": "https://vk.com/anomazona",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2877079097",
+    "alt": "false",
+    "enabled": "true"
   }
 ]
