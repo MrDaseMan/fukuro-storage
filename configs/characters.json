@@ -11090,6 +11090,106 @@
     ]
   },
   {
+    "name": "Тоука",
+    "modification": "Student Transfer",
+    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_1.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_2.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_3.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_4.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_5.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_6.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_7.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_8.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_9.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_10.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_11.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_12.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_13.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_14.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_15.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_pio.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_business.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_casual.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_hoodie.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_nirvana.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Тоука",
+    "modification": "Student Transfer",
+    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_1.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_2.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_3.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_4.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_5.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_6.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_7.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_8.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_9.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_10.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_11.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_12.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_13.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_14.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_pio.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_business.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_casual.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_hoodie.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_nirvana.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Тоука",
+    "modification": "Student Transfer",
+    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_1.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_2.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_3.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_4.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_5.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_6.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_7.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_8.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_9.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_10.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_11.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_12.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_13.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_14.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_pio.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_business.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_casual.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_hoodie.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_nirvana.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Гопник",
     "modification": "Быдло в Совёнке",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
