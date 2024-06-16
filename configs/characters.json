@@ -16131,6 +16131,281 @@
     ]
   },
   {
+    "name": "Тай",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Tai/1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Tai/normal.png",
+      "storage/graphics/sprites/mods/Additional/Tai/happy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sad.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sleepy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/unhappy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/surprised.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sus.png",
+      "storage/graphics/sprites/mods/Additional/Tai/angry.png",
+      "storage/graphics/sprites/mods/Additional/Tai/rage.png",
+      "storage/graphics/sprites/mods/Additional/Tai/shy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/closeshy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Tai/1_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/Tai/1_casual.png",
+      "storage/graphics/sprites/mods/Additional/Tai/1_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/1_swimsuit.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+    "storage/graphics/sprites/sprites_hitbox_1.png",
+    "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
+    ]
+  },
+  {
+    "name": "Тай",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Tai/2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Tai/normal.png",
+      "storage/graphics/sprites/mods/Additional/Tai/happy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sad.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sleepy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/unhappy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/surprised.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sus.png",
+      "storage/graphics/sprites/mods/Additional/Tai/angry.png",
+      "storage/graphics/sprites/mods/Additional/Tai/rage.png",
+      "storage/graphics/sprites/mods/Additional/Tai/shy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/closeshy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Tai/2_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/Tai/2_casual.png",
+      "storage/graphics/sprites/mods/Additional/Tai/2_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/2_swimsuit.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
+    ]
+  },
+  {
+    "name": "Тай",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Tai/3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Tai/normal.png",
+      "storage/graphics/sprites/mods/Additional/Tai/happy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sad.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sleepy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/unhappy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/surprised.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sus.png",
+      "storage/graphics/sprites/mods/Additional/Tai/angry.png",
+      "storage/graphics/sprites/mods/Additional/Tai/rage.png",
+      "storage/graphics/sprites/mods/Additional/Tai/shy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/closeshy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Tai/3_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/Tai/3_casual.png",
+      "storage/graphics/sprites/mods/Additional/Tai/3_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/3_swimsuit.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
+    ]
+  },
+  {
+    "name": "Тай",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Tai/4_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Tai/normal.png",
+      "storage/graphics/sprites/mods/Additional/Tai/happy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sad.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sleepy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/unhappy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/surprised.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sus.png",
+      "storage/graphics/sprites/mods/Additional/Tai/angry.png",
+      "storage/graphics/sprites/mods/Additional/Tai/rage.png",
+      "storage/graphics/sprites/mods/Additional/Tai/shy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/closeshy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Tai/4_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/Tai/4_casual.png",
+      "storage/graphics/sprites/mods/Additional/Tai/4_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/4_swimsuit.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
+    ]
+  },
+  {
+    "name": "Тай",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Tai/5_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Tai/normal.png",
+      "storage/graphics/sprites/mods/Additional/Tai/happy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sad.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sleepy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/unhappy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/surprised.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sus.png",
+      "storage/graphics/sprites/mods/Additional/Tai/angry.png",
+      "storage/graphics/sprites/mods/Additional/Tai/rage.png",
+      "storage/graphics/sprites/mods/Additional/Tai/shy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/closeshy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Tai/5_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/Tai/5_casual.png",
+      "storage/graphics/sprites/mods/Additional/Tai/5_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/5_swimsuit.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
+    ]
+  },
+  {
+    "name": "Тай",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Tai/6_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Tai/normal.png",
+      "storage/graphics/sprites/mods/Additional/Tai/happy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sad.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sleepy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/unhappy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/surprised.png",
+      "storage/graphics/sprites/mods/Additional/Tai/sus.png",
+      "storage/graphics/sprites/mods/Additional/Tai/angry.png",
+      "storage/graphics/sprites/mods/Additional/Tai/rage.png",
+      "storage/graphics/sprites/mods/Additional/Tai/shy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/closeshy.png",
+      "storage/graphics/sprites/mods/Additional/Tai/cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Tai/6_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/Tai/6_casual.png",
+      "storage/graphics/sprites/mods/Additional/Tai/6_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/6_swimsuit.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
+    ]
+  },
+  {
+    "name": "Ева",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Eva/eva_body_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_normal.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_happy.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_flirty.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_sad.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_anger.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_fear.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_surprise.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_tired.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_shy.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_casual.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_swim",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_office.png"
+    ],
+    "offset": "50% 15%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_acc_flower.png"
+    ]
+  },
+  {
+    "name": "Олеся",
+    "modification": "Двое",
+    "file": "storage/graphics/sprites/mods/DVA/Olesya/oles_body_front.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_norm.png",	
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_smile.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_happy.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_worry.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_norm.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_close.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_anger.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_evil.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_pioneer_front.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_casual_front.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Олеся",
+    "modification": "Двое",
+    "file": "storage/graphics/sprites/mods/DVA/Olesya/oles_body_front2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_norm.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_smile.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_happy.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_worry.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_norm.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_close.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_anger.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_evil.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_pioneer_front2.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_casual_front2.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Олеся",
+    "modification": "Двое",
+    "file": "storage/graphics/sprites/mods/DVA/Olesya/oles_body_side.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_s_norm.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_s_happy.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_s_anger.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_s_anger2.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_s_evil.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_s_shy.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_pioneer_side.png",
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_casual_side.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "wt_СССР-тян",
     "file": "storage/graphics/sprites/sprites_hitbox.png",
     "emotions": [

@@ -358,5 +358,13 @@
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2877079097",
     "alt": "false",
     "enabled": "true"
+  },
+  {
+    "name": "Двое",
+    "icon": "DVA.jpg",
+    "vk": "https://vk.com/dva_mods",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=770709137",
+    "alt": "false",
+    "enabled": "true"
   }
 ]
