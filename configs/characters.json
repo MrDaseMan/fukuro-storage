@@ -16344,7 +16344,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/Additional/Tai/4_pioneer.png",
       "storage/graphics/sprites/mods/Additional/Tai/4_casual.png",
-      "storage/graphics/sprites/mods/Additional/Tai/4_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/4_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/4_swimsuit.png"
     ],
     "offset": "50% 20%",
@@ -16374,7 +16374,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/Additional/Tai/5_pioneer.png",
       "storage/graphics/sprites/mods/Additional/Tai/5_casual.png",
-      "storage/graphics/sprites/mods/Additional/Tai/5_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/5_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/5_swimsuit.png"
     ],
     "offset": "50% 20%",
@@ -16404,7 +16404,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/Additional/Tai/6_pioneer.png",
       "storage/graphics/sprites/mods/Additional/Tai/6_casual.png",
-      "storage/graphics/sprites/mods/Additional/Tai/6_sleep",
+      "storage/graphics/sprites/mods/Additional/Tai/6_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/6_swimsuit.png"
     ],
     "offset": "50% 20%",
