@@ -361,9 +361,25 @@
   },
   {
     "name": "Двое",
-    "icon": "DVA.jpg",
+    "icon": "dva.jpg",
     "vk": "https://vk.com/dva_mods",
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=770709137",
+    "alt": "false",
+    "enabled": "true"
+  },
+  {
+    "name": "09/19/20",
+    "icon": "091920.jpg",
+    "vk": "https://vk.com/ipffox",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=2901754571",
+    "alt": "false",
+    "enabled": "true"
+  },
+  {
+    "name": "Другой отряд",
+    "icon": "OtherSquad.jpg",
+    "vk": "",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=1410626099",
     "alt": "false",
     "enabled": "true"
   }

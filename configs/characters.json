@@ -11190,6 +11190,106 @@
     ]
   },
   {
+    "name": "Тоука",
+    "modification": "Student Transfer",
+    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_1.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_2.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_3.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_4.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_5.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_6.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_7.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_8.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_9.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_10.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_11.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_12.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_13.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_14.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_15.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_pio.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_business.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_casual.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_hoodie.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_nirvana.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Тоука",
+    "modification": "Student Transfer",
+    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_1.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_2.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_3.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_4.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_5.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_6.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_7.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_8.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_9.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_10.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_11.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_12.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_13.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_14.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_pio.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_business.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_casual.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_hoodie.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_nirvana.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Тоука",
+    "modification": "Student Transfer",
+    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_1.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_2.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_3.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_4.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_5.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_6.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_7.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_8.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_9.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_10.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_11.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_12.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_13.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_14.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_pio.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_business.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_casual.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_hoodie.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_nirvana.png",
+      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_swim.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Гопник",
     "modification": "Быдло в Совёнке",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
@@ -15783,7 +15883,7 @@
   {
     "name": "Карина",
     "modification": "Ламповое лето!",
-    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "file": "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_normal.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_smile.png",
@@ -15792,6 +15892,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_pioneer.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_tshirt.png",
+      "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_uniform.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_swim.png"
     ],
     "offset": "50% 25%",
@@ -15802,7 +15903,7 @@
   {
     "name": "Карина",
     "modification": "Ламповое лето!",
-    "file": "storage/graphics/sprites/sprites_hitbox_2.png",
+    "file": "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_guilty.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_surprise.png",
@@ -15812,6 +15913,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_pioneer.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_tshirt.png",
+      "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_uniform.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_swim.png"
     ],
     "offset": "50% 25%",
@@ -15822,7 +15924,7 @@
   {
     "name": "Карина",
     "modification": "Ламповое лето!",
-    "file": "storage/graphics/sprites/sprites_hitbox_3.png",
+    "file": "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_laugh.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_sad.png",
@@ -15831,6 +15933,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_pioneer.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_tshirt.png",
+      "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_uniform.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_swim.png"
     ],
     "offset": "50% 25%",
@@ -16329,7 +16432,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_pioneer.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_casual.png",
-      "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_swim",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_swim.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_office.png"
     ],
     "offset": "50% 15%",
@@ -16399,6 +16502,317 @@
     "clothes": [
       "storage/graphics/sprites/mods/DVA/Olesya/oles_pioneer_side.png",
       "storage/graphics/sprites/mods/DVA/Olesya/oles_casual_side.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Аня",
+    "modification": "09/19/20",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/091920/anya/anya_normal_n.png",
+      "storage/graphics/sprites/mods/091920/anya/anya_laught_n.png",
+      "storage/graphics/sprites/mods/091920/anya/anya_frown_n.png",
+      "storage/graphics/sprites/mods/091920/anya/anya_angry_n.png",
+      "storage/graphics/sprites/mods/091920/anya/anya_sad_n.png",
+      "storage/graphics/sprites/mods/091920/anya/anya_sosad_n.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Лера",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_smile_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_normal_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_surprise_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_smeh_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_poshlaya_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_ispyg_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_angry_pioneer.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Лера",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_normal_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_poshlaya_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_smile_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/lera/le_smeh_swim.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Наташа",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_normal_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_ahye_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_cry_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_obida_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_pokrasnelya_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_serious_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_smeh_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_smile_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_upset_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_yhmilka_pioneer.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Наташа",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_neponimanie_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_ispyg_pioneer.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_angry_pioneer.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Наташа",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_3.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_happy_pioneer.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Наташа",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_4.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_ahye_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_cry_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_normal_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_obida_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_pokrasnelya_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_serious_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_smeh_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_smile_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_upset_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_yhmilka_swim.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Наташа",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_5.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_neponimanie_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_ispyg_swim.png",
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_angry_swim.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Наташа",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_6.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/natasha/na_happy_swim.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Никита",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/nikita/nikita_pioneer.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Осетровна",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/osetrovna/os_normal.png",
+      "storage/graphics/sprites/mods/OtherSquad/osetrovna/os_pokoi.png",
+      "storage/graphics/sprites/mods/OtherSquad/osetrovna/os_surprise.png",
+      "storage/graphics/sprites/mods/OtherSquad/osetrovna/os_rage.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 5%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Саня",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/sanya/sa_smile.png",
+      "storage/graphics/sprites/mods/OtherSquad/sanya/sa_normal.png",
+      "storage/graphics/sprites/mods/OtherSquad/sanya/sa_surprise.png",
+      "storage/graphics/sprites/mods/OtherSquad/sanya/sa_smeh.png",
+      "storage/graphics/sprites/mods/OtherSquad/sanya/sa_nedovolen.png",
+      "storage/graphics/sprites/mods/OtherSquad/sanya/sa_angry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Серёга",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_smile.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_normal.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Серёга",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_upset.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_fingal.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_ispyg.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_kosyak.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_normal.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_surprise.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Серёга",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_3.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_smeh.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_dontlike.png",
+      "storage/graphics/sprites/mods/OtherSquad/serega/se_angry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Серый",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/seriy/ser_normal.png",
+      "storage/graphics/sprites/mods/OtherSquad/seriy/ser_surprise.png",
+      "storage/graphics/sprites/mods/OtherSquad/seriy/ser_serious.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Серый",
+    "modification": "Другой отряд",
+    "file": "storage/graphics/sprites/sprites_hitbox_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/OtherSquad/seriy/ser_halfsmile.png",
+      "storage/graphics/sprites/mods/OtherSquad/seriy/ser_smile.png",
+      "storage/graphics/sprites/mods/OtherSquad/seriy/ser_smeh.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
     "offset": "50% 20%",
     "accessories": [
