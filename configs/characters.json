@@ -11190,106 +11190,6 @@
     ]
   },
   {
-    "name": "Тоука",
-    "modification": "Student Transfer",
-    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_1_body.png",
-    "emotions": [
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_1.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_2.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_3.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_4.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_5.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_6.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_7.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_8.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_9.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_10.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_11.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_12.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_13.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_14.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_1_15.png"
-    ],
-    "clothes": [
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_pio.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_business.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_casual.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_hoodie.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_nirvana.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_1_swim.png"
-    ],
-    "offset": "50% 25%",
-    "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
-    ]
-  },
-  {
-    "name": "Тоука",
-    "modification": "Student Transfer",
-    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_2_body.png",
-    "emotions": [
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_1.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_2.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_3.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_4.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_5.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_6.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_7.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_8.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_9.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_10.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_11.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_12.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_13.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_14.png"
-    ],
-    "clothes": [
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_pio.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_business.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_casual.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_hoodie.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_nirvana.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_2_swim.png"
-    ],
-    "offset": "50% 25%",
-    "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
-    ]
-  },
-  {
-    "name": "Тоука",
-    "modification": "Student Transfer",
-    "file": "storage/graphics/sprites/mods/StudentTransfer/touka/touka_3_body.png",
-    "emotions": [
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_1.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_2.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_3.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_4.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_5.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_6.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_7.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_8.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_9.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_10.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_11.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_12.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_13.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/emotions/touka_2_14.png"
-    ],
-    "clothes": [
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_pio.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_business.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_casual.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_hoodie.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_nirvana.png",
-      "storage/graphics/sprites/mods/StudentTransfer/touka/clothes/touka_3_swim.png"
-    ],
-    "offset": "50% 25%",
-    "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
-    ]
-  },
-  {
     "name": "Гопник",
     "modification": "Быдло в Совёнке",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
@@ -15675,7 +15575,7 @@
       "storage/graphics/sprites/mods/Additional/mona/mona_daily.png",
       "storage/graphics/sprites/mods/Additional/mona/mona_swim.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 27%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15701,7 +15601,7 @@
       "storage/graphics/sprites/mods/Additional/mona/mona_daily.png",
       "storage/graphics/sprites/mods/Additional/mona/mona_swim.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 27%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15809,7 +15709,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 27%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15831,7 +15731,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 27%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15853,7 +15753,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 27%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15875,7 +15775,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 27%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15960,7 +15860,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -15984,7 +15884,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16002,13 +15902,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_angry.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_fear.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_cry.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_pioneer_smile.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16033,7 +15932,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16057,7 +15956,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16075,13 +15974,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_angry.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_fear.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_cry.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_dress_smile.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16106,7 +16004,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16130,7 +16028,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16148,13 +16046,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_angry.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_fear.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_cry.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_sport_smile.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16179,7 +16076,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16203,7 +16100,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16221,13 +16118,12 @@
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_angry.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_fear.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_rage.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_smile.png",
-      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_cry.png"
+      "storage/graphics/sprites/mods/25_years_after/ada/ad_3_swim_smile.png"
     ],
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16257,7 +16153,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/1_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/1_swimsuit.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
     "storage/graphics/sprites/sprites_hitbox_1.png",
     "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16287,7 +16183,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/2_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/2_swimsuit.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16317,7 +16213,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/3_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/3_swimsuit.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16347,7 +16243,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/4_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/4_swimsuit.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16377,7 +16273,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/5_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/5_swimsuit.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16407,7 +16303,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/6_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/6_swimsuit.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16435,7 +16331,7 @@
       "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_swim.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_office.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_acc_flower.png"
@@ -16459,7 +16355,7 @@
       "storage/graphics/sprites/mods/DVA/Olesya/oles_pioneer_front.png",
       "storage/graphics/sprites/mods/DVA/Olesya/oles_casual_front.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 23%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16482,7 +16378,7 @@
       "storage/graphics/sprites/mods/DVA/Olesya/oles_pioneer_front2.png",
       "storage/graphics/sprites/mods/DVA/Olesya/oles_casual_front2.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 23%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16503,7 +16399,7 @@
       "storage/graphics/sprites/mods/DVA/Olesya/oles_pioneer_side.png",
       "storage/graphics/sprites/mods/DVA/Olesya/oles_casual_side.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 23%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
