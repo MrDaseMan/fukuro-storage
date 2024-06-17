@@ -4385,7 +4385,11 @@
       "storage/graphics/sprites/mods/Samantha/owl/1_owl_dressed.png",
       "storage/graphics/sprites/mods/Samantha/owl/1_owl_skirt.png",
       "storage/graphics/sprites/mods/Samantha/owl/1_owl_undr.png",
-      "storage/graphics/sprites/mods/Samantha/owl/1_owl_pioneer_base.png"
+      "storage/graphics/sprites/mods/Samantha/owl/1_owl_pioneer_base.png",
+      "NONE",
+      "NONE",
+      "NONE",
+      "NONE"
     ],
     "offset": "55% 28%",
     "accessories": [
@@ -4415,7 +4419,11 @@
       "storage/graphics/sprites/mods/Samantha/owl/2_owl_dressed.png",
       "storage/graphics/sprites/mods/Samantha/owl/2_owl_skirt.png",
       "storage/graphics/sprites/mods/Samantha/owl/2_owl_undr.png",
-      "storage/graphics/sprites/mods/Samantha/owl/2_owl_pioneer_base.png"
+      "storage/graphics/sprites/mods/Samantha/owl/2_owl_pioneer_base.png",
+      "NONE",
+      "NONE",
+      "NONE",
+      "NONE"
     ],
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_2.png"
@@ -4437,7 +4445,11 @@
       "storage/graphics/sprites/mods/Samantha/owl/3_owl_dressed.png",
       "storage/graphics/sprites/mods/Samantha/owl/3_owl_skirt.png",
       "storage/graphics/sprites/mods/Samantha/owl/3_owl_undr.png",
-      "storage/graphics/sprites/mods/Samantha/owl/3_owl_pioneer_base.png"
+      "storage/graphics/sprites/mods/Samantha/owl/3_owl_pioneer_base.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_owl_casual.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_owl_dress.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_owl_sport.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_owl_swim.png"
     ],
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_3.png"
@@ -6095,7 +6107,17 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_2_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_sad_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_grin_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_irony_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_light_smile_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_mona_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_normal_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_1_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_2_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_sad_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_pioneer.png",
@@ -6121,7 +6143,10 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_indifference_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_regret_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_indifference_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_regret_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_pioneer.png",
@@ -6163,7 +6188,17 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_surprise2_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_wtf_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_normal_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_after_crying_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_surprise2_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_wtf_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_pioneer.png",
