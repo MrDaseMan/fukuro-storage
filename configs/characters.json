@@ -2285,7 +2285,8 @@
       "storage/graphics/sprites/pi/pi1/pioner_new_normal_dark.png",
       "storage/graphics/sprites/pi/pi1/pi_pioneer_white.png",
       "storage/graphics/sprites/pi/pi1/pi_1_hoody.png",
-      "storage/graphics/sprites/pi/pi1/pi_1_underwear.png"
+      "storage/graphics/sprites/pi/pi1/pi_1_underwear.png",
+      "storage/graphics/sprites/pi/pi1/pi_1_hawaii.png"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2306,7 +2307,8 @@
       "storage/graphics/sprites/pi/pi2/osd_pi_normal1_dark.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_white.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_hoody.png",
-      "storage/graphics/sprites/pi/pi1/osd_pi_underwear.png"
+      "storage/graphics/sprites/pi/pi1/osd_pi_underwear.png",
+      "storage/graphics/sprites/pi/pi1/osd_pi_hawaii.png"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2333,6 +2335,7 @@
       "storage/graphics/sprites/pi/sm/sm_2_shirt_dark.png",
       "NONE",
       "storage/graphics/sprites/pi/sm/sm_2_hoody.png",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2353,6 +2356,7 @@
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_dark.png",
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_mute.png",
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_hoody.png",
+      "NONE",
       "NONE"
     ],
     "offset": "35% 18%",
@@ -2376,6 +2380,7 @@
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_normal_dark.png",
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_normal_mute.png",
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_hoody.png",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2398,6 +2403,7 @@
       "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_dark.png",
       "storage/graphics/sprites/pi/pi5/pi5_white.png",
       "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_hoody.png",
+      "NONE",
       "NONE"
     ],
     "offset": "65% 18%",
@@ -2422,6 +2428,7 @@
       "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_dark.png",
       "storage/graphics/sprites/pi/pi6/pi62_white.png",
       "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_hoody.png",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2446,6 +2453,7 @@
       "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_dark.png",
       "storage/graphics/sprites/pi/pi6/pi6_white.png",
       "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_hoody.png",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2466,6 +2474,7 @@
       "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_dark.png",
       "storage/graphics/sprites/pi/pi7/pi7_white.png",
       "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_hoody.png",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
