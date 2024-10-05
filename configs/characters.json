@@ -2285,8 +2285,7 @@
       "storage/graphics/sprites/pi/pi1/pioner_new_normal_dark.png",
       "storage/graphics/sprites/pi/pi1/pi_pioneer_white.png",
       "storage/graphics/sprites/pi/pi1/pi_1_hoody.png",
-      "storage/graphics/sprites/pi/pi1/pi_1_underwear.png",
-      "storage/graphics/sprites/pi/pi1/pi_1_hawaii.png"
+      "storage/graphics/sprites/pi/pi1/pi_1_underwear.png"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2307,8 +2306,7 @@
       "storage/graphics/sprites/pi/pi2/osd_pi_normal1_dark.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_white.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_hoody.png",
-      "storage/graphics/sprites/pi/pi1/osd_pi_underwear.png",
-      "storage/graphics/sprites/pi/pi1/osd_pi_hawaii.png"
+      "storage/graphics/sprites/pi/pi1/osd_pi_underwear.png"
     ],
     "offset": "50% 18%",
     "accessories": [
