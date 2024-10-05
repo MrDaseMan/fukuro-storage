@@ -6306,7 +6306,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dark.png"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6335,7 +6335,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata.png",
       "NONE"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6362,6 +6362,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_after_crying_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_gnev_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_purple.png",
@@ -6372,6 +6373,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_after_crying_blue.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment_blue.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_gnev_blue.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock_blue.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy_blue.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_blue.png",
@@ -6387,7 +6389,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata.png",
       "NONE"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6417,7 +6419,14 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_2_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_sad_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_mona_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_normal_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_1_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_2_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_sad_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_pio_kare.png",
@@ -6426,7 +6435,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6442,7 +6451,10 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_indifference_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_regret_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_indifference_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_regret_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_pio_kare.png",
@@ -6451,7 +6463,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_kare.png"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6478,12 +6490,24 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_after_crying_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_gnev_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_surprise2_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_wtf_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_normal_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_after_crying_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_gnev_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_surprise2_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_wtf_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_pio_kare.png",
@@ -6492,7 +6516,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_kare.png"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6522,7 +6546,14 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_2_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_sad_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_mona_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_normal_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_1_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_rage_2_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_sad_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/emo/ev_1_surprise_smile_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_pio_kare.png",
@@ -6531,7 +6562,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6547,7 +6578,10 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_indifference_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_regret_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_indifference_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_regret_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/emo/ev_2_shame_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_pio_tail.png",
@@ -6556,7 +6590,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_tail.png"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -6572,7 +6606,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_disruption.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/emo/Ev_3_gnev.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/еv_3_gnev.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile.png",
@@ -6583,12 +6617,24 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_after_crying_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_gnev_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_surprise2_purple.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_wtf_purple.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_purple.png"
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_purple.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_normal_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_after_crying_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_embarrassment_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_fear_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_gnev_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shock_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_shy_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_smile_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_surprise2_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_wtf_blue.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/emo/ev_3_zlo_blue.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_pio_tail.png",
@@ -6597,7 +6643,7 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_tail.png"
     ],
-    "offset": "50% 23%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15378,7 +15424,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 28%",
+    "offset": "50% 32%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15402,7 +15448,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 28%",
+    "offset": "50% 32%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15426,7 +15472,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15451,7 +15497,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 35%",
+    "offset": "50% 20%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15481,7 +15527,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 32%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15505,7 +15551,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 32%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15759,7 +15805,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/WNFH/sv/sv_1_pioneer.png"
     ],
-    "offset": "50% 30%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/WNFH/sv/sv_1_tablet.png",
@@ -15781,7 +15827,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 19%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
@@ -15802,7 +15848,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 19%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/WNFH/sd/sd_1_glasses.png"
@@ -15829,7 +15875,7 @@
       "storage/graphics/sprites/mods/Additional/mona/mona_daily.png",
       "storage/graphics/sprites/mods/Additional/mona/mona_swim.png"
     ],
-    "offset": "50% 27%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15855,7 +15901,7 @@
       "storage/graphics/sprites/mods/Additional/mona/mona_daily.png",
       "storage/graphics/sprites/mods/Additional/mona/mona_swim.png"
     ],
-    "offset": "50% 27%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15876,7 +15922,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 24%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15897,7 +15943,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 24%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15919,7 +15965,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 24%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15941,7 +15987,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 24%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15963,7 +16009,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 27%",
+    "offset": "50% 29%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15985,7 +16031,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 27%",
+    "offset": "50% 29%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16007,7 +16053,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 27%",
+    "offset": "50% 29%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16029,7 +16075,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 27%",
+    "offset": "50% 29%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16049,7 +16095,7 @@
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_uniform.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_1_swim.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16070,7 +16116,7 @@
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_uniform.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_2_swim.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16090,7 +16136,7 @@
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_uniform.png",
       "storage/graphics/sprites/mods/Cozy_Summer/kar/kar_3_swim.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -16114,7 +16160,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16138,7 +16184,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16161,7 +16207,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16186,7 +16232,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16210,7 +16256,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16233,7 +16279,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16258,7 +16304,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16282,7 +16328,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16305,7 +16351,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16330,7 +16376,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_1_gloves.png"
@@ -16354,7 +16400,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_2_gloves.png"
@@ -16377,7 +16423,7 @@
     "clothes": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/25_years_after/ada/ad_3_gloves.png"
@@ -16407,7 +16453,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/1_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/1_swimsuit.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
     "storage/graphics/sprites/sprites_hitbox_1.png",
     "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16437,7 +16483,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/2_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/2_swimsuit.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16467,7 +16513,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/3_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/3_swimsuit.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16497,7 +16543,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/4_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/4_swimsuit.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16527,7 +16573,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/5_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/5_swimsuit.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16557,7 +16603,7 @@
       "storage/graphics/sprites/mods/Additional/Tai/6_sleep.png",
       "storage/graphics/sprites/mods/Additional/Tai/6_swimsuit.png"
     ],
-    "offset": "50% 26%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
@@ -16573,6 +16619,8 @@
       "storage/graphics/sprites/mods/Additional/Eva/eva_emo_flirty.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_emo_sad.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_emo_anger.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_irritated.png",
+      "storage/graphics/sprites/mods/Additional/Eva/eva_emo_irritated1.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_emo_fear.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_emo_surprise.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_emo_tired.png",
@@ -16585,10 +16633,66 @@
       "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_swim.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_clothes_office.png"
     ],
-    "offset": "50% 20%",
+    "offset": "50% 23%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Eva/eva_acc_flower.png"
+    ]
+  },
+  {
+    "name": "Чет",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/chet/ch_b_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_normal.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_smile.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_smug.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_smirk.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_think.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_sad.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_fear.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_shock.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_anger.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_determined.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/chet/ch_pio_1.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_hood_1.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_office_1.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_bath_1.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_swim_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Чет",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/chet/ch_b_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_normal.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_smile.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_smug.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_smirk.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_think.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_sad.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_fear.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_shock.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_anger.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_e_determined.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/chet/ch_pio_2.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_hood_2.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_office_2.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_bath_2.png",
+      "storage/graphics/sprites/mods/Additional/chet/ch_swim_2.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
