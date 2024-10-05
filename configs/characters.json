@@ -2306,7 +2306,7 @@
       "storage/graphics/sprites/pi/pi2/osd_pi_normal1_dark.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_white.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_hoody.png",
-      "storage/graphics/sprites/pi/pi1/osd_pi_underwear.png"
+      "storage/graphics/sprites/pi/pi2/osd_pi_underwear.png"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -10393,8 +10393,8 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_2.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_2.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1y_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1s_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1sp_2.png"
