@@ -2284,7 +2284,8 @@
       "storage/graphics/sprites/pi/pi1/pi_1_pioneer_mute.png",
       "storage/graphics/sprites/pi/pi1/pioner_new_normal_dark.png",
       "storage/graphics/sprites/pi/pi1/pi_pioneer_white.png",
-      "storage/graphics/sprites/pi/pi1/pi_1_hoody.png"
+      "storage/graphics/sprites/pi/pi1/pi_1_hoody.png",
+      "storage/graphics/sprites/pi/pi1/pi_1_underwear.png"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2304,7 +2305,8 @@
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_mute.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal1_dark.png",
       "storage/graphics/sprites/pi/pi2/osd_pi_normal_white.png",
-      "storage/graphics/sprites/pi/pi2/osd_pi_normal_hoody.png"
+      "storage/graphics/sprites/pi/pi2/osd_pi_normal_hoody.png",
+      "storage/graphics/sprites/pi/pi1/osd_pi_underwear.png"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2330,7 +2332,9 @@
       "storage/graphics/sprites/pi/sm/sm_2_pioneer.png",
       "storage/graphics/sprites/pi/sm/sm_2_shirt_dark.png",
       "NONE",
-      "storage/graphics/sprites/pi/sm/sm_2_hoody.png"
+      "storage/graphics/sprites/pi/sm/sm_2_hoody.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2349,7 +2353,9 @@
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_mute.png",
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_dark.png",
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_mute.png",
-      "storage/graphics/sprites/pi/pi3/osd_hall_pos1_hoody.png"
+      "storage/graphics/sprites/pi/pi3/osd_hall_pos1_hoody.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "35% 18%",
     "accessories": [
@@ -2371,7 +2377,9 @@
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_normal_mute.png",
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_normal_dark.png",
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_normal_mute.png",
-      "storage/graphics/sprites/pi/pi4/osd_hall_pos2_hoody.png"
+      "storage/graphics/sprites/pi/pi4/osd_hall_pos2_hoody.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2392,7 +2400,9 @@
       "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_mute.png",
       "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_dark.png",
       "storage/graphics/sprites/pi/pi5/pi5_white.png",
-      "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_hoody.png"
+      "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_hoody.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "65% 18%",
     "accessories": [
@@ -2415,7 +2425,9 @@
       "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_mute.png",
       "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_dark.png",
       "storage/graphics/sprites/pi/pi6/pi62_white.png",
-      "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_hoody.png"
+      "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_hoody.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2438,7 +2450,9 @@
       "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_mute.png",
       "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_dark.png",
       "storage/graphics/sprites/pi/pi6/pi6_white.png",
-      "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_hoody.png"
+      "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_hoody.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2457,7 +2471,9 @@
       "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_mute.png",
       "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_dark.png",
       "storage/graphics/sprites/pi/pi7/pi7_white.png",
-      "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_hoody.png"
+      "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_hoody.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -2572,6 +2588,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_1_pioneer.png",
+      "storage/graphics/sprites/sl/sl_1_pioneer2.png",
       "storage/graphics/sprites/sl/sl_1_sport.png",
       "storage/graphics/sprites/sl/sl_1_swim.png",
       "storage/graphics/sprites/sl/sl_1_swim2.png",
@@ -2606,6 +2623,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_1_pioneer.png",
+      "NONE",
       "storage/graphics/sprites/sl/sl_1_sport.png",
       "storage/graphics/sprites/sl/sl_1_swim.png",
       "storage/graphics/sprites/sl/sl_1_swim2.png",
@@ -2640,6 +2658,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_1_pioneer.png",
+      "NONE",
       "storage/graphics/sprites/sl/sl_1_sport.png",
       "storage/graphics/sprites/sl/sl_1_swim.png",
       "storage/graphics/sprites/sl/sl_1_swim2.png",
@@ -2674,6 +2693,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_2_pioneer.png",
+      "storage/graphics/sprites/sl/sl_2_pioneer2.png",
       "storage/graphics/sprites/sl/sl_2_sport.png",
       "storage/graphics/sprites/sl/sl_2_swim.png",
       "storage/graphics/sprites/sl/sl_2_swim2.png",
@@ -2707,6 +2727,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl2_2_pioneer.png",
+      "NONE",
       "storage/graphics/sprites/sl/sl2_2_sport.png",
       "storage/graphics/sprites/sl/sl2_2_swim.png",
       "NONE",
@@ -2750,6 +2771,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_3_pioneer.png",
+      "storage/graphics/sprites/sl/sl_3_pioneer2.png",
       "storage/graphics/sprites/sl/sl_3_sport.png",
       "storage/graphics/sprites/sl/sl_3_swim.png",
       "storage/graphics/sprites/sl/sl_3_swim2.png",
@@ -2794,6 +2816,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_3_pioneer.png",
+      "NONE",
       "storage/graphics/sprites/sl/sl_3_sport.png",
       "storage/graphics/sprites/sl/sl_3_swim.png",
       "NONE",
@@ -2838,6 +2861,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_3_pioneer.png",
+      "NONE",
       "storage/graphics/sprites/sl/sl_3_sport.png",
       "storage/graphics/sprites/sl/sl_3_swim.png",
       "storage/graphics/sprites/sl/sl_3_swim2.png",
@@ -2868,6 +2892,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl_4_pioneer.png",
+      "storage/graphics/sprites/sl/sl_4_pioneer2.png",
       "storage/graphics/sprites/sl/sl_4_sport.png",
       "storage/graphics/sprites/sl/sl_4_swim.png",
       "storage/graphics/sprites/sl/sl_4_swim2.png",
@@ -2898,6 +2923,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl2_4_pioneer.png",
+      "NONE",
       "storage/graphics/sprites/sl/sl2_4_sport.png",
       "storage/graphics/sprites/sl/sl2_4_swim.png",
       "NONE",
@@ -2927,6 +2953,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/sl/sl3_4_pioneer.png",
+      "NONE",
       "storage/graphics/sprites/sl/sl3_4_sport.png",
       "storage/graphics/sprites/sl/sl3_4_swim.png",
       "NONE",
@@ -2973,7 +3000,9 @@
       "storage/graphics/sprites/un/un_1_sleep.png",
       "storage/graphics/sprites/mods/Additional/un/un_1_casual.png",
       "storage/graphics/sprites/mods/Additional/un/un_1_modern.png",
-      "storage/graphics/sprites/un/un_1_swim.png"
+      "storage/graphics/sprites/un/un_1_swim.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_medieval.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_underwear.png"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -3013,7 +3042,9 @@
       "storage/graphics/sprites/un/un_2_sleep.png",
       "storage/graphics/sprites/mods/Additional/un/un_2_casual.png",
       "storage/graphics/sprites/mods/Additional/un/un_2_modern.png",
-      "storage/graphics/sprites/un/un_2_swim.png"
+      "storage/graphics/sprites/un/un_2_swim.png",
+      "storage/graphics/sprites/mods/Additional/un/un_2_medieval.png",
+      "NONE"
     ],
     "offset": "50% 29%",
     "accessories": [
@@ -3060,7 +3091,10 @@
       "storage/graphics/sprites/un/un_3_casual2.png",
       "storage/graphics/sprites/un/un_3_sleep.png",
       "storage/graphics/sprites/mods/Additional/un/un_3_casual.png",
-      "storage/graphics/sprites/mods/Additional/un/un_3_modern.png"
+      "storage/graphics/sprites/mods/Additional/un/un_3_modern.png",
+      "NONE",
+      "storage/graphics/sprites/mods/Additional/un/un_3_medieval.png",
+      "storage/graphics/sprites/mods/Additional/un/un_3_underwear.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -3102,7 +3136,9 @@
       "storage/graphics/sprites/un/un_1_sleep.png",
       "storage/graphics/sprites/mods/Additional/un/un_1_casual.png",
       "storage/graphics/sprites/mods/Additional/un/un_1_modern.png",
-      "storage/graphics/sprites/un/un_1_swim.png"
+      "storage/graphics/sprites/un/un_1_swim.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_medieval.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_underwear.png"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -3142,7 +3178,9 @@
       "storage/graphics/sprites/un/un_2_sleep.png",
       "storage/graphics/sprites/mods/Additional/un/un_2_casual.png",
       "storage/graphics/sprites/mods/Additional/un/un_2_modern.png",
-      "storage/graphics/sprites/un/un_2_swim.png"
+      "storage/graphics/sprites/un/un_2_swim.png",
+      "storage/graphics/sprites/mods/Additional/un/un_2_medieval.png",
+      "NONE"
     ],
     "offset": "50% 29%",
     "accessories": [
@@ -3189,7 +3227,146 @@
       "storage/graphics/sprites/un/un_3_casual2.png",
       "storage/graphics/sprites/un/un_3_sleep.png",
       "storage/graphics/sprites/mods/Additional/un/un_3_casual.png",
-      "storage/graphics/sprites/mods/Additional/un/un_3_modern.png"
+      "storage/graphics/sprites/mods/Additional/un/un_3_modern.png",
+      "NONE",
+      "storage/graphics/sprites/mods/Additional/un/un_3_medieval.png",
+      "storage/graphics/sprites/mods/Additional/un/un_3_underwear.png"
+    ],
+    "offset": "49% 29%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/un/un_3_apron.png"
+    ]
+  },
+  {
+    "name": "Лена",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Additional/un/un_1_body3.png",
+    "emotions": [
+      "storage/graphics/sprites/un/un_1_normal.png",
+      "storage/graphics/sprites/un/un_1_shy.png",
+      "storage/graphics/sprites/un/un_1_shy_smile.png",
+      "storage/graphics/sprites/un/un_1_smile.png",
+      "storage/graphics/sprites/un/un_1_smile2.png",
+      "storage/graphics/sprites/un/un_1_sorrow.png",
+      "storage/graphics/sprites/un/un_1_angry.png",
+      "storage/graphics/sprites/un/un_1_evil_smile.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/orika_alt/un/un_1_normal.png",
+      "storage/graphics/sprites/orika_alt/un/un_1_shy.png",
+      "storage/graphics/sprites/un/un_1_shy_smile.png",
+      "storage/graphics/sprites/orika_alt/un/un_1_smile.png",
+      "storage/graphics/sprites/orika_alt/un/un_1_smile2.png",
+      "storage/graphics/sprites/un/un_1_sorrow.png",
+      "storage/graphics/sprites/orika_alt/un/un_1_angry.png",
+      "storage/graphics/sprites/orika_alt/un/un_1_evil_smile.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/un/un_1_pioneer.png",
+      "storage/graphics/sprites/un/un_1_sport.png",
+      "storage/graphics/sprites/un/un_1_dress.png",
+      "storage/graphics/sprites/un/un_1_dress2.png",
+      "storage/graphics/sprites/un/un_1_casual.png",
+      "storage/graphics/sprites/un/un_1_casual2.png",
+      "storage/graphics/sprites/un/un_1_sleep.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_casual.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_modern.png",
+      "storage/graphics/sprites/un/un_1_swim.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_medieval.png",
+      "storage/graphics/sprites/mods/Additional/un/un_1_underwear.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/un/un_1_apron.png"
+    ]
+  },
+  {
+    "name": "Лена",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Additional/un/un_2_body3.png",
+    "emotions": [
+      "storage/graphics/sprites/un/un_2_surprise.png",
+      "storage/graphics/sprites/un/un_2_upset.png",
+      "storage/graphics/sprites/un/un_2_sad.png",
+      "storage/graphics/sprites/un/un_2_shocked.png",
+      "storage/graphics/sprites/un/un_2_scared.png",
+      "storage/graphics/sprites/un/un_2_cry.png",
+      "storage/graphics/sprites/un/un_2_cry_smile.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/un/un_2_surprise.png",
+      "storage/graphics/sprites/un/un_2_upset.png",
+      "storage/graphics/sprites/orika_alt/un/un_2_sad.png",
+      "storage/graphics/sprites/orika_alt/un/un_2_shocked.png",
+      "storage/graphics/sprites/orika_alt/un/un_2_scared.png",
+      "storage/graphics/sprites/orika_alt/un/un_2_cry.png",
+      "storage/graphics/sprites/orika_alt/un/un_2_cry_smile.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/un/un_2_pioneer.png",
+      "storage/graphics/sprites/un/un_2_sport.png",
+      "storage/graphics/sprites/un/un_2_dress.png",
+      "storage/graphics/sprites/un/un_2_dress2.png",
+      "storage/graphics/sprites/un/un_2_casual.png",
+      "storage/graphics/sprites/un/un_2_casual2.png",
+      "storage/graphics/sprites/un/un_2_sleep.png",
+      "storage/graphics/sprites/mods/Additional/un/un_2_casual.png",
+      "storage/graphics/sprites/mods/Additional/un/un_2_modern.png",
+      "storage/graphics/sprites/un/un_2_swim.png",
+      "storage/graphics/sprites/mods/Additional/un/un_2_medieval.png",
+      "NONE"
+    ],
+    "offset": "50% 29%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/un/un_2_apron.png"
+    ]
+  },
+  {
+    "name": "Лена",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Additional/un/un_3_body3.png",
+    "emotions": [
+      "storage/graphics/sprites/un/un_3_smile3.png",
+      "storage/graphics/sprites/un/un_3_grin.png",
+      "storage/graphics/sprites/un/un_3_intent.png",
+      "storage/graphics/sprites/un/un_3_surp_shy.png",
+      "storage/graphics/sprites/un/un_3_laugh.png",
+      "storage/graphics/sprites/un/un_3_oops.png",
+      "storage/graphics/sprites/un/un_3_oops_down.png",
+      "storage/graphics/sprites/un/un_3_serious.png",
+      "storage/graphics/sprites/un/un_3_serious_blink.png",
+      "storage/graphics/sprites/un/un_3_angry2.png",
+      "storage/graphics/sprites/un/un_3_rage.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/orika_alt/un/un_3_smile3.png",
+      "storage/graphics/sprites/orika_alt/un/un_3_grin.png",
+      "storage/graphics/sprites/un/un_3_intent.png",
+      "storage/graphics/sprites/un/un_3_surp_shy.png",
+      "storage/graphics/sprites/orika_alt/un/un_3_laugh.png",
+      "storage/graphics/sprites/un/un_3_oops.png",
+      "storage/graphics/sprites/un/un_3_oops_down.png",
+      "storage/graphics/sprites/orika_alt/un/un_3_serious.png",
+      "storage/graphics/sprites/un/un_3_serious_blink.png",
+      "storage/graphics/sprites/orika_alt/un/un_3_angry2.png",
+      "storage/graphics/sprites/orika_alt/un/un_3_rage.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/un/un_3_pioneer.png",
+      "storage/graphics/sprites/un/un_3_sport.png",
+      "storage/graphics/sprites/un/un_3_dress.png",
+      "storage/graphics/sprites/un/un_3_dress2.png",
+      "storage/graphics/sprites/un/un_3_casual.png",
+      "storage/graphics/sprites/un/un_3_casual2.png",
+      "storage/graphics/sprites/un/un_3_sleep.png",
+      "storage/graphics/sprites/mods/Additional/un/un_3_casual.png",
+      "storage/graphics/sprites/mods/Additional/un/un_3_modern.png",
+      "NONE",
+      "storage/graphics/sprites/mods/Additional/un/un_3_medieval.png",
+      "storage/graphics/sprites/mods/Additional/un/un_3_underwear.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -9644,7 +9821,8 @@
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt1.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono1.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit1.png",
-      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie1.png"
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie1.png",
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_sports1.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9702,7 +9880,8 @@
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt2.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono2.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit2.png",
-      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie2.png"
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie2.png",
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_sports2.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9760,7 +9939,8 @@
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt1.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono1.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit1.png",
-      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie1.png"
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie1.png",
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_sports1.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9818,7 +9998,8 @@
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_calt2.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_kimono2.png",
       "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_swimsuit2.png",
-      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie2.png"
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_hoodie2.png",
+      "storage/graphics/sprites/mods/Hiro/hiro_emo/hiro_pose_sports2.png"
     ],
     "offset": "50% 25%",
     "accessories": [
@@ -9875,7 +10056,8 @@
       "NONE",
       "NONE",
       "storage/graphics/sprites/mods/DDLC/mon/mk_1bl_2.png",
-      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_2.png"
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_2.png",
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1sp_2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -9932,7 +10114,8 @@
       "storage/graphics/sprites/mods/DDLC/mon/mk_1c_1.png",
       "storage/graphics/sprites/mods/DDLC/mon/mk_1h_1.png",
       "storage/graphics/sprites/mods/DDLC/mon/mk_1bl_1.png",
-      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_1.png"
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_1.png",
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1sp_1.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -9989,7 +10172,8 @@
       "NONE",
       "NONE",
       "storage/graphics/sprites/mods/DDLC/mon/mk_1bl_4.png",
-      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_4.png"
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_4.png",
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1sp_4.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10046,7 +10230,8 @@
       "storage/graphics/sprites/mods/DDLC/mon/mk_1c_3.png",
       "NONE",
       "storage/graphics/sprites/mods/DDLC/mon/mk_1bl_3.png",
-      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_3.png"
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1gdr_3.png",
+      "storage/graphics/sprites/mods/DDLC/mon/mk_1sp_3.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10079,7 +10264,8 @@
       "storage/graphics/sprites/mods/DDLC/mon/mk_2c.png",
       "NONE",
       "NONE",
-      "storage/graphics/sprites/mods/DDLC/mon/mk_2gdr.png"
+      "storage/graphics/sprites/mods/DDLC/mon/mk_2gdr.png",
+      "storage/graphics/sprites/mods/DDLC/mon/mk_2sp.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10142,8 +10328,10 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1y_1.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_1.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1sp_1.png"
     ],
     "offset": "50% 40%",
     "accessories": [
@@ -10205,9 +10393,11 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_2.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1y_2.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_2.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_2.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1sp_2.png"
     ],
     "offset": "50% 40%",
     "accessories": [
@@ -10270,8 +10460,10 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_3.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1y_3.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_3.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_3.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1sp_3.png"
     ],
     "offset": "50% 40%",
     "accessories": [
@@ -10334,8 +10526,10 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_4.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1y_4.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_4.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1s_4.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1sp_4.png"
     ],
     "offset": "50% 40%",
     "accessories": [
@@ -10398,8 +10592,10 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_2j.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2p.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2d.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2d2.png",
       "NONE",
-      "NONE"
+      "NONE",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2sp.png"
     ],
     "offset": "50% 40%",
     "accessories": [
@@ -10452,6 +10648,8 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAltLH_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1jLH_1.png",
+      "NONE",
+      "NONE",
       "NONE",
       "NONE",
       "NONE",
@@ -10511,6 +10709,8 @@
       "NONE",
       "NONE",
       "NONE",
+      "NONE",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 40%",
@@ -10564,6 +10764,8 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAltLH_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1jLH_3.png",
+      "NONE",
+      "NONE",
       "NONE",
       "NONE",
       "NONE",
@@ -10623,6 +10825,8 @@
       "NONE",
       "NONE",
       "NONE",
+      "NONE",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 40%",
@@ -10679,6 +10883,8 @@
       "NONE",
       "NONE",
       "NONE",
+      "NONE",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 40%",
@@ -10703,6 +10909,8 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_2pAltLH_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2jLH_2.png",
+      "NONE",
+      "NONE",
       "NONE",
       "NONE",
       "NONE",
@@ -10753,7 +10961,8 @@
       "storage/graphics/sprites/mods/DDLC/say/sy_1s_1.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1bl_1.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1h_1.png",
-      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_1.png"
+      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_1.png",
+      "storage/graphics/sprites/mods/DDLC/say/sy_1sp_1.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10800,7 +11009,8 @@
       "storage/graphics/sprites/mods/DDLC/say/sy_1s_2.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1bl_2.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1h_2.png",
-      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_2.png"
+      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_2.png",
+      "storage/graphics/sprites/mods/DDLC/say/sy_1sp_2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10847,7 +11057,8 @@
       "storage/graphics/sprites/mods/DDLC/say/sy_1s_3.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1bl_3.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1h_3.png",
-      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_3.png"
+      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_3.png",
+      "storage/graphics/sprites/mods/DDLC/say/sy_1sp_3.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10894,7 +11105,8 @@
       "storage/graphics/sprites/mods/DDLC/say/sy_1s_4.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1bl_4.png",
       "storage/graphics/sprites/mods/DDLC/say/sy_1h_4.png",
-      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_4.png"
+      "storage/graphics/sprites/mods/DDLC/say/sy_1wdr_4.png",
+      "storage/graphics/sprites/mods/DDLC/say/sy_1sp_4.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10919,7 +11131,8 @@
       "storage/graphics/sprites/mods/DDLC/say/sy_2s.png",
       "NONE",
       "NONE",
-      "storage/graphics/sprites/mods/DDLC/say/sy_2wdr.png"
+      "storage/graphics/sprites/mods/DDLC/say/sy_2wdr.png",
+      "storage/graphics/sprites/mods/DDLC/say/sy_2sp.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -10971,7 +11184,8 @@
       "storage/graphics/sprites/mods/DDLC/yur/yr_1b.png",
       "storage/graphics/sprites/mods/DDLC/yur/yr_1bl.png",
       "storage/graphics/sprites/mods/DDLC/yur/yr_1c.png",
-      "storage/graphics/sprites/mods/DDLC/yur/yr_1pj.png"
+      "storage/graphics/sprites/mods/DDLC/yur/yr_1pj.png",
+      "storage/graphics/sprites/mods/DDLC/yur/yr_1sp.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -11024,7 +11238,8 @@
       "storage/graphics/sprites/mods/DDLC/yur/yr_2b.png",
       "storage/graphics/sprites/mods/DDLC/yur/yr_2bl.png",
       "storage/graphics/sprites/mods/DDLC/yur/yr_2c.png",
-      "storage/graphics/sprites/mods/DDLC/yur/yr_2pj.png"
+      "storage/graphics/sprites/mods/DDLC/yur/yr_2pj.png",
+      "storage/graphics/sprites/mods/DDLC/yur/yr_2sp.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -11052,7 +11267,8 @@
       "NONE",
       "storage/graphics/sprites/mods/DDLC/yur/yr_3bl.png",
       "storage/graphics/sprites/mods/DDLC/yur/yr_3c.png",
-      "storage/graphics/sprites/mods/DDLC/yur/yr_3pj.png"
+      "storage/graphics/sprites/mods/DDLC/yur/yr_3pj.png",
+      "storage/graphics/sprites/mods/DDLC/yur/yr_3sp.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -11105,7 +11321,8 @@
       "storage/graphics/sprites/mods/DDLC/yur/yr_4b.png",
       "storage/graphics/sprites/mods/DDLC/yur/yr_4bl.png",
       "storage/graphics/sprites/mods/DDLC/yur/yr_4c.png",
-      "storage/graphics/sprites/mods/DDLC/yur/yr_4pj.png"
+      "storage/graphics/sprites/mods/DDLC/yur/yr_4pj.png",
+      "storage/graphics/sprites/mods/DDLC/yur/yr_4sp.png"
     ],
     "offset": "50% 35%",
     "accessories": [
