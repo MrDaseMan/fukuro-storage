@@ -99,7 +99,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
       "storage/graphics/sprites/dv/dv_3_dress.png",
       "storage/graphics/sprites/dv/dv_3_raincoat.png",
-      "storage/graphics/sprites/dv/dv_3_yukata.png"
+      "storage/graphics/sprites/dv/dv_3_yukata.png",
+      "storage/graphics/sprites/dv/dv_3_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -134,7 +135,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
       "storage/graphics/sprites/dv/dv_2_dress.png",
       "storage/graphics/sprites/dv/dv_2_raincoat.png",
-      "storage/graphics/sprites/dv/dv_2_yukata.png"
+      "storage/graphics/sprites/dv/dv_2_yukata.png",
+      "storage/graphics/sprites/dv/dv_2_sweater.png"
     ],
     "offset": "50% 29%",
     "accessories": [
@@ -179,7 +181,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
       "storage/graphics/sprites/dv/dv_1_dress.png",
       "storage/graphics/sprites/dv/dv_1_raincoat.png",
-      "storage/graphics/sprites/dv/dv_1_yukata.png"
+      "storage/graphics/sprites/dv/dv_1_yukata.png",
+      "storage/graphics/sprites/dv/dv_1_sweater.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -228,7 +231,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
       "storage/graphics/sprites/dv/dv_4_dress.png",
       "storage/graphics/sprites/dv/dv_4_raincoat.png",
-      "storage/graphics/sprites/dv/dv_4_yukata.png"
+      "storage/graphics/sprites/dv/dv_4_yukata.png",
+      "storage/graphics/sprites/dv/dv_4_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -265,7 +269,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
       "storage/graphics/sprites/dv/dv_5_dress.png",
       "storage/graphics/sprites/dv/dv_5_raincoat.png",
-      "storage/graphics/sprites/dv/dv_5_yukata.png"
+      "storage/graphics/sprites/dv/dv_5_yukata.png",
+      "storage/graphics/sprites/dv/dv_5_sweater.png"
     ],
     "offset": "51% 31%",
     "accessories": [
@@ -314,7 +319,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
       "storage/graphics/sprites/dv/dv_3_dress.png",
       "storage/graphics/sprites/dv/dv_3_raincoat.png",
-      "storage/graphics/sprites/dv/dv_3_yukata.png"
+      "storage/graphics/sprites/dv/dv_3_yukata.png",
+      "storage/graphics/sprites/dv/dv_3_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -349,7 +355,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
       "storage/graphics/sprites/dv/dv_2_dress.png",
       "storage/graphics/sprites/dv/dv_2_raincoat.png",
-      "storage/graphics/sprites/dv/dv_2_yukata.png"
+      "storage/graphics/sprites/dv/dv_2_yukata.png",
+      "storage/graphics/sprites/dv/dv_2_sweater.png"
     ],
     "offset": "50% 29%",
     "accessories": [
@@ -394,7 +401,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
       "storage/graphics/sprites/dv/dv_1_dress.png",
       "storage/graphics/sprites/dv/dv_1_raincoat.png",
-      "storage/graphics/sprites/dv/dv_1_yukata.png"
+      "storage/graphics/sprites/dv/dv_1_yukata.png",
+      "storage/graphics/sprites/dv/dv_1_sweater.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -443,7 +451,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
       "storage/graphics/sprites/dv/dv_4_dress.png",
       "storage/graphics/sprites/dv/dv_4_raincoat.png",
-      "storage/graphics/sprites/dv/dv_4_yukata.png"
+      "storage/graphics/sprites/dv/dv_4_yukata.png",
+      "storage/graphics/sprites/dv/dv_4_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -480,7 +489,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
       "storage/graphics/sprites/dv/dv_5_dress.png",
       "storage/graphics/sprites/dv/dv_5_raincoat.png",
-      "storage/graphics/sprites/dv/dv_5_yukata.png"
+      "storage/graphics/sprites/dv/dv_5_yukata.png",
+      "storage/graphics/sprites/dv/dv_5_sweater.png"
     ],
     "offset": "51% 31%",
     "accessories": [
@@ -519,7 +529,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
       "storage/graphics/sprites/dv/dv_3_dress.png",
       "storage/graphics/sprites/dv/dv_3_raincoat.png",
-      "storage/graphics/sprites/dv/dv_3_yukata.png"
+      "storage/graphics/sprites/dv/dv_3_yukata.png",
+      "storage/graphics/sprites/dv/dv_3_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -556,7 +567,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
       "storage/graphics/sprites/dv/dv_1_dress.png",
       "storage/graphics/sprites/dv/dv_1_raincoat.png",
-      "storage/graphics/sprites/dv/dv_1_yukata.png"
+      "storage/graphics/sprites/dv/dv_1_yukata.png",
+      "storage/graphics/sprites/dv/dv_1_sweater.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -595,7 +607,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
       "storage/graphics/sprites/dv/dv_4_dress.png",
       "storage/graphics/sprites/dv/dv_4_raincoat.png",
-      "storage/graphics/sprites/dv/dv_4_yukata.png"
+      "storage/graphics/sprites/dv/dv_4_yukata.png",
+      "storage/graphics/sprites/dv/dv_4_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -644,7 +657,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
       "storage/graphics/sprites/dv/dv_3_dress.png",
       "storage/graphics/sprites/dv/dv_3_raincoat.png",
-      "storage/graphics/sprites/dv/dv_3_yukata.png"
+      "storage/graphics/sprites/dv/dv_3_yukata.png",
+      "storage/graphics/sprites/dv/dv_3_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -679,7 +693,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
       "storage/graphics/sprites/dv/dv_2_dress.png",
       "storage/graphics/sprites/dv/dv_2_raincoat.png",
-      "storage/graphics/sprites/dv/dv_2_yukata.png"
+      "storage/graphics/sprites/dv/dv_2_yukata.png",
+      "storage/graphics/sprites/dv/dv_2_sweater.png"
     ],
     "offset": "50% 29%",
     "accessories": [
@@ -724,7 +739,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
       "storage/graphics/sprites/dv/dv_1_dress.png",
       "storage/graphics/sprites/dv/dv_1_raincoat.png",
-      "storage/graphics/sprites/dv/dv_1_yukata.png"
+      "storage/graphics/sprites/dv/dv_1_yukata.png",
+      "storage/graphics/sprites/dv/dv_1_sweater.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -773,7 +789,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
       "storage/graphics/sprites/dv/dv_4_dress.png",
       "storage/graphics/sprites/dv/dv_4_raincoat.png",
-      "storage/graphics/sprites/dv/dv_4_yukata.png"
+      "storage/graphics/sprites/dv/dv_4_yukata.png",
+      "storage/graphics/sprites/dv/dv_4_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -810,7 +827,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
       "storage/graphics/sprites/dv/dv_5_dress.png",
       "storage/graphics/sprites/dv/dv_5_raincoat.png",
-      "storage/graphics/sprites/dv/dv_5_yukata.png"
+      "storage/graphics/sprites/dv/dv_5_yukata.png",
+      "storage/graphics/sprites/dv/dv_5_sweater.png"
     ],
     "offset": "51% 31%",
     "accessories": [
@@ -859,7 +877,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
       "storage/graphics/sprites/dv/dv_3_dress.png",
       "storage/graphics/sprites/dv/dv_3_raincoat.png",
-      "storage/graphics/sprites/dv/dv_3_yukata.png"
+      "storage/graphics/sprites/dv/dv_3_yukata.png",
+      "storage/graphics/sprites/dv/dv_3_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -894,7 +913,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
       "storage/graphics/sprites/dv/dv_2_dress.png",
       "storage/graphics/sprites/dv/dv_2_raincoat.png",
-      "storage/graphics/sprites/dv/dv_2_yukata.png"
+      "storage/graphics/sprites/dv/dv_2_yukata.png",
+      "storage/graphics/sprites/dv/dv_2_sweater.png"
     ],
     "offset": "50% 29%",
     "accessories": [
@@ -939,7 +959,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
       "storage/graphics/sprites/dv/dv_1_dress.png",
       "storage/graphics/sprites/dv/dv_1_raincoat.png",
-      "storage/graphics/sprites/dv/dv_1_yukata.png"
+      "storage/graphics/sprites/dv/dv_1_yukata.png",
+      "storage/graphics/sprites/dv/dv_1_sweater.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -988,7 +1009,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
       "storage/graphics/sprites/dv/dv_4_dress.png",
       "storage/graphics/sprites/dv/dv_4_raincoat.png",
-      "storage/graphics/sprites/dv/dv_4_yukata.png"
+      "storage/graphics/sprites/dv/dv_4_yukata.png",
+      "storage/graphics/sprites/dv/dv_4_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -1025,7 +1047,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
       "storage/graphics/sprites/dv/dv_5_dress.png",
       "storage/graphics/sprites/dv/dv_5_raincoat.png",
-      "storage/graphics/sprites/dv/dv_5_yukata.png"
+      "storage/graphics/sprites/dv/dv_5_yukata.png",
+      "storage/graphics/sprites/dv/dv_5_sweater.png"
     ],
     "offset": "51% 31%",
     "accessories": [
@@ -1074,7 +1097,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
       "storage/graphics/sprites/dv/dv_3_dress.png",
       "storage/graphics/sprites/dv/dv_3_raincoat.png",
-      "storage/graphics/sprites/dv/dv_3_yukata.png"
+      "storage/graphics/sprites/dv/dv_3_yukata.png",
+      "storage/graphics/sprites/dv/dv_3_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -1109,7 +1133,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
       "storage/graphics/sprites/dv/dv_2_dress.png",
       "storage/graphics/sprites/dv/dv_2_raincoat.png",
-      "storage/graphics/sprites/dv/dv_2_yukata.png"
+      "storage/graphics/sprites/dv/dv_2_yukata.png",
+      "storage/graphics/sprites/dv/dv_2_sweater.png"
     ],
     "offset": "50% 29%",
     "accessories": [
@@ -1154,7 +1179,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
       "storage/graphics/sprites/dv/dv_1_dress.png",
       "storage/graphics/sprites/dv/dv_1_raincoat.png",
-      "storage/graphics/sprites/dv/dv_1_yukata.png"
+      "storage/graphics/sprites/dv/dv_1_yukata.png",
+      "storage/graphics/sprites/dv/dv_1_sweater.png"
     ],
     "offset": "49% 29%",
     "accessories": [
@@ -1203,7 +1229,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
       "storage/graphics/sprites/dv/dv_4_dress.png",
       "storage/graphics/sprites/dv/dv_4_raincoat.png",
-      "storage/graphics/sprites/dv/dv_4_yukata.png"
+      "storage/graphics/sprites/dv/dv_4_yukata.png",
+      "storage/graphics/sprites/dv/dv_4_sweater.png"
     ],
     "offset": "47% 29%",
     "accessories": [
@@ -1240,7 +1267,8 @@
       "storage/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
       "storage/graphics/sprites/dv/dv_5_dress.png",
       "storage/graphics/sprites/dv/dv_5_raincoat.png",
-      "storage/graphics/sprites/dv/dv_5_yukata.png"
+      "storage/graphics/sprites/dv/dv_5_yukata.png",
+      "storage/graphics/sprites/dv/dv_5_sweater.png"
     ],
     "offset": "51% 31%",
     "accessories": [
@@ -1330,7 +1358,8 @@
       "storage/graphics/sprites/el/el_1_shirt_dead.png",
       "storage/graphics/sprites/el/el_1_shirt_black.png",
       "storage/graphics/sprites/mods/Additional/el/el_1_nude.png",
-      "storage/graphics/sprites/el/el_1_uniform.png"
+      "storage/graphics/sprites/el/el_1_uniform.png",
+      "storage/graphics/sprites/el/el_1_sweater.png"
     ],
     "offset": "48% 16%",
     "accessories": [
@@ -1363,7 +1392,8 @@
       "storage/graphics/sprites/el/el_2_shirt_dead.png",
       "storage/graphics/sprites/el/el_2_shirt_black.png",
       "storage/graphics/sprites/mods/Additional/el/el_2_nude.png",
-      "storage/graphics/sprites/el/el_2_uniform.png"
+      "storage/graphics/sprites/el/el_2_uniform.png",
+      "storage/graphics/sprites/el/el_2_sweater.png"
     ],
     "offset": "51% 16%",
     "accessories": [
@@ -1390,7 +1420,8 @@
       "storage/graphics/sprites/el/el_3_shirt_dead.png",
       "storage/graphics/sprites/el/el_3_shirt_black.png",
       "storage/graphics/sprites/mods/Additional/el/el_3_nude.png",
-      "storage/graphics/sprites/el/el_3_uniform.png"
+      "storage/graphics/sprites/el/el_3_uniform.png",
+      "storage/graphics/sprites/el/el_3_sweater.png"
     ],
     "offset": "44% 16%",
     "accessories": [
@@ -1429,7 +1460,8 @@
       "storage/graphics/sprites/mi/mi_3_civil.png",
       "storage/graphics/sprites/mi/mi_3_raincoat.png",
       "storage/graphics/sprites/mi/mi_3_voca.png",
-      "storage/graphics/sprites/mi/mi_3_yukata.png"
+      "storage/graphics/sprites/mi/mi_3_yukata.png",
+      "storage/graphics/sprites/mi/mi_3_casual2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -1471,7 +1503,8 @@
       "storage/graphics/sprites/mi/mi_1_civil.png",
       "storage/graphics/sprites/mi/mi_1_raincoat.png",
       "storage/graphics/sprites/mi/mi_1_voca.png",
-      "storage/graphics/sprites/mi/mi_1_yukata.png"
+      "storage/graphics/sprites/mi/mi_1_yukata.png",
+      "storage/graphics/sprites/mi/mi_1_casual2.png"
     ],
     "offset": "52% 32%",
     "accessories": [
@@ -1511,7 +1544,8 @@
       "storage/graphics/sprites/mi/mi_2_civil.png",
       "storage/graphics/sprites/mi/mi_2_raincoat.png",
       "storage/graphics/sprites/mi/mi_2_voca.png",
-      "storage/graphics/sprites/mi/mi_2_yukata.png"
+      "storage/graphics/sprites/mi/mi_2_yukata.png",
+      "storage/graphics/sprites/mi/mi_2_casual2.png"
     ],
     "offset": "44% 35%",
     "accessories": [
@@ -1551,7 +1585,8 @@
       "storage/graphics/sprites/mi/mi_3_civil.png",
       "storage/graphics/sprites/mi/mi_3_raincoat.png",
       "storage/graphics/sprites/mi/mi_3_voca.png",
-      "storage/graphics/sprites/mi/mi_3_yukata.png"
+      "storage/graphics/sprites/mi/mi_3_yukata.png",
+      "storage/graphics/sprites/mi/mi_3_casual2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -1593,7 +1628,8 @@
       "storage/graphics/sprites/mi/mi_1_civil.png",
       "storage/graphics/sprites/mi/mi_1_raincoat.png",
       "storage/graphics/sprites/mi/mi_1_voca.png",
-      "storage/graphics/sprites/mi/mi_1_yukata.png"
+      "storage/graphics/sprites/mi/mi_1_yukata.png",
+      "storage/graphics/sprites/mi/mi_1_casual2.png"
     ],
     "offset": "52% 32%",
     "hair": [
@@ -1636,7 +1672,8 @@
       "storage/graphics/sprites/mi/mi_2_civil.png",
       "storage/graphics/sprites/mi/mi_2_raincoat.png",
       "storage/graphics/sprites/mi/mi_2_voca.png",
-      "storage/graphics/sprites/mi/mi_2_yukata.png"
+      "storage/graphics/sprites/mi/mi_2_yukata.png",
+      "storage/graphics/sprites/mi/mi_2_casual2.png"
     ],
     "offset": "44% 35%",
     "accessories": [
@@ -1676,7 +1713,8 @@
       "storage/graphics/sprites/mi/mi_3_civil.png",
       "storage/graphics/sprites/mi/mi_3_raincoat.png",
       "storage/graphics/sprites/mi/mi_3_voca.png",
-      "storage/graphics/sprites/mi/mi_3_yukata.png"
+      "storage/graphics/sprites/mi/mi_3_yukata.png",
+      "storage/graphics/sprites/mi/mi_3_casual2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -1718,7 +1756,8 @@
       "storage/graphics/sprites/mi/mi_1_civil.png",
       "storage/graphics/sprites/mi/mi_1_raincoat.png",
       "storage/graphics/sprites/mi/mi_1_voca.png",
-      "storage/graphics/sprites/mi/mi_1_yukata.png"
+      "storage/graphics/sprites/mi/mi_1_yukata.png",
+      "storage/graphics/sprites/mi/mi_1_casual2.png"
     ],
     "offset": "52% 32%",
     "accessories": [
@@ -1758,7 +1797,8 @@
       "storage/graphics/sprites/mi/mi_2_civil.png",
       "storage/graphics/sprites/mi/mi_2_raincoat.png",
       "storage/graphics/sprites/mi/mi_2_voca.png",
-      "storage/graphics/sprites/mi/mi_2_yukata.png"
+      "storage/graphics/sprites/mi/mi_2_yukata.png",
+      "storage/graphics/sprites/mi/mi_2_casual2.png"
     ],
     "offset": "44% 35%",
     "accessories": [
@@ -1798,7 +1838,8 @@
       "storage/graphics/sprites/mi/mi_3_civil.png",
       "storage/graphics/sprites/mi/mi_3_raincoat.png",
       "storage/graphics/sprites/mi/mi_3_voca.png",
-      "storage/graphics/sprites/mi/mi_3_yukata.png"
+      "storage/graphics/sprites/mi/mi_3_yukata.png",
+      "storage/graphics/sprites/mi/mi_3_casual2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -1840,7 +1881,8 @@
       "storage/graphics/sprites/mi/mi_1_civil.png",
       "storage/graphics/sprites/mi/mi_1_raincoat.png",
       "storage/graphics/sprites/mi/mi_1_voca.png",
-      "storage/graphics/sprites/mi/mi_1_yukata.png"
+      "storage/graphics/sprites/mi/mi_1_yukata.png",
+      "storage/graphics/sprites/mi/mi_1_casual2.png"
     ],
     "offset": "52% 32%",
     "accessories": [
@@ -1880,7 +1922,8 @@
       "storage/graphics/sprites/mi/mi_2_civil.png",
       "storage/graphics/sprites/mi/mi_2_raincoat.png",
       "storage/graphics/sprites/mi/mi_2_voca.png",
-      "storage/graphics/sprites/mi/mi_2_yukata.png"
+      "storage/graphics/sprites/mi/mi_2_yukata.png",
+      "storage/graphics/sprites/mi/mi_2_casual2.png"
     ],
     "offset": "44% 35%",
     "accessories": [
@@ -1920,7 +1963,8 @@
       "storage/graphics/sprites/mi/mi_3_civil.png",
       "storage/graphics/sprites/mi/mi_3_raincoat.png",
       "storage/graphics/sprites/mi/mi_3_voca.png",
-      "storage/graphics/sprites/mi/mi_3_yukata.png"
+      "storage/graphics/sprites/mi/mi_3_yukata.png",
+      "storage/graphics/sprites/mi/mi_3_casual2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -1961,7 +2005,8 @@
       "storage/graphics/sprites/mi/mi_1_civil.png",
       "storage/graphics/sprites/mi/mi_1_raincoat.png",
       "storage/graphics/sprites/mi/mi_1_voca.png",
-      "storage/graphics/sprites/mi/mi_1_yukata.png"
+      "storage/graphics/sprites/mi/mi_1_yukata.png",
+      "storage/graphics/sprites/mi/mi_1_casual2.png"
     ],
     "offset": "52% 32%",
     "accessories": [
@@ -2000,7 +2045,8 @@
       "storage/graphics/sprites/mi/mi_2_civil.png",
       "storage/graphics/sprites/mi/mi_2_raincoat.png",
       "storage/graphics/sprites/mi/mi_2_voca.png",
-      "storage/graphics/sprites/mi/mi_2_yukata.png"
+      "storage/graphics/sprites/mi/mi_2_yukata.png",
+      "storage/graphics/sprites/mi/mi_2_casual2.png"
     ],
     "offset": "44% 35%",
     "accessories": [
@@ -2041,7 +2087,8 @@
       "storage/graphics/sprites/mi/mi_1_civil.png",
       "storage/graphics/sprites/mi/mi_1_raincoat.png",
       "storage/graphics/sprites/mi/mi_1_voca.png",
-      "storage/graphics/sprites/mi/mi_1_yukata.png"
+      "storage/graphics/sprites/mi/mi_1_yukata.png",
+      "storage/graphics/sprites/mi/mi_1_casual2.png"
     ],
     "offset": "52% 32%",
     "accessories": [
@@ -2081,7 +2128,8 @@
       "storage/graphics/sprites/mi/mi_2_civil.png",
       "storage/graphics/sprites/mi/mi_2_raincoat.png",
       "storage/graphics/sprites/mi/mi_2_voca.png",
-      "storage/graphics/sprites/mi/mi_2_yukata.png"
+      "storage/graphics/sprites/mi/mi_2_yukata.png",
+      "storage/graphics/sprites/mi/mi_2_casual2.png"
     ],
     "offset": "44% 35%",
     "accessories": [
@@ -2121,7 +2169,8 @@
       "storage/graphics/sprites/mi/mi_3_civil.png",
       "storage/graphics/sprites/mi/mi_3_raincoat.png",
       "storage/graphics/sprites/mi/mi_3_voca.png",
-      "storage/graphics/sprites/mi/mi_3_yukata.png"
+      "storage/graphics/sprites/mi/mi_3_yukata.png",
+      "storage/graphics/sprites/mi/mi_3_casual2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -2161,7 +2210,8 @@
       "storage/graphics/sprites/mi/mi_3_civil.png",
       "storage/graphics/sprites/mi/mi_3_raincoat.png",
       "storage/graphics/sprites/mi/mi_3_voca.png",
-      "storage/graphics/sprites/mi/mi_3_yukata.png"
+      "storage/graphics/sprites/mi/mi_3_yukata.png",
+      "storage/graphics/sprites/mi/mi_3_casual2.png"
     ],
     "offset": "50% 35%",
     "accessories": [
@@ -2203,7 +2253,8 @@
       "storage/graphics/sprites/mi/mi_1_civil.png",
       "storage/graphics/sprites/mi/mi_1_raincoat.png",
       "storage/graphics/sprites/mi/mi_1_voca.png",
-      "storage/graphics/sprites/mi/mi_1_yukata.png"
+      "storage/graphics/sprites/mi/mi_1_yukata.png",
+      "storage/graphics/sprites/mi/mi_1_casual2.png"
     ],
     "offset": "52% 32%",
     "accessories": [
@@ -2243,7 +2294,8 @@
       "storage/graphics/sprites/mi/mi_2_civil.png",
       "storage/graphics/sprites/mi/mi_2_raincoat.png",
       "storage/graphics/sprites/mi/mi_2_voca.png",
-      "storage/graphics/sprites/mi/mi_2_yukata.png"
+      "storage/graphics/sprites/mi/mi_2_yukata.png",
+      "storage/graphics/sprites/mi/mi_2_casual2.png"
     ],
     "offset": "44% 35%",
     "accessories": [
@@ -2549,7 +2601,6 @@
       "storage/graphics/sprites/pi/sm/sm_2_shirt_dark.png",
       "NONE",
       "storage/graphics/sprites/pi/sm/sm_2_hoody.png",
-      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2570,7 +2621,6 @@
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_dark.png",
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_devil_smile_mute.png",
       "storage/graphics/sprites/pi/pi3/osd_hall_pos1_hoody.png",
-      "NONE",
       "NONE"
     ],
     "offset": "35% 18%",
@@ -2594,7 +2644,6 @@
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_normal_dark.png",
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_normal_mute.png",
       "storage/graphics/sprites/pi/pi4/osd_hall_pos2_hoody.png",
-      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2617,7 +2666,6 @@
       "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_dark.png",
       "storage/graphics/sprites/pi/pi5/pi5_white.png",
       "storage/graphics/sprites/pi/pi5/osd_nit_bulging2_l_hoody.png",
-      "NONE",
       "NONE"
     ],
     "offset": "65% 18%",
@@ -2642,7 +2690,6 @@
       "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_dark.png",
       "storage/graphics/sprites/pi/pi6/pi62_white.png",
       "storage/graphics/sprites/pi/pi6/osd_nit_bulging3_r_hoody.png",
-      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2667,7 +2714,6 @@
       "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_dark.png",
       "storage/graphics/sprites/pi/pi6/pi6_white.png",
       "storage/graphics/sprites/pi/pi6/osd_nit_normal_r_hoody.png",
-      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2688,7 +2734,6 @@
       "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_dark.png",
       "storage/graphics/sprites/pi/pi7/pi7_white.png",
       "storage/graphics/sprites/pi/pi7/osd_nit_normal_l_hoody.png",
-      "NONE",
       "NONE"
     ],
     "offset": "50% 18%",
@@ -2749,7 +2794,8 @@
       "storage/graphics/sprites/sh/sh_2_shirt.png",
       "storage/graphics/sprites/sh/sh_2_uniform.png",
       "storage/graphics/sprites/sh/sh_2_bathrobe.png",
-      "storage/graphics/sprites/sh/sh_2_towel.png"
+      "storage/graphics/sprites/sh/sh_2_towel.png",
+      "NONE"
     ],
     "offset": "48% 16%",
     "accessories": [
@@ -2775,6 +2821,7 @@
       "storage/graphics/sprites/sh/sh_3_shirt.png",
       "storage/graphics/sprites/sh/sh_3_uniform.png",
       "storage/graphics/sprites/sh/sh_3_bathrobe.png",
+      "NONE",
       "storage/graphics/sprites/mods/Shadow_inside/sh_3_cook.png"
     ],
     "offset": "50% 18%",
@@ -4058,7 +4105,8 @@
       "storage/graphics/sprites/uv/uv_1_casual.png",
       "storage/graphics/sprites/mods/Tale_runner/uvao_px/kf_2.png",
       "storage/graphics/sprites/mods/Tale_runner/uvao_px/nch_2.png",
-      "storage/graphics/sprites/mods/Tale_runner/uvao_px/kup_2.png"
+      "storage/graphics/sprites/mods/Tale_runner/uvao_px/kup_2.png",
+      "storage/graphics/sprites/uv/uv_1_casual2.png"
     ],
     "offset": "52% 46%",
     "accessories": [
@@ -4081,7 +4129,9 @@
       "storage/graphics/sprites/uv/uv_2_sport.png",
       "storage/graphics/sprites/uv/uv_2_casual.png",
       "storage/graphics/sprites/mods/Tale_runner/uvao_px/kf_4.png",
-      "storage/graphics/sprites/mods/Tale_runner/uvao_px/nch_4.png"
+      "storage/graphics/sprites/mods/Tale_runner/uvao_px/nch_4.png",
+      "NONE",
+      "storage/graphics/sprites/uv/uv_2_casual2.png"
     ],
     "offset": "52% 46%",
     "accessories": [
@@ -4106,7 +4156,8 @@
       "storage/graphics/sprites/uv/uv_3_casual.png",
       "storage/graphics/sprites/mods/Tale_runner/uvao_px/kf_1.png",
       "storage/graphics/sprites/mods/Tale_runner/uvao_px/nch_1.png",
-      "storage/graphics/sprites/mods/Tale_runner/uvao_px/kup_1.png"
+      "storage/graphics/sprites/mods/Tale_runner/uvao_px/kup_1.png",
+      "storage/graphics/sprites/uv/uv_3_casual2.png"
     ],
     "offset": "52% 46%",
     "accessories": [
@@ -4132,7 +4183,9 @@
       "storage/graphics/sprites/uv/uv_4_sport.png",
       "storage/graphics/sprites/uv/uv_4_casual.png",
       "storage/graphics/sprites/mods/Tale_runner/uvao_px/kf_3.png",
-      "storage/graphics/sprites/mods/Tale_runner/uvao_px/nch_3.png"
+      "storage/graphics/sprites/mods/Tale_runner/uvao_px/nch_3.png",
+      "NONE",
+      "storage/graphics/sprites/uv/uv_4_casual2.png"
     ],
     "offset": "52% 46%",
     "accessories": [
@@ -4843,6 +4896,83 @@
       "storage/graphics/sprites/mods/Samantha/owl/3_owl_dress.png",
       "storage/graphics/sprites/mods/Samantha/owl/3_owl_sport.png",
       "storage/graphics/sprites/mods/Samantha/owl/3_owl_swim.png"
+    ],
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_3.png"
+    ]
+  },
+  {
+    "name": "Сова",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/owl/owl_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Samantha/owl/1_laugh.png",
+      "storage/graphics/sprites/mods/Samantha/owl/1_scared.png",
+      "storage/graphics/sprites/mods/Samantha/owl/1_surprise.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_1_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_1_shirt.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_1_dress.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_1_blazer.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_1_swim.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_1_bra.png",
+      "NONE"
+    ],
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Сова",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/owl/owl_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Samantha/owl/2_guilty.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_cry.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_cry_2.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_guilty_2.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_rage.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_rage_2.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_sad.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_sad_2.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_shy.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_shy_2.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_upset.png",
+      "storage/graphics/sprites/mods/Samantha/owl/2_upset_2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_2_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_2_shirt.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_2_dress.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_2_blazer.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_2_swim.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_2_bra.png",
+      "NONE"
+    ],
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_2.png"
+    ]
+  },
+  {
+    "name": "Сова",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/owl/owl_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Samantha/owl/3_normal.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_smile.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_tender.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_unsure.png",
+      "storage/graphics/sprites/mods/Samantha/owl/3_widesmile.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_3_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_3_shirt.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_3_dress.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_3_blazer.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_3_swim.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_3_bra.png",
+      "storage/graphics/sprites/mods/Additional/owl/clothes/owl_3_winter.png"
     ],
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_3.png"
@@ -5770,7 +5900,9 @@
       "storage/graphics/sprites/mods/BKRR/nt/old/nt_1_smile.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 18%",
     "accessories": [
@@ -5780,7 +5912,7 @@
   {
     "name": "Наталья",
     "modification": "Булки, кефир и рок-н-ролл",
-    "file": "storage/graphics/sprites/mods/BKRR/nt/nt_1_cook.png",
+    "file": "storage/graphics/sprites/mods/BKRR/nt/nt_1_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/BKRR/nt/nt_1_normal.png",
       "storage/graphics/sprites/mods/BKRR/nt/nt_1_laugh.png",
@@ -5788,6 +5920,8 @@
       "storage/graphics/sprites/mods/BKRR/nt/nt_1_smile.png"
     ],
     "clothes": [
+      "storage/graphics/sprites/mods/BKRR/nt/nt_1_kitchen.png",
+      "storage/graphics/sprites/mods/BKRR/nt/nt_1_sweater.png",
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ],
     "offset": "50% 18%",
@@ -6520,7 +6654,8 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dark.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dark.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_hoody.png"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6550,7 +6685,8 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata.png",
-      "NONE"
+      "NONE",
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_hoody.png"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6605,7 +6741,8 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata.png",
-      "NONE"
+      "NONE",
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_hoody.png"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6652,7 +6789,9 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6681,7 +6820,9 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_kare.png"
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_kare.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6735,7 +6876,9 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_kare.png"
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_kare.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6782,7 +6925,9 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6811,7 +6956,9 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_tail.png"
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_tail.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -6865,7 +7012,9 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_tail.png"
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_tail.png",
+      "NONE",
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
@@ -7598,7 +7747,9 @@
       "storage/graphics/sprites/mods/BLPI/ti/1/emo/ti_1_serious.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/BLPI/ti/1/clothes/ti_1_pioneer.png"
+      "storage/graphics/sprites/mods/BLPI/ti/1/clothes/ti_1_pioneer.png",
+      "storage/graphics/sprites/mods/BLPI/ti/1/clothes/ti_1_hoody.png",
+      "storage/graphics/sprites/mods/BLPI/ti/1/clothes/ti_1_shirt.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -9295,7 +9446,8 @@
     ],
     "clothes": [
       "storage/graphics/sprites/mods/TR/ya/ya_1_pioneer.png",
-      "storage/graphics/sprites/mods/TR/ya/ya_1_dress.png"
+      "storage/graphics/sprites/mods/TR/ya/ya_1_dress.png",
+      "storage/graphics/sprites/mods/TR/ya/ya_1_swim.png"
     ],
     "offset": "50% 12%",
     "accessories": [
@@ -9313,7 +9465,8 @@
     ],
     "clothes": [
       "storage/graphics/sprites/mods/TR/ya/ya_2_pioneer.png",
-      "storage/graphics/sprites/mods/TR/ya/ya_2_dress.png"
+      "storage/graphics/sprites/mods/TR/ya/ya_2_dress.png",
+      "storage/graphics/sprites/mods/TR/ya/ya_2_swim.png"
     ],
     "offset": "50% 12%",
     "accessories": [
@@ -13438,7 +13591,8 @@
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_pio.png",
       "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_cloth.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_underwear.png"
+      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_underwear.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_sweater.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13474,7 +13628,8 @@
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_pio.png",
       "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_cloth.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_underwear.png"
+      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_underwear.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_sweater.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13512,7 +13667,8 @@
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_pio.png",
       "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_cloth.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_underwear.png"
+      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_underwear.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_sweater.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -14875,7 +15031,8 @@
       "storage/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_tshirt.png",
       "storage/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_dress.png",
       "storage/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_haori.png",
-      "storage/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_swimsuit.png"
+      "storage/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_swimsuit.png",
+      "storage/graphics/sprites/mods/Additional/Ari/Clothes/ari_1_sweater.png"
     ],
     "offset": "50% 38%",
     "accessories": [
