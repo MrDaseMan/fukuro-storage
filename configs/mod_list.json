@@ -406,5 +406,13 @@
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=958795666",
     "alt": "false",
     "enabled": "true"
+  },
+  {
+    "name": "Над Чистым Небом Ласточки Летают",
+    "icon": "SFATCL.jpg",
+    "vk": "https://vk.com/rocketjumpteam",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=3597042310",
+    "alt": "false",
+    "enabled": "true"
   }
 ]
