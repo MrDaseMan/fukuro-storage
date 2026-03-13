@@ -10569,6 +10569,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1coat_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_1.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_1.png",
@@ -10628,6 +10629,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_2.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1coat_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_2.png",
@@ -10687,6 +10689,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_3.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1coat_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_3.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_3.png",
@@ -10746,6 +10749,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1j_4.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1coat_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1p_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1d2_4.png",
@@ -10805,6 +10809,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_2pAlt.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2j.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2coat.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2p.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2d.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2d2.png",
@@ -10835,6 +10840,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_2pAlt.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2j.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2coat.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2p.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2d.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2d2.png",
@@ -10899,6 +10905,7 @@
       "NONE",
       "NONE",
       "NONE",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 40%",
@@ -10953,6 +10960,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAltLH_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1jLH_2.png",
+      "NONE",
       "NONE",
       "NONE",
       "NONE",
@@ -11017,6 +11025,7 @@
       "NONE",
       "NONE",
       "NONE",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 40%",
@@ -11071,6 +11080,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAltLH_4.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1jLH_4.png",
+      "NONE",
       "NONE",
       "NONE",
       "NONE",
@@ -11135,6 +11145,7 @@
       "NONE",
       "NONE",
       "NONE",
+      "NONE",
       "NONE"
     ],
     "offset": "50% 40%",
@@ -11160,6 +11171,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_2pAltLH_2.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2jLH_2.png",
+      "NONE",
       "NONE",
       "NONE",
       "NONE",
