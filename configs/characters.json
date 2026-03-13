@@ -12229,33 +12229,27 @@
     "file": "storage/graphics/sprites/mods/Additional/kater/body/kater_1_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_neutral.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_neutralside.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_smile.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_smileside.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_satisfied.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_surprised.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_frown.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_frownsmile.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_sly.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_displeased.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_upset.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_angry.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_cry.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_begging.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_scared.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_frightened.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_closedeyes.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_enamored.png"
+      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_1_closedeyes.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_official.png",
       "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_dress.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_casual.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_autumn.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_bss.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_rb.png"
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_whitedress.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_tshirt.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_coat.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_pajamas.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_1_bikini.png"
     ],
-    "offset": "48% 16%",
+    "offset": "50% 40%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -12266,33 +12260,27 @@
     "file": "storage/graphics/sprites/mods/Additional/kater/body/kater_2_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_neutral.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_neutralside.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_smile.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_smileside.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_satisfied.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_surprised.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_frown.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_frownsmile.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_sly.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_displeased.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_upset.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_angry.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_cry.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_begging.png",
       "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_scared.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_frightened.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_closedeyes.png",
-      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_enamored.png"
+      "storage/graphics/sprites/mods/Additional/kater/emotions/kater_2_closedeyes.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_official.png",
       "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_dress.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_casual.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_autumn.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_bss.png",
-      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_rb.png"
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_whitedress.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_tshirt.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_coat.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_pajamas.png",
+      "storage/graphics/sprites/mods/Additional/kater/clothes/kater_2_bikini.png"
     ],
-    "offset": "51% 16%",
+    "offset": "50% 40%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
