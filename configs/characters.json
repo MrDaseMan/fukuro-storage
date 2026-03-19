@@ -13520,20 +13520,20 @@
     ]
   },
   {
-    "name": "EoS al",
-    "modification": "Элемент системы",
+    "name": "Алекс EoS",
+    "modification": "Элемент Cистемы",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Element_of_System/al_1_normal.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_cry.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_laugh.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_rage.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_sad.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_smile.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_surp.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_laugh.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_rage.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_sad.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_smile.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_surp.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/Element_of_System/al_1_body.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_body.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13541,20 +13541,20 @@
     ]
   },
   {
-    "name": "EoS al",
+    "name": "Алекс EoS",
     "modification": "Элемент системы",
     "file": "storage/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Element_of_System/al_2_normal.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_cry.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_laugh.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_rage.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_sad.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_smile.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_surp.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_laugh.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_rage.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_sad.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_smile.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_surp.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/Element_of_System/al_2_body.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_body.png"
     ],
     "offset": "50% 23%",
     "accessories": [
