@@ -13521,7 +13521,7 @@
   },
   {
     "name": "Алекс EoS",
-    "modification": "Элемент Cистемы",
+    "modification": "Элемент системы",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
       "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_normal.png",
@@ -13563,7 +13563,7 @@
   },
   {
     "name": "Ульяна EoS",
-    "modification": "Элемент Cистемы",
+    "modification": "Элемент системы",
     "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_1_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
@@ -13606,7 +13606,7 @@
   },
   {
     "name": "Ульяна EoS",
-    "modification": "Элемент Cистемы",
+    "modification": "Элемент системы",
     "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_2_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
@@ -13649,7 +13649,7 @@
   },
   {
     "name": "Ульяна EoS",
-    "modification": "Элемент Cистемы",
+    "modification": "Элемент системы",
     "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_3_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_abashment.png",
@@ -20612,7 +20612,7 @@
   },
   {
     "name": "wt_Ульяна EoS",
-    "modification": "Элемент Cистемы",
+    "modification": "Элемент системы",
     "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_1_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
@@ -20651,7 +20651,7 @@
   },
   {
     "name": "wt_Ульяна EoS",
-    "modification": "Элемент Cистемы",
+    "modification": "Элемент системы",
     "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_2_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
@@ -20690,7 +20690,7 @@
   },
   {
     "name": "wt_Ульяна EoS",
-    "modification": "Элемент Cистемы",
+    "modification": "Элемент системы",
     "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_3_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_abashment.png",
