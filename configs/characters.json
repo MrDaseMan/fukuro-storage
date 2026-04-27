@@ -12553,6 +12553,162 @@
     ]
   },
   {
+    "name": "Кайл",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/kyle/body/kyle_1_black.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_echid.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_empty.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_think.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_coat.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_shirt.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_swim.png"
+    ],
+    "offset": "48% 10%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_glasses.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_gloves.png"
+    ]
+  },
+  {
+    "name": "Кайл",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/kyle/body/kyle_1_red.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_echid.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_empty.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_think.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_coat.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_shirt.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_1_swim.png"
+    ],
+    "offset": "48% 10%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_glasses.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_gloves.png"
+    ]
+  },
+  {
+    "name": "Кайл",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/kyle/body/kyle_2_black.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_echid.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_empty.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_think.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_coat.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_shirt.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_swim.png"
+    ],
+    "offset": "48% 10%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_glasses.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_2_gloves.png"
+    ]
+  },
+  {
+    "name": "Кайл",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/kyle/body/kyle_2_red.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_echid.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_empty.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_think.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_coat.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_shirt.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_2_swim.png"
+    ],
+    "offset": "48% 10%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_glasses.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_2_gloves.png"
+    ]
+  },
+  {
+    "name": "Кайл",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/kyle/body/kyle_3_black.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_echid.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_empty.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_think.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_pio.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_coat.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_shirt.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_swim.png"
+    ],
+    "offset": "48% 10%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_glasses.png",
+      "storage/graphics/sprites/sprites_hitbox_2.png"
+    ]
+  },
+  {
+    "name": "Кайл",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/kyle/body/kyle_3_red.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_echid.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_empty.png",
+      "storage/graphics/sprites/mods/Additional/kyle/emo/kyle_1_think.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_pio.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_coat.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_shirt.png",
+      "storage/graphics/sprites/mods/Additional/kyle/clothes/kyle_3_swim.png"
+    ],
+    "offset": "48% 10%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/kyle/acc/kyle_1_glasses.png",
+      "storage/graphics/sprites/sprites_hitbox_2.png"
+    ]
+  },
+  {
     "name": "Гопник",
     "modification": "Быдло в Совёнке",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
