@@ -18366,6 +18366,354 @@
     ]
   },
   {
+    "name": "Эвелина",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Evelyn/evel_body_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_neutral.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_smile.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_happy.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_sad.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_think.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_angry.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_surprised.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_embar.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_pio_1.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_dress_1.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_hoodie_1.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_coat_1.png",
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Эвелина",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Evelyn/evel_body_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_neutral.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_smile.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_happy.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_sad.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_think.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_angry.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_surprised.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_embar.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_pio_2.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_dress_2.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_hoodie_2.png",
+      "storage/graphics/sprites/mods/Additional/Evelyn/evel_coat_2.png",
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Тето",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Teto/pos_1/pose/teto_1_base.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_kovarnoe.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_happy.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_confusion.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_evilgrin.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_resentment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_thought.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_disappointment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_evil.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_panicsmile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_rage.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_tears.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_embarrassment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_embarrassment_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/emo/teto_1_empty.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/clothes/teto_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/clothes/teto_1_vocaloid.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/clothes/teto_1_parade.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/clothes/teto_1_suit.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/clothes/teto_1_swimsuit.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/acc/teto_1_kanji.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/acc/teto_1_lenta.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/acc/teto_1_acc.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_1/acc/teto_1_hat.png"
+    ]
+  },
+  {
+    "name": "Тето",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Teto/pos_2/pose/teto_2_base.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_normal.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_smile2.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_kovarnoe.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_happy.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_sad.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_confusion.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_evilgrin.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_resentment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_thought.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_disappointment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_evil.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_disgust.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_panicsmile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_shock.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_panic.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_rage.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_tears.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_embarrassment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_embarrassment_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/emo/teto_2_empty.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/clothes/teto_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/clothes/teto_2_vocaloid.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/clothes/teto_2_parade.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/clothes/teto_2_suit.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/clothes/teto_2_swimsuit.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/acc/teto_2_kanji.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/acc/teto_2_lenta.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/acc/teto_2_acc.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_2/acc/teto_2_hat.png"
+    ]
+  },
+  {
+    "name": "Тето",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Teto/pos_3/pose/teto_3_base.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_normal.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_smile2.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_kovarnoe.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_happy.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_sad.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_confusion.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_evilgrin.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_resentment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_thought.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_disappointment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_evil.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_disgust.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_panicsmile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_shock.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_panic.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_rage.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_tears.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_embarrassment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_embarrassment_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/emo/teto_3_empty.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/clothes/teto_3_pio.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/clothes/teto_3_vocaloid.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/clothes/teto_3_parade.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/clothes/teto_3_suit.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/clothes/teto_3_swimsuit.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_kanji.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_lenta.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_acc.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_hat.png"
+    ]
+  },
+  {
+    "name": "Тето",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Teto/pos_4/pose/teto_4_base.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_normal.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_smile2.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_kovarnoe.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_happy.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_sad.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_confusion.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_evilgrin.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_resentment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_thought.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_disappointment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_evil.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_disgust.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_panicsmile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_shock.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_panic.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_rage.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_tears.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_embarrassment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_embarrassment_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/emo/teto_4_empty.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/clothes/teto_4_pio.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/clothes/teto_4_vocaloid.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/clothes/teto_4_parade.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/clothes/teto_4_suit.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/clothes/teto_4_swimsuit.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/acc/teto_4_kanji.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/acc/teto_4_lenta.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/acc/teto_4_acc.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_4/acc/teto_4_hat.png"
+    ]
+  },
+  {
+    "name": "Тето",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Teto/pos_5/pose/teto_5_base.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_normal.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_smile2.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_kovarnoe.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_happy.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_sad.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_confusion.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_evilgrin.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_resentment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_thought.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_disappointment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_evil.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_disgust.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_panicsmile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_shock.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_panic.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_rage.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_tears.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_embarrassment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_embarrassment_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/emo/teto_5_empty.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/clothes/teto_5_pio.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/clothes/teto_5_vocaloid.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/clothes/teto_5_parade.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/clothes/teto_5_suit.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/clothes/teto_5_swimsuit.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/acc/teto_5_kanji.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/acc/teto_5_lenta.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/acc/teto_5_acc.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_5/acc/teto_5_hat.png"
+    ]
+  },
+  {
+    "name": "Тето",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Teto/pos_6/pose/teto_6_base.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_normal.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_smile2.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_kovarnoe.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_happy.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_sad.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_confusion.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_evilgrin.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_resentment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_thought.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_disappointment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_evil.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_disgust.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_panicsmile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_shock.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_panic.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_rage.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_tears.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_embarrassment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_embarrassment_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/emo/teto_6_empty.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/clothes/teto_6_pio.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/clothes/teto_6_vocaloid.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/clothes/teto_6_parade.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/clothes/teto_6_suit.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/clothes/teto_6_swimsuit.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/acc/teto_6_kanji.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/acc/teto_6_lenta.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/acc/teto_6_acc.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_6/acc/teto_6_hat.png"
+    ]
+  },
+  {
+    "name": "Тето",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Teto/pos_7/pose/teto_7_base.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_normal.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_smile2.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_kovarnoe.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_happy.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_sad.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_confusion.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_evilgrin.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_resentment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_thought.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_disappointment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_evil.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_disgust.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_panicsmile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_shock.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_panic.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_rage.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_tears.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_embarrassment.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_embarrassment_smile.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/emo/teto_7_empty.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/clothes/teto_7_pio.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/clothes/teto_7_vocaloid.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/clothes/teto_7_parade.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/clothes/teto_7_suit.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/clothes/teto_7_swimsuit.png"
+    ],
+    "offset": "50% 25%",
+    "accessories": [
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/acc/teto_7_kanji.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/acc/teto_7_lenta.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/acc/teto_7_acc.png",
+      "storage/graphics/sprites/mods/Additional/Teto/pos_7/acc/teto_7_hat.png"
+    ]
+  },
+  {
     "name": "Олеся",
     "modification": "Двое",
     "file": "storage/graphics/sprites/mods/DVA/Olesya/oles_body_front.png",
