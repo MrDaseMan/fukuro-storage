@@ -12310,6 +12310,64 @@
     ]
   },
   {
+    "name": "Евангелина",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/evg/body/evg_1short_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_neutral.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_frown.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_furious.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_rolledeyes.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_playful.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_cry.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_closedeyes.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_sport.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_kardigan.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_coat.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_pajamas.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_vest.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_top.png"
+    ],
+    "offset": "50% 12%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/evg/accs/evg_1_earrings.png"
+    ]
+  },
+  {
+    "name": "Евангелина",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/evg/body/evg_1mid_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_neutral.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_frown.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_furious.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_rolledeyes.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_playful.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_cry.png",
+      "storage/graphics/sprites/mods/Additional/evg/emotions/evg_1_closedeyes.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_sport.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_kardigan.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_coat.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_pajamas.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_vest.png",
+      "storage/graphics/sprites/mods/Additional/evg/clothes/evg_1_top.png"
+    ],
+    "offset": "50% 12%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/evg/accs/evg_1_earrings.png"
+    ]
+  },
+  {
     "name": "Жрица",
     "modification": "from Over",
     "file": "storage/graphics/sprites/mods/Additional/OverMod/pr/1/pr_1_body.png",
