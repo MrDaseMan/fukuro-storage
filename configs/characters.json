@@ -12310,6 +12310,105 @@
     ]
   },
   {
+    "name": "Алексей",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/alex/body/alex_1hairdown_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_neutral.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_smile.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_frown.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_angry.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_thinking.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_mockery.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_cry.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_scared.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_surprised.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_upset.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_closedeyes.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdown_kosoi.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_shirt.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_shirtblack.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_shirttrousers.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_coat.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_sweater.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_vest.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_trunks.png"
+    ],
+    "offset": "50% 12%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алексей",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/alex/body/alex_1hairdownbang_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_neutral.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_smile.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_frown.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_angry.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_thinking.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_mockery.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_cry.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_scared.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_surprised.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_upset.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_closedeyes.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1hairdownbang_kosoi.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdownbang_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdownbang_shirt.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdownbang_shirtblack.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdownbang_shirttrousers.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdownbang_coat.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdownbang_sweater.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_vest.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_trunks.png"
+    ],
+    "offset": "50% 12%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алексей",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/alex/body/alex_1ponytail_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_neutral.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_smile.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_frown.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_angry.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_thinking.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_mockery.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_cry.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_scared.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_surprised.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_upset.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_closedeyes.png",
+      "storage/graphics/sprites/mods/Additional/alex/emotions/alex_1ponytail_kosoi.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1ponytail_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1ponytail_shirt.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1ponytail_shirtblack.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1ponytail_shirttrousers.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1ponytail_coat.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1ponytail_sweater.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_vest.png",
+      "storage/graphics/sprites/mods/Additional/alex/clothes/alex_1hairdown_trunks.png"
+    ],
+    "offset": "50% 12%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Евангелина",
     "modification": "Сообщество",
     "file": "storage/graphics/sprites/mods/Additional/evg/body/evg_1short_body.png",
