@@ -13590,20 +13590,20 @@
     ]
   },
   {
-    "name": "EoS al",
+    "name": "Алекс EoS",
     "modification": "Элемент системы",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Element_of_System/al_1_normal.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_cry.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_laugh.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_rage.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_sad.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_smile.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_1_surp.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_laugh.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_rage.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_sad.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_smile.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_surp.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/Element_of_System/al_1_body.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_1_body.png"
     ],
     "offset": "50% 23%",
     "accessories": [
@@ -13611,22 +13611,142 @@
     ]
   },
   {
-    "name": "EoS al",
+    "name": "Алекс EoS",
     "modification": "Элемент системы",
     "file": "storage/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/Element_of_System/al_2_normal.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_cry.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_laugh.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_rage.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_sad.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_smile.png",
-      "storage/graphics/sprites/mods/Element_of_System/al_2_surp.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_laugh.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_rage.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_sad.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_smile.png",
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_surp.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/Element_of_System/al_2_body.png"
+      "storage/graphics/sprites/mods/Element_of_System/Alex/al_2_body.png"
     ],
     "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ульяна EoS",
+    "modification": "Элемент системы",
+    "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_angry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_blatantnaivety.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_confusion.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_crazy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_eeriecalm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_embarrassment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_exasperation.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_flirt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_fright.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_happy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_interest.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_playful.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resentment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resolved.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_restraint.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_sarcasm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_shock.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smart.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile1.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile2.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_surprise.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_wry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/1/aus_1_pioneer.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/1/aus_1_sport.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/1/aus_1_dress.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/1/aus_1_swim.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/1/aus_1_underwear.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ульяна EoS",
+    "modification": "Элемент системы",
+    "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_angry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_blatantnaivety.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_confusion.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_crazy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_eeriecalm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_embarrassment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_exasperation.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_flirt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_fright.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_happy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_interest.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_playful.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resentment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resolved.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_restraint.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_sarcasm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_shock.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smart.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile1.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile2.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_surprise.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_wry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/2/aus_2_pioneer.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/2/aus_2_sport.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/2/aus_2_dress.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/2/aus_2_swim.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/2/aus_2_underwear.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Ульяна EoS",
+    "modification": "Элемент системы",
+    "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_abashment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_amorous.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_bashfulness.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_embarrassment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_flirt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_fluster.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_fright.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_happy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_hurt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_interest.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_sad.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_shame.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_shock.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_smile.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_surprise.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/3/aus_3_pioneer.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/3/aus_3_sport.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/3/aus_3_dress.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/3/aus_3_swim.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/3/aus_3_underwear.png"
+    ],
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -20556,6 +20676,114 @@
       "storage/graphics/sprites/wt/Rebirth/ann/2/clothes/ann_2_coat.png"
     ],
     "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "wt_Ульяна EoS",
+    "modification": "Элемент системы",
+    "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_angry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_blatantnaivety.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_confusion.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_crazy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_eeriecalm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_embarrassment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_exasperation.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_flirt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_fright.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_happy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_interest.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_playful.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resentment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resolved.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_restraint.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_sarcasm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_shock.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smart.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile1.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile2.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_surprise.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_wry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/1/aus_1_winter.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "wt_Ульяна EoS",
+    "modification": "Элемент системы",
+    "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_amorous.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_angry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_blatantnaivety.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_confusion.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_crazy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_eeriecalm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_embarrassment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_exasperation.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_flirt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_fright.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_happy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_interest.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_normal.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_playful.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resentment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_resolved.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_restraint.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_sarcasm.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_shock.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smart.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile1.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_smile2.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_surprise.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/1_2/aus_1_wry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/2/aus_2_winter.png"
+    ],
+    "offset": "50% 30%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "wt_Ульяна EoS",
+    "modification": "Элемент системы",
+    "file": "storage/graphics/sprites/mods/Element_of_System/Ulyana/body/aus_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_abashment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_amorous.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_bashfulness.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_cry.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_embarrassment.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_flirt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_fluster.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_fright.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_happy.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_hurt.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_interest.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_sad.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_shame.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_shock.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_smile.png",
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/emo/3/aus_3_surprise.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Element_of_System/Ulyana/clothes/3/aus_3_winter.png"
+    ],
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
