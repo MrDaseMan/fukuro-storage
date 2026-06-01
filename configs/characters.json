@@ -19189,6 +19189,309 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
+    },
+  {
+	"name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_1/pose/kamade_lh_1_body_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/angry-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/shock.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/wonder-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_1/pose/kamade_lh_2_body_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/angry-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/shock.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/wonder-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_1/pose/kamade_sh_1_body_1.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/angry-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/shock.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/wonder-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_1/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+   },
+   {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_2/pose/kamade_lh_1_body_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/shock-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/shock-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/wonder-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/question.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+	},
+   {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_2/pose/kamade_lh_2_body_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/shock-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/shock-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/wonder-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/question.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+	},
+   {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_2/pose/kamade_sh_1_body_2.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/shock-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/shock-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/wonder-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/question.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_2/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+   },
+   {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_3/pose/kamade_lh_1_body_3.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/shock-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/shock-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/wonder-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/question.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_3/pose/kamade_lh_2_body_3.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/shock-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/shock-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/wonder-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/question.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+      "name": "Камадэ",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/Kamade/Body_3/pose/kamade_sh_1_body_3.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/angry-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/embarrassment-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/embarrassment-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/normal.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/pain.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/sad-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/sad-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/shock-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/shock-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-1.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-2.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/smile-3.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/wonder-1.png",
+	  "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/question.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/emo/wonder-2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/bathrobe.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/cardigan.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/coat.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/pioner.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/sweater.png",
+      "storage/graphics/sprites/mods/Additional/Kamde/Body_3/clothes/uniform.png"
+	],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
   },
   {
     "name": "wt_СССР-тян",
