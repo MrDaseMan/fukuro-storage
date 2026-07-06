@@ -7074,6 +7074,7 @@
       "storage/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress.png",
       "storage/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress2.png",
       "storage/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress3.png",
+      "storage/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_dress4.png",
       "storage/graphics/sprites/mods/BLPI/kr/1/clothes/kr_1_yukata.png"
     ],
     "offset": "50% 23%",
@@ -7113,6 +7114,7 @@
       "NONE",
       "NONE",
       "storage/graphics/sprites/mods/BLPI/kr/2/clothes/kr_2_dress3.png",
+      "storage/graphics/sprites/mods/BLPI/kr/1/clothes/kr_2_dress4.png",
       "NONE"
     ],
     "offset": "50% 23%",
@@ -7149,6 +7151,7 @@
       "NONE",
       "NONE",
       "storage/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_dress3.png",
+      "storage/graphics/sprites/mods/BLPI/kr/3/clothes/kr_3_dress4.png",
       "NONE"
     ],
     "offset": "50% 23%",
@@ -7198,6 +7201,7 @@
       "NONE",
       "NONE",
       "storage/graphics/sprites/mods/BLPI/kr/4/clothes/kr_4_dress3.png",
+      "storage/graphics/sprites/mods/BLPI/kr/3/clothes/kr_4_dress4.png",
       "NONE"
     ],
     "offset": "50% 23%",
