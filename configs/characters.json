@@ -15520,8 +15520,6 @@
     "file": "storage/graphics/sprites/mods/Additional/Hitch/hi_1_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Additional/Hitch/hi_1_normal.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_smile.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_shy.png",
       "storage/graphics/sprites/mods/Additional/Hitch/hi_1_angry.png"
     ],
     "clothes": [
@@ -15540,34 +15538,12 @@
     "file": "storage/graphics/sprites/mods/Additional/Hitch/hi_2_body.png",
     "emotions": [
       "storage/graphics/sprites/mods/Additional/Hitch/hi_1_normal.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_smile.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_shy.png",
       "storage/graphics/sprites/mods/Additional/Hitch/hi_1_angry.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Additional/Hitch/hi_2_pioner.png",
       "storage/graphics/sprites/mods/Additional/Hitch/hi_2_sport.png",
       "storage/graphics/sprites/mods/Additional/Hitch/hi_2_swim.png"
-    ],
-    "offset": "50% 23%",
-    "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
-    ]
-  },
-  {
-    "name": "Хитч",
-    "modification": "Сообщество",
-    "file": "storage/graphics/sprites/mods/Additional/Hitch/hi_3_body.png",
-    "emotions": [
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_normal.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_smile.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_shy.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_1_angry.png"
-    ],
-    "clothes": [
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_3_pioner.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_3_sport.png",
-      "storage/graphics/sprites/mods/Additional/Hitch/hi_3_swim.png"
     ],
     "offset": "50% 23%",
     "accessories": [
