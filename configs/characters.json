@@ -18609,7 +18609,7 @@
     ]
   },
   {
-    "name": "Эвелина",
+    "name": "Элеонора",
     "modification": "Сообщество",
     "file": "storage/graphics/sprites/mods/Additional/Evelyn/1/evel_body_1.png",
     "emotions": [
@@ -18636,7 +18636,7 @@
     ]
   },
   {
-    "name": "Эвелина",
+    "name": "Элеонора",
     "modification": "Сообщество",
     "file": "storage/graphics/sprites/mods/Additional/Evelyn/2/evel_body_2.png",
     "emotions": [
@@ -18696,7 +18696,7 @@
       "storage/graphics/sprites/mods/Additional/Teto/pos_1/clothes/teto_1_suit.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_1/clothes/teto_1_swimsuit.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/mods/Additional/Teto/pos_1/acc/teto_1_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_1/acc/teto_1_lenta.png",
@@ -18738,7 +18738,7 @@
       "storage/graphics/sprites/mods/Additional/Teto/pos_2/clothes/teto_2_suit.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_2/clothes/teto_2_swimsuit.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/mods/Additional/Teto/pos_2/acc/teto_2_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_2/acc/teto_2_lenta.png",
@@ -18780,7 +18780,7 @@
       "storage/graphics/sprites/mods/Additional/Teto/pos_3/clothes/teto_3_suit.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_3/clothes/teto_3_swimsuit.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_lenta.png",
@@ -18822,7 +18822,7 @@
       "storage/graphics/sprites/mods/Additional/Teto/pos_4/clothes/teto_4_suit.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_4/clothes/teto_4_swimsuit.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/mods/Additional/Teto/pos_4/acc/teto_4_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_4/acc/teto_4_lenta.png",
@@ -18864,7 +18864,7 @@
       "storage/graphics/sprites/mods/Additional/Teto/pos_5/clothes/teto_5_suit.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_5/clothes/teto_5_swimsuit.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/mods/Additional/Teto/pos_5/acc/teto_5_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_5/acc/teto_5_lenta.png",
@@ -18906,7 +18906,7 @@
       "storage/graphics/sprites/mods/Additional/Teto/pos_6/clothes/teto_6_suit.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_6/clothes/teto_6_swimsuit.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/mods/Additional/Teto/pos_6/acc/teto_6_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_6/acc/teto_6_lenta.png",
@@ -18948,7 +18948,7 @@
       "storage/graphics/sprites/mods/Additional/Teto/pos_7/clothes/teto_7_suit.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_7/clothes/teto_7_swimsuit.png"
     ],
-    "offset": "50% 25%",
+    "offset": "50% 30%",
     "accessories": [
       "storage/graphics/sprites/mods/Additional/Teto/pos_7/acc/teto_7_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_7/acc/teto_7_lenta.png",
