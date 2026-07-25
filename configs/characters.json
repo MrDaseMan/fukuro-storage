@@ -18784,7 +18784,7 @@
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_kanji.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_lenta.png",
       "storage/graphics/sprites/mods/Additional/Teto/pos_3/acc/teto_3_acc.png",
