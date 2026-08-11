@@ -6520,14 +6520,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dark.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_police.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dark.png"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/acc/ev_1_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/acc/ev_1_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
@@ -6553,14 +6550,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata.png",
-      "NONE",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_police.png"
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/acc/ev_2_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/acc/ev_2_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
@@ -6611,16 +6605,12 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata.png",
-      "NONE",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_police.png"
+      "NONE"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/acc/ev_3_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/acc/ev_3_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
-	
   },
   {
     "name": "БЛПИ ev",
@@ -6662,14 +6652,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_kare_police.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/acc/ev_1_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/acc/ev_1_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
@@ -6694,14 +6681,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_kare.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_kare_police.png"
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_kare.png"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/acc/ev_2_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/acc/ev_2_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
@@ -6751,14 +6735,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_kare.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_kare_police.png"
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_kare.png"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/acc/ev_3_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/acc/ev_3_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
@@ -6801,14 +6782,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_tail_police.png"
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/acc/ev_1_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/1/acc/ev_1_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
@@ -6833,14 +6811,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_tail.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_tail_police.png"
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_tail.png"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/acc/ev_2_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/2/acc/ev_2_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
@@ -6890,14 +6865,11 @@
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
-      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_tail.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_tail_police.png"
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_tail.png"
     ],
     "offset": "50% 30%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/acc/ev_3_pilotka_mvd.png",
-	  "storage/graphics/sprites/mods/BLPI/ev/3/acc/ev_3_pilotka_vlksm.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
